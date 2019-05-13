@@ -1,0 +1,188 @@
+2018-10-11 08:43:21,071 INFO OmegaLex start
+2018-10-11 08:43:25,275 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 08:43:44,578 INFO (andreab) SELECT Lemma afolar2_aoc_lemma
+2018-10-11 08:43:45,695 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:43:45,703 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 08:43:45,904 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:43:45,908 INFO (andreab) LOCK the lexical entry related to afolar2_aoc_lemma
+2018-10-11 08:43:45,908 INFO (null) DURATA QUERY LEMMA: 1333
+2018-10-11 08:43:49,687 INFO (andreab) NEW Lemma Collocation
+2018-10-11 08:43:54,028 INFO (andreab) UPDATE Lemma name from b to b
+2018-10-11 08:43:54,466 INFO (andreab) UPDATE Lemma name from bell to bell
+2018-10-11 08:43:54,873 INFO (andreab) UPDATE Lemma name from bella to bella
+2018-10-11 08:43:55,340 INFO (andreab) UPDATE Lemma name from bella to bella
+2018-10-11 08:43:55,764 INFO (andreab) UPDATE Lemma name from bella to bella
+2018-10-11 08:43:56,742 INFO (andreab) UPDATE Lemma name from bella  to bella 
+2018-10-11 08:43:58,611 INFO (andreab) UPDATE Lemma name from bella c to bella c
+2018-10-11 08:43:59,051 INFO (andreab) UPDATE Lemma name from bella ciao to bella ciao
+2018-10-11 08:43:59,512 INFO (andreab) UPDATE Lemma name from bella ciao to bella ciao
+2018-10-11 08:43:59,925 INFO (andreab) UPDATE Lemma name from bella ciao to bella ciao
+2018-10-11 08:44:03,598 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-11 08:44:04,137 INFO (andreab) UPDATE Lemma name from ab to ab
+2018-10-11 08:44:04,554 INFO (andreab) UPDATE Lemma name from abe to abe
+2018-10-11 08:44:04,984 INFO (andreab) UPDATE Lemma name from abel to abel
+2018-10-11 08:44:05,431 INFO (andreab) UPDATE Lemma name from abelha  to abelha 
+2018-10-11 08:44:05,897 INFO (andreab) UPDATE Lemma name from abelha ama to abelha ama
+2018-10-11 08:44:06,336 INFO (andreab) UPDATE Lemma name from abelha amara to abelha amara
+2018-10-11 08:44:06,757 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:07,520 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:07,960 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:08,392 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:08,819 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:09,267 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:09,731 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:10,150 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:10,571 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 08:44:18,588 INFO (andreab) UPDATE Lemma language of abelha amaranto to aoc
+2018-10-11 08:44:30,386 INFO (andreab) UPDATE Lemma Part-of-Speech of abelha amaranto to adjective
+2018-10-11 08:44:34,464 INFO (andreab) UPDATE Lemma Part-of-Speech of abelha amaranto to 
+2018-10-11 08:44:37,097 INFO (andreab) UPDATE Lemma Part-of-Speech of abelha amaranto to fusedPrepositionDeterminer
+2018-10-11 08:44:42,970 INFO (andreab) UPDATE Lemma Part-of-Speech of abelha amaranto to noun
+2018-10-11 08:44:48,897 INFO (andreab) UPDATE Lemma Part-of-Speech of abelha amaranto to adjective
+2018-10-11 08:44:50,378 INFO (andreab) SAVE new Multiword and its default sense abelha amaranto
+2018-10-11 08:44:53,480 INFO (andreab) LOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 08:45:19,149 INFO (andreab) ADD empty Form box
+2018-10-11 08:45:25,176 INFO (andreab) UPDATE Form name from a to a
+2018-10-11 08:45:25,619 INFO (andreab) UPDATE Form name from abe to abe
+2018-10-11 08:45:26,081 INFO (andreab) UPDATE Form name from abel to abel
+2018-10-11 08:45:26,511 INFO (andreab) UPDATE Form name from abelha to abelha
+2018-10-11 08:45:26,946 INFO (andreab) UPDATE Form name from abelha  to abelha 
+2018-10-11 08:45:27,377 INFO (andreab) UPDATE Form name from abelha  to abelha 
+2018-10-11 08:45:27,820 INFO (andreab) UPDATE Form name from abelha  to abelha 
+2018-10-11 08:45:28,448 INFO (andreab) UPDATE Form name from abelha m to abelha m
+2018-10-11 08:45:28,887 INFO (andreab) UPDATE Form name from abelha mar to abelha mar
+2018-10-11 08:45:29,316 INFO (andreab) UPDATE Form name from abelha maroo to abelha maroo
+2018-10-11 08:45:29,736 INFO (andreab) UPDATE Form name from abelha maroon to abelha maroon
+2018-10-11 08:45:30,203 INFO (andreab) UPDATE Form name from abelha maroon to abelha maroon
+2018-10-11 08:45:30,653 INFO (andreab) UPDATE Form name from abelha maroon to abelha maroon
+2018-10-11 08:45:32,364 INFO (andreab) UPDATE Form name from abelha maroon to abelha maroon
+2018-10-11 08:45:32,407 INFO (andreab) SAVE new Form abelha maroon
+2018-10-11 08:45:47,684 INFO (andreab) UPDATE Form alphabetical type of abelha maroon to true
+2018-10-11 08:45:48,758 INFO (andreab) SAVE updated Form abelha maroon
+2018-10-11 08:46:04,939 INFO (andreab) ADD empty reference (seeAlso) to lemma abelha amaranto
+2018-10-11 08:46:07,886 INFO (andreab) ADD empty bilingual variant to lemma abelha amaranto
+2018-10-11 08:46:13,020 INFO (andreab) ADD Reference (seeAlso) abelha@aoc to the Lemma abelha amaranto
+2018-10-11 08:46:33,633 INFO (andreab) UPDATE Multiword Lemma abelha amaranto
+2018-10-11 08:46:43,307 INFO (andreab) REMOVE bilingual  empty bilingual from abelha amaranto
+2018-10-11 08:47:00,710 INFO (andreab) ADD empty bilingual variant to lemma abelha amaranto
+2018-10-11 08:47:30,431 INFO (andreab) REMOVE bilingual  empty bilingual from abelha amaranto
+2018-10-11 08:47:41,461 INFO (andreab) ADD empty Internal Documentation to lemma abelha amaranto
+2018-10-11 08:47:55,068 INFO (andreab) SAVE new internal attestation (id DB: 65536) of abelha amaranto
+2018-10-11 08:48:00,638 INFO (andreab) UPDATE Internal attestation of abelha amaranto
+2018-10-11 08:48:07,420 INFO (andreab) VIEW Deatils of abelha by See Also relation of Lemma abelha amaranto
+2018-10-11 08:48:08,411 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:48:08,416 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:48:08,613 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:48:08,613 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:48:27,359 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:48:38,196 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-11 08:48:39,189 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:48:39,194 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:48:39,388 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:48:39,388 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:48:39,388 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:48:39,388 INFO (null) DURATA QUERY LEMMA: 1194
+2018-10-11 08:49:11,656 INFO (andreab) RESET Lemma Search Filter 
+2018-10-11 08:49:52,459 INFO (andreab) UPDATE Internal attestation of abelha
+2018-10-11 08:50:01,318 INFO (andreab) All resources released 
+2018-10-11 08:50:01,318 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 08:56:30,312 INFO OmegaLex start
+2018-10-11 08:56:34,348 INFO OmegaLex start
+2018-10-11 08:56:40,718 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 08:56:58,218 INFO (andreab) SELECT Lemma aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:56:59,192 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 08:56:59,379 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 08:56:59,382 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:56:59,382 INFO (null) DURATA QUERY LEMMA: 1167
+2018-10-11 08:57:05,619 INFO (andreab) ADD empty synonym relation to aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:57:33,325 INFO (andreab) ADD Sense abelha_aoc_sense1@aoc as synonym of the sense aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:57:35,667 INFO (andreab) SAVE Sense aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:57:41,194 INFO (andreab) SELECT Lemma aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:42,164 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 08:57:42,355 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 08:57:42,355 INFO (andreab) UNLOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:42,356 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:42,356 INFO (null) DURATA QUERY LEMMA: 1165
+2018-10-11 08:57:44,469 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-11 08:57:45,411 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:57:45,417 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:57:45,602 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:57:45,603 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:57:45,603 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 08:57:45,603 INFO (null) DURATA QUERY LEMMA: 1136
+2018-10-11 08:57:51,130 INFO (andreab) SELECT Lemma aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:52,105 INFO (null) DURATA QUERY FORMA: 1
+2018-10-11 08:57:52,296 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:57:52,297 INFO (andreab) UNLOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:52,297 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:57:52,297 INFO (null) DURATA QUERY LEMMA: 1169
+2018-10-11 08:58:00,341 INFO (andreab) ADD empty englishTranslation relation to aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:58:07,668 INFO (andreab) ADD Sense acacia_en_sense1@en as englishTranslation of the sense aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:58:09,850 INFO (andreab) SAVE Sense aaaaaaaaaaaaa_aoc_sense1
+2018-10-11 08:58:13,501 INFO (andreab) SELECT Lemma aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:58:14,435 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 08:58:14,617 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:58:14,617 INFO (andreab) UNLOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:58:14,617 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-11 08:58:14,617 INFO (null) DURATA QUERY LEMMA: 1117
+2018-10-11 08:58:32,016 INFO (andreab) LOAD lexicon en
+2018-10-11 08:58:36,448 INFO (andreab) SELECT Lemma acacia_en_lemma
+2018-10-11 08:58:37,569 INFO (null) DURATA QUERY SENSO: 1
+2018-10-11 08:58:37,570 INFO (andreab) UNLOCK the lexical entry related to acacia_en_lemma
+2018-10-11 08:58:37,570 INFO (andreab) LOCK the lexical entry related to acacia_en_lemma
+2018-10-11 08:58:37,570 INFO (null) DURATA QUERY LEMMA: 1125
+2018-10-11 08:58:53,860 INFO (andreab) LOAD lexicon aoc
+2018-10-11 08:59:15,785 INFO (andreab) All resources released 
+2018-10-11 08:59:15,785 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 09:00:26,481 INFO OmegaLex start
+2018-10-11 09:00:32,925 INFO OmegaLex start
+2018-10-11 09:01:11,751 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 09:02:17,123 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-10-11 09:02:18,230 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:18,237 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:18,244 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:18,250 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:18,256 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:18,459 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 09:02:18,464 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-10-11 09:02:18,464 INFO (null) DURATA QUERY LEMMA: 1343
+2018-10-11 09:02:22,428 INFO (andreab) SELECT Lemma abelha_amaranto_aoc_lemma
+2018-10-11 09:02:23,309 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:02:23,510 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 09:02:23,510 INFO (andreab) UNLOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 09:02:23,510 INFO (andreab) LOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 09:02:23,510 INFO (null) DURATA QUERY LEMMA: 1084
+2018-10-11 09:02:25,989 INFO (andreab) ADD empty synonym relation to abelha_amaranto_aoc_sense1
+2018-10-11 09:02:32,116 INFO (andreab) ADD Sense accus_lat_sense1@lat as synonym of the sense abelha_amaranto_aoc_sense1
+2018-10-11 09:02:33,505 INFO (andreab) SAVE Sense abelha_amaranto_aoc_sense1
+2018-10-11 09:05:35,066 INFO (andreab) All resources released 
+2018-10-11 09:05:35,066 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 09:05:38,395 INFO OmegaLex start
+2018-10-11 09:06:37,930 INFO OmegaLex start
+2018-10-11 09:06:47,894 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-11 09:08:15,792 INFO (andreab) SELECT Lemma abelha_amaranto_aoc_lemma
+2018-10-11 09:08:16,839 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:08:17,046 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 09:08:17,054 INFO (andreab) LOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 09:08:17,054 INFO (null) DURATA QUERY LEMMA: 1265
+2018-10-11 09:10:09,650 INFO (andreab) ADD empty correspondence relation to abelha_amaranto_aoc_sense1
+2018-10-11 09:10:13,569 INFO (andreab) ADD Sense abelha_aoc_sense1@aoc as correspondence of the sense abelha_amaranto_aoc_sense1
+2018-10-11 09:10:14,671 INFO (andreab) SAVE Sense abelha_amaranto_aoc_sense1
+2018-10-11 09:16:37,864 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 09:16:38,422 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 09:16:38,972 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 09:16:39,483 INFO (andreab) UPDATE Lemma name from abelha amaranto to abelha amaranto
+2018-10-11 09:16:47,663 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-11 09:16:48,738 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:16:48,744 INFO (null) DURATA QUERY FORMA: 2
+2018-10-11 09:16:48,958 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 09:16:48,959 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 09:16:48,959 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-11 09:16:48,959 INFO (null) DURATA QUERY LEMMA: 1299
+2018-10-11 09:16:55,079 INFO (andreab) VIEW Deatils of the abelha_amaranto_aoc_sense1 correspondence of abelha_aoc_sense1
+2018-10-11 09:16:56,228 INFO (null) DURATA QUERY FORMA: 3
+2018-10-11 09:16:56,449 INFO (null) DURATA QUERY SENSO: 2
+2018-10-11 09:16:56,449 INFO (andreab) LOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 09:17:04,685 INFO (andreab) UNLOCK the lexical entry related to abelha_amaranto_aoc_lemma
+2018-10-11 09:17:42,694 INFO (andreab) All resources released 
+2018-10-11 09:17:42,694 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

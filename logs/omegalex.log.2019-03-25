@@ -1,0 +1,213 @@
+2019-03-25 08:17:57,682 INFO OmegaLex start
+2019-03-25 08:18:03,270 INFO (andreab) navigate to lexicon editor
+2019-03-25 08:18:24,892 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:18:24,896 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:18:24,900 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:18:24,904 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:18:25,178 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 08:18:25,180 INFO (andreab) LOCK the lexical entry related to acorus2_aoc_lemma
+2019-03-25 08:18:25,180 INFO (null) DURATA QUERY LEMMA: 1768
+2019-03-25 08:18:47,257 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:18:47,260 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 08:18:47,545 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 08:18:47,547 INFO (andreab) UNLOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:18:47,548 INFO (andreab) LOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:18:47,548 INFO (null) DURATA QUERY LEMMA: 1764
+2019-03-25 08:25:14,651 INFO OmegaLex start
+2019-03-25 08:25:20,602 INFO OmegaLex start
+2019-03-25 08:25:54,178 INFO (andreab) navigate to lexicon editor
+2019-03-25 08:26:08,026 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:26:08,031 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:26:08,343 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 08:26:08,346 INFO (andreab) LOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:26:08,346 INFO (null) DURATA QUERY LEMMA: 1792
+2019-03-25 08:27:25,009 INFO (andreab) navigate to lexicon editor
+2019-03-25 08:27:33,697 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 08:27:33,701 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:27:33,976 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 08:27:33,978 INFO (andreab) UNLOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:27:33,978 INFO (andreab) LOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:27:33,978 INFO (null) DURATA QUERY LEMMA: 1719
+2019-03-25 08:27:58,090 INFO (andreab) UPDATE Sense scientific name of sense acorus3_aoc_sense1 in a kind of medical flower
+2019-03-25 08:27:58,172 INFO (andreab) UPDATE Sense scientific name of sense acorus3_aoc_sense1 in a kind of medical flower
+2019-03-25 08:47:41,226 INFO OmegaLex start
+2019-03-25 08:47:46,800 INFO (andreab) navigate to lexicon editor
+2019-03-25 08:48:03,985 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 08:48:03,989 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:48:04,272 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 08:48:04,275 INFO (andreab) LOCK the lexical entry related to acorus3_aoc_lemma
+2019-03-25 08:48:04,275 INFO (null) DURATA QUERY LEMMA: 1844
+2019-03-25 08:48:08,023 INFO (andreab) UPDATE Lemma name from acorus to acorus
+2019-03-25 08:48:10,766 INFO (andreab) UPDATE Lemma name from acorus to acorus
+2019-03-25 08:48:12,090 INFO (andreab) SAVE updated Lemma with renaming from acorus3 to acorus
+2019-03-25 08:48:14,689 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 08:48:22,361 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:48:22,364 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 08:48:22,666 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 08:48:22,668 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 08:48:22,669 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 08:48:22,669 INFO (null) DURATA QUERY LEMMA: 1860
+2019-03-25 08:48:29,296 INFO (andreab) ADD empty ontological reference to acorus_aoc_sense1
+2019-03-25 08:48:43,712 INFO (andreab) UPDATE Sense scientific name of sense acorus_aoc_sense1 in a kind of medical flower
+2019-03-25 08:48:43,767 INFO (andreab) UPDATE Sense scientific name of sense acorus_aoc_sense1 in a kind of medical flower
+2019-03-25 08:52:30,979 INFO OmegaLex start
+2019-03-25 08:52:37,302 INFO (andreab) navigate to lexicon editor
+2019-03-25 08:53:11,565 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 08:53:11,569 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 08:53:11,859 INFO (null) DURATA QUERY SENSO: 3
+2019-03-25 08:53:11,862 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 08:53:11,862 INFO (null) DURATA QUERY LEMMA: 1853
+2019-03-25 08:53:16,099 INFO (andreab) UPDATE Sense scientific name of sense acorus_aoc_sense1 in http://dbpedia.org/resource/Acorus
+2019-03-25 08:53:16,183 INFO (andreab) UPDATE Sense scientific name of sense acorus_aoc_sense1 in http://dbpedia.org/resource/Acorus
+2019-03-25 09:02:12,083 INFO OmegaLex start
+2019-03-25 09:02:16,290 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:02:37,508 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 09:02:37,513 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 09:02:37,802 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 09:02:37,804 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:02:37,805 INFO (null) DURATA QUERY LEMMA: 1883
+2019-03-25 09:08:23,727 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:23,731 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:23,735 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:23,739 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:23,744 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 09:08:24,047 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 09:08:24,050 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2019-03-25 09:08:24,050 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-03-25 09:08:24,051 INFO (null) DURATA QUERY LEMMA: 1836
+2019-03-25 09:08:39,035 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:39,039 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:08:39,347 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:08:39,349 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:08:39,349 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:08:39,349 INFO (null) DURATA QUERY LEMMA: 1835
+2019-03-25 09:10:13,525 INFO (andreab) UPDATE Form number of acori to plural
+2019-03-25 09:13:41,062 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:13:48,858 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:13:48,861 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:13:49,144 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:13:49,146 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:13:49,146 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:13:49,146 INFO (null) DURATA QUERY LEMMA: 1770
+2019-03-25 09:14:00,409 INFO (andreab) UPDATE Form gender of acori to masculine
+2019-03-25 09:14:04,909 INFO (andreab) UPDATE Form number of acori to plural
+2019-03-25 09:15:30,824 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:15:39,759 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:15:39,761 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:15:40,051 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:15:40,053 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:15:40,053 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:15:40,053 INFO (null) DURATA QUERY LEMMA: 1752
+2019-03-25 09:15:47,620 INFO (andreab) UPDATE Form gender of acori to masculine
+2019-03-25 09:15:49,280 INFO (andreab) UPDATE Form number of acori to plural
+2019-03-25 09:17:51,283 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:17:58,877 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:17:58,880 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:17:58,882 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:17:59,167 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:17:59,169 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2019-03-25 09:17:59,169 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2019-03-25 09:17:59,169 INFO (null) DURATA QUERY LEMMA: 1775
+2019-03-25 09:18:03,149 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,152 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,154 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,156 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,158 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,161 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:18:03,164 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:18:03,166 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 09:18:03,451 INFO (null) DURATA QUERY SENSO: 0
+2019-03-25 09:18:03,452 INFO (andreab) UNLOCK the lexical entry related to aganos_aoc_lemma
+2019-03-25 09:18:03,453 INFO (andreab) LOCK the lexical entry related to aganos_aoc_lemma
+2019-03-25 09:18:03,453 INFO (null) DURATA QUERY LEMMA: 1770
+2019-03-25 09:18:07,289 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:18:07,291 INFO (andreab) UNLOCK the lexical entry related to agremat_aoc_lemma
+2019-03-25 09:18:07,291 INFO (andreab) LOCK the lexical entry related to agremat_aoc_lemma
+2019-03-25 09:18:07,291 INFO (null) DURATA QUERY LEMMA: 1835
+2019-03-25 09:19:09,946 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:19:18,575 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:19:18,578 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:19:18,896 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 09:19:18,898 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 09:19:18,898 INFO (null) DURATA QUERY LEMMA: 1812
+2019-03-25 09:37:57,099 INFO OmegaLex start
+2019-03-25 09:38:01,311 INFO (andreab) navigate to lexicon editor
+2019-03-25 09:38:22,199 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 09:38:22,204 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 09:38:22,495 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 09:38:22,497 INFO (andreab) LOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-03-25 09:38:22,498 INFO (null) DURATA QUERY LEMMA: 1555
+2019-03-25 13:06:13,186 INFO OmegaLex start
+2019-03-25 13:06:17,313 INFO (andreab) navigate to lexicon editor
+2019-03-25 13:06:48,938 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 13:06:48,940 INFO (andreab) LOCK the lexical entry related to acassia3_aoc_lemma
+2019-03-25 13:06:48,940 INFO (null) DURATA QUERY LEMMA: 1880
+2019-03-25 13:06:52,022 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 13:06:52,024 INFO (andreab) UNLOCK the lexical entry related to acassia2_aoc_lemma
+2019-03-25 13:06:52,024 INFO (andreab) LOCK the lexical entry related to acassia2_aoc_lemma
+2019-03-25 13:06:52,024 INFO (null) DURATA QUERY LEMMA: 1855
+2019-03-25 13:34:13,240 INFO OmegaLex start
+2019-03-25 13:34:34,933 INFO OmegaLex start
+2019-03-25 13:34:55,483 INFO (andreab) navigate to lexicon editor
+2019-03-25 13:35:32,234 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 13:35:32,239 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 13:35:32,524 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 13:35:32,526 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 13:35:32,526 INFO (null) DURATA QUERY LEMMA: 1821
+2019-03-25 13:41:33,746 INFO OmegaLex start
+2019-03-25 13:41:37,973 INFO OmegaLex start
+2019-03-25 13:41:43,303 INFO (andreab) navigate to lexicon editor
+2019-03-25 13:45:13,643 INFO OmegaLex start
+2019-03-25 13:47:16,493 INFO (andreab) navigate to lexicon editor
+2019-03-25 13:47:33,706 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 13:47:33,713 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 13:47:34,029 INFO (null) DURATA QUERY SENSO: 3
+2019-03-25 13:47:34,031 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 13:47:34,031 INFO (null) DURATA QUERY LEMMA: 1851
+2019-03-25 13:47:39,129 INFO (andreab) NEW External document
+2019-03-25 13:47:41,183 INFO (andreab) UPDATE Document abbreviation of -1 to p
+2019-03-25 13:47:41,338 INFO (andreab) UPDATE Document abbreviation of -1 to pt
+2019-03-25 13:47:41,424 INFO (andreab) UPDATE Document abbreviation of -1 to pto
+2019-03-25 13:47:41,518 INFO (andreab) UPDATE Document abbreviation of -1 to ptov
+2019-03-25 13:47:41,951 INFO (andreab) UPDATE Document abbreviation of -1 to ptova
+2019-03-25 13:47:45,299 INFO (andreab) UPDATE Document type ptova to Book
+2019-03-25 13:47:45,841 INFO (andreab) UPDATE Document title of ptova to a
+2019-03-25 13:47:45,983 INFO (andreab) UPDATE Document title of ptova to aa
+2019-03-25 13:47:46,114 INFO (andreab) UPDATE Document title of ptova to aaa
+2019-03-25 13:47:46,237 INFO (andreab) UPDATE Document title of ptova to aaaa
+2019-03-25 13:47:46,373 INFO (andreab) UPDATE Document title of ptova to aaaaa
+2019-03-25 13:47:46,601 INFO (andreab) SAVE new document ptova
+2019-03-25 13:47:52,271 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 13:47:52,276 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 13:47:52,560 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 13:47:52,562 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 13:47:52,562 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 13:47:52,562 INFO (null) DURATA QUERY LEMMA: 1738
+2019-03-25 13:47:54,654 INFO (andreab) ADD empty External Documentation to lemma abelha
+2019-03-25 13:48:29,759 INFO (andreab) SAVE new external attestation (id DB: 44038) of abelha
+2019-03-25 14:53:12,329 INFO OmegaLex start
+2019-03-25 15:02:24,825 INFO OmegaLex start
+2019-03-25 15:02:29,085 INFO (andreab) navigate to lexicon editor
+2019-03-25 15:02:50,551 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 15:02:50,556 INFO (null) DURATA QUERY FORMA: 4
+2019-03-25 15:02:50,865 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 15:02:50,868 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 15:02:50,868 INFO (null) DURATA QUERY LEMMA: 1840
+2019-03-25 15:03:57,784 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 15:03:57,791 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 15:03:58,076 INFO (null) DURATA QUERY SENSO: 2
+2019-03-25 15:03:58,078 INFO (andreab) UNLOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-03-25 15:03:58,079 INFO (andreab) LOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-03-25 15:03:58,079 INFO (null) DURATA QUERY LEMMA: 1499
+2019-03-25 15:04:12,278 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 15:04:12,284 INFO (null) DURATA QUERY FORMA: 3
+2019-03-25 15:04:12,592 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 15:04:12,594 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 15:04:12,594 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2019-03-25 15:04:12,594 INFO (null) DURATA QUERY LEMMA: 1812
+2019-03-25 15:04:14,824 INFO (null) DURATA QUERY FORMA: 2
+2019-03-25 15:04:14,827 INFO (null) DURATA QUERY FORMA: 1
+2019-03-25 15:04:15,113 INFO (null) DURATA QUERY SENSO: 1
+2019-03-25 15:04:15,114 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 15:04:15,115 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-03-25 15:04:15,115 INFO (null) DURATA QUERY LEMMA: 1771

@@ -1,0 +1,27 @@
+2018-10-09 16:11:23,818 INFO OmegaLex start
+2018-10-09 16:11:27,695 INFO OmegaLex start
+2018-10-09 16:11:32,503 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-09 16:12:19,953 INFO (andreab) SELECT Ontology class: PartiDelCorpo
+2018-10-09 16:12:28,795 INFO (andreab) SELECT Lemma _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-09 16:12:29,514 INFO (null) DURATA QUERY FORMA: 3
+2018-10-09 16:12:29,708 INFO (null) DURATA QUERY SENSO: 10
+2018-10-09 16:12:29,716 INFO (andreab) LOCK the lexical entry related to _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-09 16:12:29,716 INFO (null) DURATA QUERY LEMMA: 923
+2018-10-09 16:12:35,359 INFO (andreab) ADD empty ontological reference to _sharp_OB_lo_CB_mocar_aoc_sense1
+2018-10-09 16:12:39,919 INFO (andreab) ADD ontological reference sanc to the sense _sharp_OB_lo_CB_mocar_aoc_sense1
+2018-10-09 16:12:42,639 INFO (andreab) SAVE Sense _sharp_OB_lo_CB_mocar_aoc_sense1
+2018-10-09 16:12:47,319 INFO (andreab) SELECT Lemma OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-09 16:12:47,935 INFO (null) DURATA QUERY FORMA: 4
+2018-10-09 16:12:48,131 INFO (null) DURATA QUERY SENSO: 1
+2018-10-09 16:12:48,132 INFO (andreab) UNLOCK the lexical entry related to OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-09 16:12:48,132 INFO (andreab) LOCK the lexical entry related to OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-09 16:12:48,132 INFO (null) DURATA QUERY LEMMA: 815
+2018-10-09 16:12:49,010 INFO (andreab) SELECT Lemma _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-09 16:12:49,605 INFO (null) DURATA QUERY FORMA: 2
+2018-10-09 16:12:49,795 INFO (null) DURATA QUERY SENSO: 1
+2018-10-09 16:12:49,796 INFO (andreab) UNLOCK the lexical entry related to _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-09 16:12:49,796 INFO (andreab) LOCK the lexical entry related to _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-09 16:12:49,796 INFO (null) DURATA QUERY LEMMA: 788
+2018-10-09 16:13:07,605 INFO (andreab) EXPORT lexicon only
+2018-10-09 19:13:24,631 INFO (andreab) All resources released 
+2018-10-09 19:13:24,631 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

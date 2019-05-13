@@ -1,0 +1,506 @@
+2018-10-15 12:25:18,493 INFO OmegaLex start
+2018-10-15 12:25:24,545 INFO OmegaLex start
+2018-10-15 12:25:34,639 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 12:26:00,435 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-10-15 12:26:01,574 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 12:26:01,581 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 12:26:01,589 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 12:26:01,804 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 12:26:01,808 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-10-15 12:26:01,808 INFO (null) DURATA QUERY LEMMA: 1377
+2018-10-15 12:26:20,948 INFO (andreab) SELECT Lemma OB_glandolas_CB_sethofiales_aoc_lemma
+2018-10-15 12:26:21,794 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 12:26:21,795 INFO (andreab) UNLOCK the lexical entry related to OB_glandolas_CB_sethofiales_aoc_lemma
+2018-10-15 12:26:21,795 INFO (andreab) LOCK the lexical entry related to OB_glandolas_CB_sethofiales_aoc_lemma
+2018-10-15 12:26:21,795 INFO (null) DURATA QUERY LEMMA: 849
+2018-10-15 12:26:26,118 INFO (andreab) UPDATE Lemma bilingual type of (glandolas) sethofiales to true
+2018-10-15 12:26:27,054 INFO (andreab) UPDATE Lemma bilingual type of (glandolas) sethofiales to false
+2018-10-15 12:26:31,244 INFO (andreab) ADD empty bilingual variant to lemma (glandolas) sethofiales
+2018-10-15 12:30:31,218 INFO (andreab) EXPORT lexicon only
+2018-10-15 13:57:27,006 INFO (andreab) All resources released 
+2018-10-15 13:57:27,006 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 13:57:38,563 INFO OmegaLex start
+2018-10-15 13:57:42,540 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 13:58:12,365 INFO (andreab) SELECT Lemma OB_glandolas_CB_sethofiales_aoc_lemma
+2018-10-15 13:58:13,225 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 13:58:13,230 INFO (andreab) LOCK the lexical entry related to OB_glandolas_CB_sethofiales_aoc_lemma
+2018-10-15 13:58:13,230 INFO (null) DURATA QUERY LEMMA: 868
+2018-10-15 13:58:15,554 INFO (andreab) UPDATE Lemma bilingual type of (glandolas) sethofiales to true
+2018-10-15 13:58:21,081 INFO (andreab) UPDATE Lemma bilingual type of (glandolas) sethofiales to false
+2018-10-15 13:58:25,963 INFO (andreab) SELECT Lemma OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-15 13:58:26,642 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 13:58:26,842 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 13:58:26,842 INFO (andreab) UNLOCK the lexical entry related to OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-15 13:58:26,874 INFO (andreab) LOCK the lexical entry related to OSB_febre_perpedua_CSB_aoc_lemma
+2018-10-15 13:58:26,874 INFO (null) DURATA QUERY LEMMA: 913
+2018-10-15 14:28:54,366 INFO (andreab) All resources released 
+2018-10-15 14:28:54,366 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 14:28:57,965 INFO OmegaLex start
+2018-10-15 14:29:09,849 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 14:36:39,919 INFO (andreab) SELECT Lemma _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-15 14:36:40,628 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 14:36:40,849 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 14:36:40,853 INFO (andreab) LOCK the lexical entry related to _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-10-15 14:36:40,853 INFO (null) DURATA QUERY LEMMA: 937
+2018-10-15 14:36:49,025 INFO (andreab) SELECT Lemma lana_suzolenta_aoc_lemma
+2018-10-15 14:36:49,710 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 14:36:49,720 INFO (null) DURATA QUERY FORMA: 5
+2018-10-15 14:36:49,727 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 14:36:49,733 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 14:36:49,737 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 14:36:49,949 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 14:36:49,949 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:36:49,949 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:36:49,949 INFO (null) DURATA QUERY LEMMA: 926
+2018-10-15 14:36:51,118 INFO (andreab) UPDATE Lemma bilingual type of lana suzolenta to true
+2018-10-15 14:36:52,131 INFO (andreab) UPDATE Multiword Lemma lana suzolenta
+2018-10-15 14:37:03,150 INFO (andreab) SELECT Lemma lana_suzolenta_aoc_lemma
+2018-10-15 14:37:03,797 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:03,803 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:03,809 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:03,814 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 14:37:03,818 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 14:37:04,037 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:37:04,038 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:04,038 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:04,038 INFO (null) DURATA QUERY LEMMA: 890
+2018-10-15 14:37:06,631 INFO (andreab) SELECT Lemma _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:07,273 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:07,485 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:37:07,486 INFO (andreab) UNLOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:07,486 INFO (andreab) LOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:07,486 INFO (null) DURATA QUERY LEMMA: 856
+2018-10-15 14:37:11,557 INFO (andreab) ADD empty bilingual variant to lemma laituga salvage
+2018-10-15 14:37:16,344 INFO (andreab) ADD Bilingual variant lana suzolenta@aoc to the Lemma laituga salvage
+2018-10-15 14:37:18,536 INFO (andreab) UPDATE Multiword Lemma laituga salvage
+2018-10-15 14:37:25,855 INFO (andreab) SELECT Lemma _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:26,471 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:37:26,672 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:37:26,672 INFO (andreab) UNLOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:26,672 INFO (andreab) LOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:37:26,672 INFO (null) DURATA QUERY LEMMA: 819
+2018-10-15 14:37:28,553 INFO (andreab) VIEW Deatils of lana suzolenta by Bilingual relation of Lemma laituga salvage
+2018-10-15 14:37:29,195 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:29,202 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:29,208 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:37:29,211 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:29,214 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:29,436 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:37:29,436 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:53,336 INFO (andreab) SELECT Lemma lana_suzolenta_aoc_lemma
+2018-10-15 14:37:53,955 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:53,958 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:37:53,963 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:37:53,966 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:37:53,968 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:37:54,168 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:37:54,168 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:54,168 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:54,168 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:37:54,168 INFO (null) DURATA QUERY LEMMA: 834
+2018-10-15 14:38:04,245 INFO (andreab) SELECT Lemma _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:04,863 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:05,069 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:05,069 INFO (andreab) UNLOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:05,069 INFO (andreab) LOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:05,069 INFO (null) DURATA QUERY LEMMA: 826
+2018-10-15 14:38:08,362 INFO (andreab) VIEW Deatils of lana suzolenta by Bilingual relation of Lemma laituga salvage
+2018-10-15 14:38:08,990 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:08,994 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:08,997 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:08,999 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:09,001 INFO (null) DURATA QUERY FORMA: 0
+2018-10-15 14:38:09,202 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:09,202 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:17,320 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:19,056 INFO (andreab) SELECT Lemma lana_suzolenta_aoc_lemma
+2018-10-15 14:38:19,705 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:19,709 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:19,713 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:19,715 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:19,718 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:19,927 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:19,927 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:19,927 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:19,927 INFO (null) DURATA QUERY LEMMA: 872
+2018-10-15 14:38:25,201 INFO (andreab) SELECT Lemma _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:25,830 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:26,058 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:26,058 INFO (andreab) UNLOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:26,058 INFO (andreab) LOCK the lexical entry related to _sharp_laituga_salvage_aoc_lemma
+2018-10-15 14:38:26,058 INFO (null) DURATA QUERY LEMMA: 859
+2018-10-15 14:38:28,085 INFO (andreab) VIEW Deatils of lana suzolenta by Bilingual relation of Lemma laituga salvage
+2018-10-15 14:38:28,706 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:28,710 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:28,714 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:28,716 INFO (null) DURATA QUERY FORMA: 0
+2018-10-15 14:38:28,719 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:28,921 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:28,921 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:33,715 INFO (andreab) SELECT Lemma lana_suzolenta_aoc_lemma
+2018-10-15 14:38:34,384 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:34,388 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:34,393 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 14:38:34,395 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:34,398 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:38:34,613 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:38:34,613 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:34,613 INFO (andreab) UNLOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:34,613 INFO (andreab) LOCK the lexical entry related to lana_suzolenta_aoc_lemma
+2018-10-15 14:38:34,613 INFO (null) DURATA QUERY LEMMA: 899
+2018-10-15 14:40:10,448 INFO (andreab) SELECT Lemma lapassi_agut_aoc_lemma
+2018-10-15 14:40:11,255 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:40:11,256 INFO (andreab) UNLOCK the lexical entry related to lapassi_agut_aoc_lemma
+2018-10-15 14:40:11,256 INFO (andreab) LOCK the lexical entry related to lapassi_agut_aoc_lemma
+2018-10-15 14:40:11,256 INFO (null) DURATA QUERY LEMMA: 809
+2018-10-15 14:40:12,460 INFO (andreab) SELECT Lemma _sharp_lapis_aoc_lemma
+2018-10-15 14:40:13,698 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:40:13,698 INFO (andreab) UNLOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 14:40:13,698 INFO (andreab) LOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 14:40:13,698 INFO (null) DURATA QUERY LEMMA: 1239
+2018-10-15 14:40:16,460 INFO (andreab) SELECT Lemma laruga_aoc_lemma
+2018-10-15 14:40:17,523 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:40:17,733 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:40:17,734 INFO (andreab) UNLOCK the lexical entry related to laruga_aoc_lemma
+2018-10-15 14:40:17,734 INFO (andreab) LOCK the lexical entry related to laruga_aoc_lemma
+2018-10-15 14:40:17,734 INFO (null) DURATA QUERY LEMMA: 1276
+2018-10-15 14:40:18,593 INFO (andreab) SELECT Lemma lart_aoc_lemma
+2018-10-15 14:40:19,861 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:40:19,861 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:40:19,861 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:40:19,861 INFO (null) DURATA QUERY LEMMA: 1270
+2018-10-15 14:40:20,936 INFO (andreab) SELECT Lemma lebros_aoc_lemma
+2018-10-15 14:40:21,980 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:40:22,187 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:40:22,188 INFO (andreab) UNLOCK the lexical entry related to lebros_aoc_lemma
+2018-10-15 14:40:22,191 INFO (andreab) LOCK the lexical entry related to lebros_aoc_lemma
+2018-10-15 14:40:22,192 INFO (null) DURATA QUERY LEMMA: 1257
+2018-10-15 14:40:28,839 INFO (andreab) SELECT Lemma _sharp_laz_aoc_lemma
+2018-10-15 14:40:29,879 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:40:29,884 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 14:40:30,098 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:40:30,098 INFO (andreab) UNLOCK the lexical entry related to _sharp_laz_aoc_lemma
+2018-10-15 14:40:30,098 INFO (andreab) LOCK the lexical entry related to _sharp_laz_aoc_lemma
+2018-10-15 14:40:30,098 INFO (null) DURATA QUERY LEMMA: 1260
+2018-10-15 14:40:36,986 INFO (andreab) SELECT Lemma lart_aoc_lemma
+2018-10-15 14:40:38,228 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:40:38,229 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:40:38,229 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:40:38,229 INFO (null) DURATA QUERY LEMMA: 1244
+2018-10-15 14:40:40,640 INFO (andreab) SELECT Lemma _sharp_lapis_aoc_lemma
+2018-10-15 14:40:41,929 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:40:41,929 INFO (andreab) UNLOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 14:40:41,929 INFO (andreab) LOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 14:40:41,929 INFO (null) DURATA QUERY LEMMA: 1291
+2018-10-15 14:40:45,980 INFO (andreab) ADD empty reference (seeAlso) to lemma lapis
+2018-10-15 14:40:52,173 INFO (andreab) ADD Reference (seeAlso) lart@aoc to the Lemma lapis
+2018-10-15 14:40:55,044 INFO (andreab) UPDATE Lemma lapis
+2018-10-15 14:41:02,860 INFO (andreab) VIEW Deatils of lart by See Also relation of Lemma lapis
+2018-10-15 14:41:04,098 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 14:41:04,098 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:41:09,320 INFO (andreab) SELECT Lemma lart_aoc_lemma
+2018-10-15 14:41:10,590 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 14:41:10,591 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:41:10,591 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:41:10,591 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 14:41:10,591 INFO (null) DURATA QUERY LEMMA: 1272
+2018-10-15 14:41:18,360 INFO (andreab) All resources released 
+2018-10-15 14:41:18,360 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 16:59:39,475 INFO OmegaLex start
+2018-10-15 16:59:43,457 INFO OmegaLex start
+2018-10-15 16:59:50,261 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:01:12,341 INFO (andreab) SELECT Lemma lart_aoc_lemma
+2018-10-15 17:01:13,496 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:01:13,497 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 17:01:13,497 INFO (null) DURATA QUERY LEMMA: 1159
+2018-10-15 17:01:18,281 INFO (andreab) SELECT Lemma _sharp_lapis_aoc_lemma
+2018-10-15 17:01:19,394 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:01:19,395 INFO (andreab) UNLOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 17:01:19,395 INFO (andreab) LOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 17:01:19,395 INFO (null) DURATA QUERY LEMMA: 1116
+2018-10-15 17:01:27,472 INFO (andreab) VIEW Deatils of lart by See Also relation of Lemma lapis
+2018-10-15 17:01:28,578 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:01:28,578 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 17:01:44,395 INFO (andreab) UPDATE Lemma number of lart to plural
+2018-10-15 17:02:11,835 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 17:04:52,389 INFO (andreab) All resources released 
+2018-10-15 17:04:52,389 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:04:55,460 INFO OmegaLex start
+2018-10-15 17:06:02,209 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:06:37,071 INFO (andreab) SELECT Lemma _sharp_lapis_aoc_lemma
+2018-10-15 17:06:38,284 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:06:38,285 INFO (andreab) LOCK the lexical entry related to _sharp_lapis_aoc_lemma
+2018-10-15 17:06:38,285 INFO (null) DURATA QUERY LEMMA: 1216
+2018-10-15 17:06:40,035 INFO (andreab) VIEW Deatils of lart by See Also relation of Lemma lapis
+2018-10-15 17:06:41,164 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:06:41,164 INFO (andreab) LOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 17:06:47,925 INFO (andreab) UNLOCK the lexical entry related to lart_aoc_lemma
+2018-10-15 17:06:56,822 INFO (andreab) RESET Lemma Search Filter 
+2018-10-15 17:07:16,501 INFO (andreab) LOAD lexicon aoc
+2018-10-15 17:09:20,794 INFO (andreab) RESET Lemma Search Filter 
+2018-10-15 17:09:26,805 INFO (andreab) SELECT Ontology class: SistemaDeiSensiEDelMovimento
+2018-10-15 17:09:29,624 INFO (andreab) SELECT Ontology class: SistemaNutritivo
+2018-10-15 17:09:30,784 INFO (andreab) SELECT Ontology class: SistemaRiproduttivo
+2018-10-15 17:09:32,851 INFO (andreab) SELECT Ontology class: SistemaRespiratorio
+2018-10-15 17:10:01,843 INFO (andreab) EXPORT lexicon with attestations
+2018-10-15 17:11:11,491 INFO (andreab) LOAD lexicon aoc
+2018-10-15 17:11:42,555 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-15 17:11:43,522 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:11:43,527 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:11:43,708 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:11:43,708 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:11:43,708 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:11:43,708 INFO (null) DURATA QUERY LEMMA: 1157
+2018-10-15 17:12:12,329 INFO (andreab) All resources released 
+2018-10-15 17:12:12,329 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:24:04,475 INFO OmegaLex start
+2018-10-15 17:24:08,501 INFO OmegaLex start
+2018-10-15 17:24:29,652 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:24:45,851 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-15 17:24:46,915 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:24:46,922 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:24:47,099 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:24:47,099 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:24:47,099 INFO (null) DURATA QUERY LEMMA: 1251
+2018-10-15 17:25:06,022 INFO (andreab) SELECT Lemma avelana_aoc_lemma
+2018-10-15 17:25:06,968 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:25:06,975 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:25:06,983 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:06,987 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:06,993 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:06,997 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:07,003 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:07,008 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:07,015 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:07,019 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:25:07,024 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:25:07,210 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:25:07,211 INFO (andreab) UNLOCK the lexical entry related to avelana_aoc_lemma
+2018-10-15 17:25:07,211 INFO (andreab) LOCK the lexical entry related to avelana_aoc_lemma
+2018-10-15 17:25:07,211 INFO (null) DURATA QUERY LEMMA: 1191
+2018-10-15 17:28:15,906 INFO (andreab) All resources released 
+2018-10-15 17:28:15,906 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:28:19,104 INFO OmegaLex start
+2018-10-15 17:28:25,082 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:28:38,766 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-15 17:28:39,842 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:28:39,849 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:28:40,043 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:28:40,043 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:28:40,043 INFO (null) DURATA QUERY LEMMA: 1280
+2018-10-15 17:28:46,407 INFO (andreab) All resources released 
+2018-10-15 17:28:46,407 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:30:20,564 INFO OmegaLex start
+2018-10-15 17:30:33,856 INFO OmegaLex start
+2018-10-15 17:30:38,318 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:30:52,733 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-15 17:30:53,760 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:30:53,769 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:30:53,959 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:30:53,960 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:30:53,960 INFO (null) DURATA QUERY LEMMA: 1231
+2018-10-15 17:31:18,196 INFO (andreab) All resources released 
+2018-10-15 17:31:18,196 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:31:21,136 INFO OmegaLex start
+2018-10-15 17:31:33,260 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:31:41,555 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-15 17:31:42,623 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:31:42,629 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:31:42,815 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:31:42,816 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-15 17:31:42,819 INFO (null) DURATA QUERY LEMMA: 1267
+2018-10-15 17:32:04,825 INFO (andreab) All resources released 
+2018-10-15 17:32:04,825 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:32:07,915 INFO OmegaLex start
+2018-10-15 17:32:24,268 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:32:34,098 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:32:35,163 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:32:35,170 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:32:35,174 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:32:35,180 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:32:35,185 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:32:35,188 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,192 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,197 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,201 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,205 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,209 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,213 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,219 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,223 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,226 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,231 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,242 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,245 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:32:35,249 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:32:35,432 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:32:35,433 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:32:35,433 INFO (null) DURATA QUERY LEMMA: 1338
+2018-10-15 17:45:25,579 INFO (andreab) All resources released 
+2018-10-15 17:45:25,579 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:50:23,005 INFO OmegaLex start
+2018-10-15 17:50:26,840 INFO OmegaLex start
+2018-10-15 17:50:30,540 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:50:44,274 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:50:45,291 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:50:45,298 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:50:45,303 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:50:45,310 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:50:45,316 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:50:45,321 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,324 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,330 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,335 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,340 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,345 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,348 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,352 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,355 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,359 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,364 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,374 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,378 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:50:45,382 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:50:45,571 INFO (null) DURATA QUERY SENSO: 2
+2018-10-15 17:50:45,572 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:50:45,572 INFO (null) DURATA QUERY LEMMA: 1301
+2018-10-15 17:51:55,992 INFO (andreab) All resources released 
+2018-10-15 17:51:55,992 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:51:59,528 INFO OmegaLex start
+2018-10-15 17:52:21,907 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:52:30,932 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:52:31,880 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:52:31,888 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:52:31,893 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:52:31,899 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:52:31,903 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,907 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,911 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,917 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,922 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,926 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,930 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:52:31,934 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,937 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,941 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,945 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,949 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,959 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:52:31,962 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:52:31,968 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:52:32,172 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:52:32,173 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:52:32,173 INFO (null) DURATA QUERY LEMMA: 1244
+2018-10-15 17:53:05,816 INFO (andreab) All resources released 
+2018-10-15 17:53:05,817 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:53:08,866 INFO OmegaLex start
+2018-10-15 17:53:53,430 INFO OmegaLex start
+2018-10-15 17:54:01,817 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:54:14,323 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:54:15,372 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,379 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,383 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,389 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,393 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,397 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:54:15,400 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,406 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,410 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,416 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,422 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,426 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,430 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,435 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,440 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,446 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:15,460 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,464 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,469 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:15,678 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:54:15,679 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:54:15,680 INFO (null) DURATA QUERY LEMMA: 1360
+2018-10-15 17:54:31,978 INFO (andreab) All resources released 
+2018-10-15 17:54:31,978 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:54:34,828 INFO OmegaLex start
+2018-10-15 17:54:50,156 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:54:57,589 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:54:58,666 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:58,672 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,677 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:58,683 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,687 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:58,691 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,695 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,702 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,707 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,710 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,714 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,718 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,721 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,724 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,728 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,733 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,745 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:54:58,749 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:54:58,753 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:54:58,963 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:54:58,965 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:54:58,965 INFO (null) DURATA QUERY LEMMA: 1378
+2018-10-15 17:55:27,190 INFO (andreab) All resources released 
+2018-10-15 17:55:27,190 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:55:30,023 INFO OmegaLex start
+2018-10-15 17:55:48,835 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-15 17:55:59,858 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:56:00,883 INFO (null) DURATA QUERY FORMA: 4
+2018-10-15 17:56:00,890 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:56:00,894 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:56:00,900 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:56:00,904 INFO (null) DURATA QUERY FORMA: 3
+2018-10-15 17:56:00,907 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,911 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,916 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,921 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,924 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:00,929 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,932 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,936 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,940 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,944 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:00,949 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,960 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:00,964 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:00,968 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:01,161 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:56:01,162 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:56:01,162 INFO (null) DURATA QUERY LEMMA: 1306
+2018-10-15 17:56:05,746 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-10-15 17:56:06,911 INFO (null) DURATA QUERY SENSO: 1
+2018-10-15 17:56:06,911 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-10-15 17:56:06,911 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-10-15 17:56:06,911 INFO (null) DURATA QUERY LEMMA: 1168
+2018-10-15 17:56:13,420 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-15 17:56:14,387 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:14,391 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,394 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,399 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:14,401 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,404 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,407 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,411 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,415 INFO (null) DURATA QUERY FORMA: 2
+2018-10-15 17:56:14,417 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,421 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,424 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,427 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,430 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,432 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,436 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,445 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,447 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,451 INFO (null) DURATA QUERY FORMA: 1
+2018-10-15 17:56:14,640 INFO (null) DURATA QUERY SENSO: 0
+2018-10-15 17:56:14,641 INFO (andreab) UNLOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:56:14,641 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-15 17:56:14,641 INFO (null) DURATA QUERY LEMMA: 1223
+2018-10-15 18:00:28,988 INFO (andreab) All resources released 
+2018-10-15 18:00:28,988 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

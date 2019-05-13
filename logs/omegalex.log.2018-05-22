@@ -1,0 +1,33 @@
+2018-05-22 08:55:52,511 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 08:55:59,318 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-05-22 08:56:00,365 INFO (null) DURATA QUERY FORMA: 2
+2018-05-22 08:56:00,369 INFO (null) DURATA QUERY FORMA: 3
+2018-05-22 08:56:00,562 INFO (null) DURATA QUERY SENSO: 2
+2018-05-22 08:56:00,568 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-05-22 08:56:00,568 INFO (null) DURATA QUERY LEMMA: 1251
+2018-05-22 09:00:09,137 INFO (andreab) All resources released 
+2018-05-22 09:00:09,137 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 10:11:21,202 INFO OmegaLex start
+2018-05-22 16:56:18,961 INFO OmegaLex start
+2018-05-22 16:56:24,220 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 16:56:40,051 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-05-22 16:56:41,133 INFO (null) DURATA QUERY FORMA: 3
+2018-05-22 16:56:41,138 INFO (null) DURATA QUERY FORMA: 3
+2018-05-22 16:56:41,342 INFO (null) DURATA QUERY SENSO: 3
+2018-05-22 16:56:41,348 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-05-22 16:56:41,348 INFO (null) DURATA QUERY LEMMA: 1300
+2018-05-22 16:56:47,793 INFO (andreab) All resources released 
+2018-05-22 16:56:47,793 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 17:01:18,635 INFO OmegaLex start
+2018-05-22 17:04:46,030 INFO OmegaLex start
+2018-05-22 17:04:54,350 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 17:05:12,204 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-05-22 17:05:13,420 INFO (null) DURATA QUERY FORMA: 4
+2018-05-22 17:05:13,424 INFO (null) DURATA QUERY FORMA: 3
+2018-05-22 17:05:13,633 INFO (null) DURATA QUERY SENSO: 2
+2018-05-22 17:05:13,637 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-05-22 17:05:13,637 INFO (null) DURATA QUERY LEMMA: 1436
+2018-05-22 17:05:21,866 INFO (andreab) ADD empty Form box
+2018-05-22 17:05:24,354 INFO (andreab) All resources released 
+2018-05-22 17:05:24,354 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-22 17:12:35,704 INFO OmegaLex start

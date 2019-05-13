@@ -1,0 +1,543 @@
+2018-06-13 09:16:26,331 INFO OmegaLex start
+2018-06-13 09:16:31,389 INFO OmegaLex start
+2018-06-13 09:16:46,193 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 09:17:06,977 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-13 09:17:08,112 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:17:08,332 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 09:17:08,353 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-13 09:17:08,353 INFO (null) DURATA QUERY LEMMA: 1379
+2018-06-13 09:17:15,511 INFO (andreab) SELECT Lemma aisella_aoc_lemma
+2018-06-13 09:17:16,557 INFO (null) DURATA QUERY FORMA: 4
+2018-06-13 09:17:16,561 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:17:16,564 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:17:16,767 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 09:17:16,767 INFO (andreab) UNLOCK the lexical entry related to aisella_aoc_lemma
+2018-06-13 09:17:16,767 INFO (andreab) LOCK the lexical entry related to aisella_aoc_lemma
+2018-06-13 09:17:16,767 INFO (null) DURATA QUERY LEMMA: 1258
+2018-06-13 09:17:20,988 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-13 09:17:22,281 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 09:17:22,281 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 09:17:22,282 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 09:17:22,282 INFO (null) DURATA QUERY LEMMA: 1296
+2018-06-13 09:17:26,977 INFO (andreab) ADD empty Internal Documentation to lemma acassia3*
+2018-06-13 09:19:26,670 INFO (andreab) SAVE new internal attestation (id DB: 163840) of acassia3*
+2018-06-13 09:27:12,369 INFO (andreab) All resources released 
+2018-06-13 09:27:12,369 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 09:27:15,401 INFO OmegaLex start
+2018-06-13 09:27:19,269 INFO OmegaLex start
+2018-06-13 09:32:33,580 INFO OmegaLex start
+2018-06-13 09:32:38,429 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 09:32:57,723 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-13 09:32:58,930 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:32:58,934 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:32:58,938 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:32:58,942 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:32:58,947 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 09:32:58,950 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:32:59,147 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 09:32:59,151 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 09:32:59,151 INFO (null) DURATA QUERY LEMMA: 1431
+2018-06-13 09:33:04,025 INFO (andreab) ADD empty Internal Documentation to lemma affumar
+2018-06-13 09:33:28,298 INFO (andreab) SAVE new internal attestation (id DB: 196608) of affumar
+2018-06-13 09:41:18,875 INFO (andreab) ADD empty Internal Documentation to lemma affumar
+2018-06-13 09:41:54,333 INFO (andreab) SAVE new internal attestation (id DB: 196609) of affumar
+2018-06-13 09:42:47,299 INFO (andreab) SELECT Lemma afolament_aoc_lemma
+2018-06-13 09:42:48,602 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 09:42:48,602 INFO (andreab) UNLOCK the lexical entry related to afolament_aoc_lemma
+2018-06-13 09:42:48,602 INFO (andreab) LOCK the lexical entry related to afolament_aoc_lemma
+2018-06-13 09:42:48,602 INFO (null) DURATA QUERY LEMMA: 1305
+2018-06-13 09:42:54,516 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-13 09:42:55,556 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,559 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,562 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,565 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,568 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,571 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 09:42:55,784 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 09:42:55,784 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 09:42:55,784 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 09:42:55,785 INFO (null) DURATA QUERY LEMMA: 1270
+2018-06-13 10:20:04,821 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-13 10:20:05,846 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:05,849 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:05,851 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:05,854 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 10:20:05,856 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:05,859 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:06,057 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 10:20:06,057 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 10:20:06,057 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 10:20:06,057 INFO (null) DURATA QUERY LEMMA: 1238
+2018-06-13 10:20:12,070 INFO (andreab) DELETE Internal attestation of affumar
+2018-06-13 10:20:18,358 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-13 10:20:19,411 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:19,414 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:19,416 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:19,418 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:19,421 INFO (null) DURATA QUERY FORMA: 1
+2018-06-13 10:20:19,424 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 10:20:19,624 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 10:20:19,624 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 10:20:19,624 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-13 10:20:19,624 INFO (null) DURATA QUERY LEMMA: 1268
+2018-06-13 10:23:38,534 INFO (andreab) RESET Attestation Search Filter 
+2018-06-13 10:23:38,758 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 10:30:30,175 INFO (andreab) SELECT Document (Eluc)
+2018-06-13 10:30:32,072 INFO (andreab) SELECT Document (Indice)
+2018-06-13 10:59:55,963 INFO (andreab) SELECT Document (CircIns)
+2018-06-13 11:00:11,146 INFO (andreab) SELECT Document (M 291)
+2018-06-13 11:00:16,486 INFO (andreab) SELECT Document (Bor)
+2018-06-13 11:00:26,463 INFO (andreab) SELECT Document (B 241)
+2018-06-13 11:00:36,224 INFO (andreab) SELECT Document (AntNic)
+2018-06-13 11:00:50,767 INFO (andreab) UPDATE Document abbreviation of 131073 to (,)
+2018-06-13 11:00:52,182 INFO (andreab) UPDATE Document abbreviation of 131073 to ()
+2018-06-13 11:03:26,874 INFO (andreab) SELECT Document (Anat)
+2018-06-13 11:03:32,369 INFO (andreab) SELECT Document (Febr)
+2018-06-13 11:03:36,317 INFO (andreab) SELECT Document (MRR)
+2018-06-13 11:03:50,588 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:03:53,586 INFO (andreab) UPDATE Document type (Ag.Thes) to Article
+2018-06-13 11:03:54,727 INFO (andreab) SAVE updated document (Ag.Thes)
+2018-06-13 11:03:58,806 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:04:02,168 INFO (andreab) UPDATE Document type (Ag.Thes) to Text
+2018-06-13 11:04:03,058 INFO (andreab) SAVE updated document (Ag.Thes)
+2018-06-13 11:04:04,695 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:04:05,611 INFO (andreab) SELECT Document (Alb)
+2018-06-13 11:04:06,177 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:04:07,907 INFO (andreab) SELECT Document (Alb)
+2018-06-13 11:04:09,352 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:04:19,763 INFO (andreab) SELECT Document (Oxf)
+2018-06-13 11:04:24,697 INFO (andreab) SELECT Document (Paris 14974)
+2018-06-13 11:04:32,423 INFO (andreab) SELECT Document (A)
+2018-06-13 11:04:37,669 INFO (andreab) UPDATE Document abbreviation of 131119 to (A)
+2018-06-13 11:04:39,275 INFO (andreab) UPDATE Document abbreviation of 131119 to (A )
+2018-06-13 11:04:39,441 INFO (andreab) UPDATE Document abbreviation of 131119 to (A p)
+2018-06-13 11:04:39,601 INFO (andreab) UPDATE Document abbreviation of 131119 to (A pr)
+2018-06-13 11:04:39,736 INFO (andreab) UPDATE Document abbreviation of 131119 to (A pro)
+2018-06-13 11:04:39,841 INFO (andreab) UPDATE Document abbreviation of 131119 to (A prov)
+2018-06-13 11:04:40,281 INFO (andreab) UPDATE Document abbreviation of 131119 to (A prova)
+2018-06-13 11:04:44,867 INFO (andreab) UPDATE Document title of (A prova) to t
+2018-06-13 11:04:44,985 INFO (andreab) UPDATE Document title of (A prova) to ti
+2018-06-13 11:04:45,097 INFO (andreab) UPDATE Document title of (A prova) to tit
+2018-06-13 11:04:45,617 INFO (andreab) UPDATE Document title of (A prova) to tito
+2018-06-13 11:04:45,824 INFO (andreab) UPDATE Document title of (A prova) to titol
+2018-06-13 11:04:46,041 INFO (andreab) UPDATE Document title of (A prova) to titolo
+2018-06-13 11:04:46,185 INFO (andreab) UPDATE Document title of (A prova) to titolo 
+2018-06-13 11:04:46,433 INFO (andreab) UPDATE Document title of (A prova) to titolo p
+2018-06-13 11:04:46,553 INFO (andreab) UPDATE Document title of (A prova) to titolo pr
+2018-06-13 11:04:46,681 INFO (andreab) UPDATE Document title of (A prova) to titolo pro
+2018-06-13 11:04:46,817 INFO (andreab) UPDATE Document title of (A prova) to titolo prov
+2018-06-13 11:04:47,258 INFO (andreab) UPDATE Document title of (A prova) to titolo prova
+2018-06-13 11:06:07,498 INFO (andreab) All resources released 
+2018-06-13 11:06:07,498 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:06:10,487 INFO OmegaLex start
+2018-06-13 11:06:42,168 INFO OmegaLex start
+2018-06-13 11:09:02,771 INFO OmegaLex start
+2018-06-13 11:17:44,666 INFO OmegaLex start
+2018-06-13 11:17:48,978 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:18:51,210 INFO (andreab) All resources released 
+2018-06-13 11:18:51,210 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:18:54,608 INFO OmegaLex start
+2018-06-13 11:20:36,376 INFO OmegaLex start
+2018-06-13 11:20:40,695 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:21:44,394 INFO (andreab) SELECT Document (A)
+2018-06-13 11:21:47,301 INFO (andreab) UPDATE Document abbreviation of 131119 to (Aa)
+2018-06-13 11:21:47,443 INFO (andreab) UPDATE Document abbreviation of 131119 to (Aaa)
+2018-06-13 11:21:47,594 INFO (andreab) UPDATE Document abbreviation of 131119 to (Aaaa)
+2018-06-13 11:21:47,748 INFO (andreab) UPDATE Document abbreviation of 131119 to (Aaaaa)
+2018-06-13 11:21:48,064 INFO (andreab) UPDATE Document title of (Aaaaa) to a
+2018-06-13 11:21:48,250 INFO (andreab) UPDATE Document title of (Aaaaa) to aa
+2018-06-13 11:21:48,369 INFO (andreab) UPDATE Document title of (Aaaaa) to aaa
+2018-06-13 11:21:48,518 INFO (andreab) UPDATE Document title of (Aaaaa) to aaaa
+2018-06-13 11:50:04,712 INFO (andreab) All resources released 
+2018-06-13 11:50:04,712 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:55:55,756 INFO OmegaLex start
+2018-06-13 11:55:59,363 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 11:56:41,154 INFO (andreab) SELECT Document (Ag.Thes)
+2018-06-13 11:56:44,115 INFO (andreab) UPDATE Document abbreviation of 131091 to (Ag.Thesi)
+2018-06-13 11:56:44,342 INFO (andreab) UPDATE Document abbreviation of 131091 to (Ag.Thesis)
+2018-06-13 11:56:47,332 INFO (andreab) UPDATE Document type (Ag.Thesis) to Book
+2018-06-13 11:56:49,417 INFO (andreab) UPDATE Document title of (Ag.Thesis) to t
+2018-06-13 11:56:49,541 INFO (andreab) UPDATE Document title of (Ag.Thesis) to ti
+2018-06-13 11:56:49,669 INFO (andreab) UPDATE Document title of (Ag.Thesis) to tit
+2018-06-13 11:56:49,762 INFO (andreab) UPDATE Document title of (Ag.Thesis) to tito
+2018-06-13 11:56:49,924 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titol
+2018-06-13 11:56:50,142 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo
+2018-06-13 11:56:50,245 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo 
+2018-06-13 11:56:50,361 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo p
+2018-06-13 11:56:50,475 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo pr
+2018-06-13 11:56:50,584 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo pro
+2018-06-13 11:56:50,695 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo prov
+2018-06-13 11:56:50,999 INFO (andreab) UPDATE Document title of (Ag.Thesis) to titolo prova
+2018-06-13 11:56:53,566 INFO (andreab) SAVE updated document (Ag.Thesis)
+2018-06-13 11:56:55,418 INFO (andreab) SELECT Document (Alb)
+2018-06-13 11:56:56,274 INFO (andreab) SELECT Document (Ag.Thesis)
+2018-06-13 11:58:01,270 INFO (andreab) SELECT Document (Alb)
+2018-06-13 11:58:02,071 INFO (andreab) SELECT Document (Ag.Thesis)
+2018-06-13 11:58:10,319 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 11:58:14,822 INFO (andreab) SELECT Document (A)
+2018-06-13 11:58:18,160 INFO (andreab) UPDATE Document abbreviation of 131119 to (An)
+2018-06-13 11:58:18,325 INFO (andreab) UPDATE Document abbreviation of 131119 to (And)
+2018-06-13 11:58:18,500 INFO (andreab) UPDATE Document abbreviation of 131119 to (Andr)
+2018-06-13 11:58:18,660 INFO (andreab) UPDATE Document abbreviation of 131119 to (Andre)
+2018-06-13 11:58:18,957 INFO (andreab) UPDATE Document abbreviation of 131119 to (Andrea)
+2018-06-13 11:58:20,374 INFO (andreab) UPDATE Document title of (Andrea) to t
+2018-06-13 11:58:20,483 INFO (andreab) UPDATE Document title of (Andrea) to ti
+2018-06-13 11:58:20,640 INFO (andreab) UPDATE Document title of (Andrea) to tit
+2018-06-13 11:58:20,750 INFO (andreab) UPDATE Document title of (Andrea) to tito
+2018-06-13 11:58:20,917 INFO (andreab) UPDATE Document title of (Andrea) to titol
+2018-06-13 11:58:21,094 INFO (andreab) UPDATE Document title of (Andrea) to titolo
+2018-06-13 11:58:21,204 INFO (andreab) UPDATE Document title of (Andrea) to titolo 
+2018-06-13 11:58:21,351 INFO (andreab) UPDATE Document title of (Andrea) to titolo p
+2018-06-13 11:58:21,446 INFO (andreab) UPDATE Document title of (Andrea) to titolo pr
+2018-06-13 11:58:21,572 INFO (andreab) UPDATE Document title of (Andrea) to titolo pro
+2018-06-13 11:58:21,748 INFO (andreab) UPDATE Document title of (Andrea) to titolo prov
+2018-06-13 11:58:22,309 INFO (andreab) UPDATE Document title of (Andrea) to titolo prova
+2018-06-13 11:58:25,964 INFO (andreab) SAVE updated manuscript (Andrea)
+2018-06-13 11:58:35,258 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 11:58:36,861 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 11:58:38,268 INFO (andreab) SELECT Document (Andrea)
+2018-06-13 11:58:41,727 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 11:59:27,402 INFO (andreab) SELECT Lemma _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-06-13 11:59:28,265 INFO (null) DURATA QUERY FORMA: 4
+2018-06-13 11:59:28,476 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 11:59:28,484 INFO (andreab) LOCK the lexical entry related to _sharp_OB_lo_CB_mocar_aoc_lemma
+2018-06-13 11:59:28,485 INFO (null) DURATA QUERY LEMMA: 1085
+2018-06-13 11:59:34,391 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-13 11:59:35,694 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 11:59:35,695 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 11:59:35,695 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 11:59:35,695 INFO (null) DURATA QUERY LEMMA: 1306
+2018-06-13 11:59:36,884 INFO (andreab) SELECT Lemma OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 11:59:37,743 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 11:59:37,744 INFO (andreab) UNLOCK the lexical entry related to OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 11:59:37,744 INFO (andreab) LOCK the lexical entry related to OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 11:59:37,744 INFO (null) DURATA QUERY LEMMA: 862
+2018-06-13 12:00:52,932 INFO (andreab) SELECT Document (Erb b)
+2018-06-13 12:01:33,219 INFO (andreab) NEW Manuscript document
+2018-06-13 12:01:37,306 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:01:37,353 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:01:39,239 INFO (andreab) UPDATE Document abbreviation of -1 to (p
+2018-06-13 12:01:39,307 INFO (andreab) UPDATE Document abbreviation of -1 to (pr
+2018-06-13 12:01:39,408 INFO (andreab) UPDATE Document abbreviation of -1 to (pro
+2018-06-13 12:01:39,745 INFO (andreab) UPDATE Document abbreviation of -1 to (prov
+2018-06-13 12:01:39,952 INFO (andreab) UPDATE Document abbreviation of -1 to (prova 
+2018-06-13 12:01:40,052 INFO (andreab) UPDATE Document abbreviation of -1 to (prova 
+2018-06-13 12:01:40,236 INFO (andreab) UPDATE Document abbreviation of -1 to (prova m
+2018-06-13 12:01:40,401 INFO (andreab) UPDATE Document abbreviation of -1 to (prova ma
+2018-06-13 12:01:40,505 INFO (andreab) UPDATE Document abbreviation of -1 to (prova man
+2018-06-13 12:01:41,036 INFO (andreab) UPDATE Document abbreviation of -1 to (prova man)
+2018-06-13 12:01:41,073 INFO (andreab) UPDATE Document abbreviation of -1 to (prova man)
+2018-06-13 12:01:43,943 INFO (andreab) UPDATE Document title of (prova man) to t
+2018-06-13 12:01:44,050 INFO (andreab) UPDATE Document title of (prova man) to ti
+2018-06-13 12:01:44,202 INFO (andreab) UPDATE Document title of (prova man) to tit
+2018-06-13 12:01:44,345 INFO (andreab) UPDATE Document title of (prova man) to tito
+2018-06-13 12:01:46,800 INFO (andreab) UPDATE Document title of (prova man) to titol
+2018-06-13 12:01:46,905 INFO (andreab) UPDATE Document title of (prova man) to titola
+2018-06-13 12:01:47,216 INFO (andreab) UPDATE Document title of (prova man) to titolac
+2018-06-13 12:01:47,417 INFO (andreab) UPDATE Document title of (prova man) to titolacc
+2018-06-13 12:01:47,553 INFO (andreab) UPDATE Document title of (prova man) to titolaccio
+2018-06-13 12:01:47,633 INFO (andreab) UPDATE Document title of (prova man) to titolaccio
+2018-06-13 12:01:50,408 INFO (andreab) SAVE new manuscript (prova man)
+2018-06-13 12:02:10,408 INFO (andreab) RESET Document Search Filter 
+2018-06-13 12:02:10,415 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:02:15,870 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:02:15,925 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:02:16,209 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (p(p
+2018-06-13 12:02:16,345 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (pr(pr
+2018-06-13 12:02:16,513 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (pro(pro
+2018-06-13 12:02:17,152 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (pr(pr
+2018-06-13 12:02:17,320 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (p(p
+2018-06-13 12:02:17,616 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:02:17,802 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:02:17,987 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:02:30,981 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 12:02:39,998 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 12:02:44,721 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: ((
+2018-06-13 12:02:44,771 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: ((
+2018-06-13 12:02:45,018 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: (p(p
+2018-06-13 12:02:45,176 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: (pr(pr
+2018-06-13 12:02:48,249 INFO (andreab) SELECT Document (prova man)
+2018-06-13 12:02:50,580 INFO (andreab) RESET Document Search Filter 
+2018-06-13 12:02:50,584 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:02:53,354 INFO (andreab) NEW Manuscript document
+2018-06-13 12:02:55,689 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:02:55,746 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:02:56,198 INFO (andreab) UPDATE Document abbreviation of -1 to (e
+2018-06-13 12:02:56,263 INFO (andreab) UPDATE Document abbreviation of -1 to (ev
+2018-06-13 12:02:56,415 INFO (andreab) UPDATE Document abbreviation of -1 to (evv
+2018-06-13 12:02:56,560 INFO (andreab) UPDATE Document abbreviation of -1 to (evva
+2018-06-13 12:02:56,743 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai
+2018-06-13 12:02:58,601 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai 
+2018-06-13 12:02:58,783 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai b
+2018-06-13 12:02:58,969 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai bo
+2018-06-13 12:02:59,079 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai bor
+2018-06-13 12:02:59,271 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai bord
+2018-06-13 12:02:59,530 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai borda
+2018-06-13 12:03:00,591 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai borda)
+2018-06-13 12:03:00,624 INFO (andreab) UPDATE Document abbreviation of -1 to (evvai borda)
+2018-06-13 12:03:02,872 INFO (andreab) UPDATE Document title of (evvai borda) to t
+2018-06-13 12:03:03,031 INFO (andreab) UPDATE Document title of (evvai borda) to ti
+2018-06-13 12:03:03,199 INFO (andreab) UPDATE Document title of (evvai borda) to tit
+2018-06-13 12:03:03,342 INFO (andreab) UPDATE Document title of (evvai borda) to tito
+2018-06-13 12:03:03,559 INFO (andreab) UPDATE Document title of (evvai borda) to titol
+2018-06-13 12:03:03,791 INFO (andreab) UPDATE Document title of (evvai borda) to titolo
+2018-06-13 12:03:03,911 INFO (andreab) UPDATE Document title of (evvai borda) to titolo 
+2018-06-13 12:03:04,055 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di
+2018-06-13 12:03:04,144 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di
+2018-06-13 12:03:04,201 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di 
+2018-06-13 12:03:04,360 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di m
+2018-06-13 12:03:04,431 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di me
+2018-06-13 12:03:04,560 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di mer
+2018-06-13 12:03:04,743 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di merd
+2018-06-13 12:03:04,984 INFO (andreab) UPDATE Document title of (evvai borda) to titolo di merda
+2018-06-13 12:03:06,771 INFO (andreab) SAVE new manuscript (evvai borda)
+2018-06-13 12:03:10,521 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:10,567 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:10,995 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (e(e
+2018-06-13 12:03:11,032 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (ev(ev
+2018-06-13 12:03:11,134 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (evv(evv
+2018-06-13 12:03:12,993 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (ev(ev
+2018-06-13 12:03:13,160 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (e(e
+2018-06-13 12:03:13,319 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:13,485 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:13,635 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:13,830 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:14,889 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:14,937 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:15,251 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (e(e
+2018-06-13 12:03:15,303 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (ev(ev
+2018-06-13 12:03:15,439 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (evv(evv
+2018-06-13 12:03:19,472 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (ev(ev
+2018-06-13 12:03:19,630 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (e(e
+2018-06-13 12:03:19,796 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:19,984 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:31,694 INFO (andreab) RESET Document Search Filter 
+2018-06-13 12:03:31,699 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:34,457 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:34,502 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 12:03:43,496 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:46,566 INFO (andreab) RESET Document Search Filter 
+2018-06-13 12:03:46,569 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:03:53,325 INFO (andreab) SELECT Document (D)
+2018-06-13 12:03:54,965 INFO (andreab) SELECT Document (D)
+2018-06-13 12:03:56,629 INFO (andreab) SELECT Document (evvai borda)
+2018-06-13 12:04:04,165 INFO (andreab) DELETE Document (evvai borda)
+2018-06-13 12:04:08,147 INFO (andreab) RESET Document Search Filter 
+2018-06-13 12:04:08,151 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 12:04:13,253 INFO (andreab) SELECT Document (prova man)
+2018-06-13 12:04:23,669 INFO (andreab) NEW Internal document
+2018-06-13 12:04:27,599 INFO (andreab) UPDATE Document abbreviation of -1 to n
+2018-06-13 12:04:27,902 INFO (andreab) UPDATE Document abbreviation of -1 to new
+2018-06-13 12:04:27,942 INFO (andreab) UPDATE Document abbreviation of -1 to new
+2018-06-13 12:04:28,685 INFO (andreab) UPDATE Document abbreviation of -1 to new
+2018-06-13 12:04:29,389 INFO (andreab) UPDATE Document abbreviation of -1 to (new
+2018-06-13 12:04:29,416 INFO (andreab) UPDATE Document abbreviation of -1 to (new
+2018-06-13 12:04:30,358 INFO (andreab) UPDATE Document abbreviation of -1 to (ew
+2018-06-13 12:04:30,554 INFO (andreab) UPDATE Document abbreviation of -1 to (w
+2018-06-13 12:04:30,770 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:04:31,781 INFO (andreab) UPDATE Document abbreviation of -1 to (N
+2018-06-13 12:04:31,926 INFO (andreab) UPDATE Document abbreviation of -1 to (NE
+2018-06-13 12:04:32,157 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW
+2018-06-13 12:04:32,833 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW)
+2018-06-13 12:04:32,861 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW)
+2018-06-13 12:04:36,867 INFO (andreab) UPDATE Document type (NEW) to Dictionary
+2018-06-13 12:04:42,879 INFO (andreab) UPDATE Document title of (NEW) to t
+2018-06-13 12:04:43,013 INFO (andreab) UPDATE Document title of (NEW) to ti
+2018-06-13 12:04:43,206 INFO (andreab) UPDATE Document title of (NEW) to tit
+2018-06-13 12:04:43,454 INFO (andreab) UPDATE Document title of (NEW) to titl
+2018-06-13 12:04:43,583 INFO (andreab) UPDATE Document title of (NEW) to title
+2018-06-13 12:04:43,775 INFO (andreab) UPDATE Document title of (NEW) to title 
+2018-06-13 12:04:43,998 INFO (andreab) UPDATE Document title of (NEW) to title o
+2018-06-13 12:04:44,157 INFO (andreab) UPDATE Document title of (NEW) to title of
+2018-06-13 12:04:45,688 INFO (andreab) UPDATE Document title of (NEW) to title of 
+2018-06-13 12:04:45,822 INFO (andreab) UPDATE Document title of (NEW) to title of d
+2018-06-13 12:04:45,950 INFO (andreab) UPDATE Document title of (NEW) to title of di
+2018-06-13 12:04:46,030 INFO (andreab) UPDATE Document title of (NEW) to title of dic
+2018-06-13 12:04:46,256 INFO (andreab) UPDATE Document title of (NEW) to title of dict
+2018-06-13 12:04:46,345 INFO (andreab) UPDATE Document title of (NEW) to title of dictio
+2018-06-13 12:04:46,430 INFO (andreab) UPDATE Document title of (NEW) to title of dictio
+2018-06-13 12:04:46,580 INFO (andreab) UPDATE Document title of (NEW) to title of diction
+2018-06-13 12:04:46,645 INFO (andreab) UPDATE Document title of (NEW) to title of dictiona
+2018-06-13 12:04:46,878 INFO (andreab) UPDATE Document title of (NEW) to title of dictionar
+2018-06-13 12:04:47,031 INFO (andreab) UPDATE Document title of (NEW) to title of dictionary
+2018-06-13 12:04:53,291 INFO (andreab) SAVE new document (NEW)
+2018-06-13 12:04:59,292 INFO (andreab) SELECT Document (MRR)
+2018-06-13 12:05:01,125 INFO (andreab) SELECT Document (NEW)
+2018-06-13 12:05:05,192 INFO (andreab) NEW External document
+2018-06-13 12:05:07,694 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:05:07,723 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:05:08,215 INFO (andreab) UPDATE Document abbreviation of -1 to (n
+2018-06-13 12:05:08,433 INFO (andreab) UPDATE Document abbreviation of -1 to (new
+2018-06-13 12:05:08,540 INFO (andreab) UPDATE Document abbreviation of -1 to (new
+2018-06-13 12:05:10,941 INFO (andreab) UPDATE Document abbreviation of -1 to (ne
+2018-06-13 12:05:11,031 INFO (andreab) UPDATE Document abbreviation of -1 to (n
+2018-06-13 12:05:11,342 INFO (andreab) UPDATE Document abbreviation of -1 to (
+2018-06-13 12:05:12,560 INFO (andreab) UPDATE Document abbreviation of -1 to (N
+2018-06-13 12:05:12,856 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW
+2018-06-13 12:05:12,962 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW
+2018-06-13 12:05:12,991 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW
+2018-06-13 12:05:13,273 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW 
+2018-06-13 12:05:13,343 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW 2
+2018-06-13 12:05:13,572 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW 2)
+2018-06-13 12:05:13,596 INFO (andreab) UPDATE Document abbreviation of -1 to (NEW 2)
+2018-06-13 12:05:16,600 INFO (andreab) UPDATE Document type (NEW 2) to Article
+2018-06-13 12:05:18,101 INFO (andreab) UPDATE Document title of (NEW 2) to t
+2018-06-13 12:05:18,189 INFO (andreab) UPDATE Document title of (NEW 2) to ti
+2018-06-13 12:05:18,278 INFO (andreab) UPDATE Document title of (NEW 2) to tit
+2018-06-13 12:05:18,492 INFO (andreab) UPDATE Document title of (NEW 2) to titl
+2018-06-13 12:05:18,686 INFO (andreab) UPDATE Document title of (NEW 2) to title
+2018-06-13 12:05:18,846 INFO (andreab) UPDATE Document title of (NEW 2) to title 
+2018-06-13 12:05:19,028 INFO (andreab) UPDATE Document title of (NEW 2) to title a
+2018-06-13 12:05:19,588 INFO (andreab) UPDATE Document title of (NEW 2) to title 
+2018-06-13 12:05:20,629 INFO (andreab) UPDATE Document title of (NEW 2) to title o
+2018-06-13 12:05:20,934 INFO (andreab) UPDATE Document title of (NEW 2) to title of
+2018-06-13 12:05:21,100 INFO (andreab) UPDATE Document title of (NEW 2) to title of 
+2018-06-13 12:05:21,336 INFO (andreab) UPDATE Document title of (NEW 2) to title of a
+2018-06-13 12:05:21,564 INFO (andreab) UPDATE Document title of (NEW 2) to title of ar
+2018-06-13 12:05:21,724 INFO (andreab) UPDATE Document title of (NEW 2) to title of art
+2018-06-13 12:05:21,901 INFO (andreab) UPDATE Document title of (NEW 2) to title of arti
+2018-06-13 12:05:22,004 INFO (andreab) UPDATE Document title of (NEW 2) to title of artic
+2018-06-13 12:05:22,140 INFO (andreab) UPDATE Document title of (NEW 2) to title of articl
+2018-06-13 12:05:22,276 INFO (andreab) UPDATE Document title of (NEW 2) to title of article
+2018-06-13 12:05:23,630 INFO (andreab) SAVE new document (NEW 2)
+2018-06-13 12:05:26,444 INFO (andreab) SELECT Document (NEW)
+2018-06-13 12:05:27,602 INFO (andreab) SELECT Document (NEW 2)
+2018-06-13 12:05:43,692 INFO (andreab) SELECT Document (MRR)
+2018-06-13 12:05:46,628 INFO (andreab) SELECT Document (NEW)
+2018-06-13 12:05:56,676 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-13 12:05:57,908 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 12:05:57,908 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-13 12:05:57,916 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-13 12:05:57,916 INFO (null) DURATA QUERY LEMMA: 1241
+2018-06-13 12:06:01,639 INFO (andreab) ADD empty Internal Documentation to lemma acassia2*
+2018-06-13 12:06:25,815 INFO (andreab) SAVE new internal attestation (id DB: 229380) of acassia2*
+2018-06-13 12:06:35,356 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-13 12:06:36,603 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 12:06:36,603 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 12:06:36,603 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-13 12:06:36,603 INFO (null) DURATA QUERY LEMMA: 1248
+2018-06-13 12:06:37,296 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-13 12:06:38,566 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 12:06:38,566 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-13 12:06:38,566 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-13 12:06:38,566 INFO (null) DURATA QUERY LEMMA: 1271
+2018-06-13 12:06:45,743 INFO (andreab) SELECT Lemma OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 12:06:46,560 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 12:06:46,560 INFO (andreab) UNLOCK the lexical entry related to OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 12:06:46,560 INFO (andreab) LOCK the lexical entry related to OB_glandolas_CB_esclonas_aoc_lemma
+2018-06-13 12:06:46,560 INFO (null) DURATA QUERY LEMMA: 818
+2018-06-13 12:07:21,250 INFO (andreab) All resources released 
+2018-06-13 12:07:21,250 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:13:46,777 INFO OmegaLex start
+2018-06-13 13:13:52,150 INFO OmegaLex start
+2018-06-13 13:14:32,860 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:25:23,441 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:25:23,684 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:25:27,707 INFO (andreab) All resources released 
+2018-06-13 13:25:27,707 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:28:07,974 INFO OmegaLex start
+2018-06-13 13:28:11,658 INFO OmegaLex start
+2018-06-13 13:28:16,403 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:28:33,128 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:28:33,293 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:29:31,194 INFO (andreab) All resources released 
+2018-06-13 13:29:31,194 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:29:34,140 INFO OmegaLex start
+2018-06-13 13:36:59,017 INFO OmegaLex start
+2018-06-13 13:37:03,247 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:37:25,638 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:25,769 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:28,537 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (a(a
+2018-06-13 13:37:29,287 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:29,894 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:30,005 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:32,485 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (Ag(Ag
+2018-06-13 13:37:32,596 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (Ag.(Ag.
+2018-06-13 13:37:34,572 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (Ag(Ag
+2018-06-13 13:37:34,725 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:34,861 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:35,041 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:37:40,979 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:41,068 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:41,460 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:42,114 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:42,164 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:43,481 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (An(An
+2018-06-13 13:37:43,608 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (And(And
+2018-06-13 13:37:44,864 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (An(An
+2018-06-13 13:37:45,055 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: (A(A
+2018-06-13 13:37:46,049 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-13 13:37:46,281 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:37:49,942 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 13:37:50,921 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-06-13 13:37:52,963 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:37:54,672 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 13:37:56,680 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 13:37:57,777 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:38:01,423 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 13:38:03,836 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-06-13 13:38:04,867 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:38:17,494 INFO (andreab) All resources released 
+2018-06-13 13:38:17,494 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:38:20,437 INFO OmegaLex start
+2018-06-13 13:40:19,020 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:40:43,138 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-06-13 13:40:44,761 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-06-13 13:40:45,987 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-13 13:43:55,645 INFO (andreab) SELECT Lemma afestolir_aoc_lemma
+2018-06-13 13:43:56,699 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 13:43:56,910 INFO (null) DURATA QUERY SENSO: 3
+2018-06-13 13:43:56,915 INFO (andreab) LOCK the lexical entry related to afestolir_aoc_lemma
+2018-06-13 13:43:56,916 INFO (null) DURATA QUERY LEMMA: 1273
+2018-06-13 13:53:29,439 INFO (andreab) All resources released 
+2018-06-13 13:53:29,439 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 13:53:32,334 INFO OmegaLex start
+2018-06-13 15:15:35,756 INFO OmegaLex start
+2018-06-13 15:15:39,423 INFO OmegaLex start
+2018-06-13 15:15:49,824 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 15:16:35,009 INFO (andreab) All resources released 
+2018-06-13 15:16:35,009 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 15:17:23,271 INFO OmegaLex start
+2018-06-13 15:17:29,361 INFO OmegaLex start
+2018-06-13 15:17:33,712 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 15:21:15,573 INFO (andreab) All resources released 
+2018-06-13 15:21:15,573 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 15:41:30,174 INFO OmegaLex start
+2018-06-13 15:41:33,955 INFO OmegaLex start
+2018-06-13 15:41:44,787 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 15:42:00,441 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-13 15:43:50,183 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-13 15:44:01,834 INFO (andreab) SELECT Document (AlphHebr)
+2018-06-13 15:44:58,596 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-13 15:44:59,804 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 15:44:59,811 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-13 15:44:59,811 INFO (null) DURATA QUERY LEMMA: 1218
+2018-06-13 15:45:02,106 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-13 15:45:03,126 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 15:45:03,130 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 15:45:03,135 INFO (null) DURATA QUERY FORMA: 3
+2018-06-13 15:45:03,324 INFO (null) DURATA QUERY SENSO: 2
+2018-06-13 15:45:03,324 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-13 15:45:03,324 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-13 15:45:03,324 INFO (null) DURATA QUERY LEMMA: 1220
+2018-06-13 15:45:05,560 INFO (andreab) SELECT Document (AnatPor)
+2018-06-13 15:45:08,749 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-13 15:45:18,481 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-13 15:45:19,452 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 15:45:19,456 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 15:45:19,459 INFO (null) DURATA QUERY FORMA: 2
+2018-06-13 15:45:19,649 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 15:45:19,650 INFO (null) DURATA QUERY SENSO: 1
+2018-06-13 15:45:19,650 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2018-06-13 15:45:19,650 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-13 15:45:19,650 INFO (null) DURATA QUERY LEMMA: 1171
+2018-06-13 15:45:27,675 INFO (andreab) SELECT Document (AntNic)
+2018-06-13 15:45:32,412 INFO (andreab) SELECT Attestation (Alb) (Ashb) of null
+2018-06-13 15:45:41,042 INFO (andreab) SELECT Document (Alb)
+2018-06-13 16:51:29,210 INFO (andreab) All resources released 
+2018-06-13 16:51:29,210 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 16:51:53,739 INFO OmegaLex start
+2018-06-13 16:51:57,356 INFO OmegaLex start
+2018-06-13 16:52:01,143 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-13 17:30:28,513 INFO (andreab) All resources released 
+2018-06-13 17:30:28,513 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

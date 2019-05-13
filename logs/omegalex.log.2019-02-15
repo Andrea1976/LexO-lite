@@ -1,0 +1,101 @@
+2019-02-15 10:19:30,269 INFO OmegaLex start
+2019-02-15 10:19:34,202 INFO OmegaLex start
+2019-02-15 10:20:02,139 INFO (andreab) navigate to lexicon editor
+2019-02-15 10:30:22,056 INFO (andreab) LOAD lexicon All languages
+2019-02-15 10:31:20,932 INFO (andreab) LOAD lexicon aocheb
+2019-02-15 10:33:41,817 INFO (andreab) LOAD lexicon All languages
+2019-02-15 10:34:23,135 INFO (null) DURATA QUERY FORMA: 4
+2019-02-15 10:34:23,419 INFO (null) DURATA QUERY SENSO: 2
+2019-02-15 10:34:23,421 INFO (andreab) LOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-02-15 10:34:23,421 INFO (null) DURATA QUERY LEMMA: 1216
+2019-02-15 10:39:20,119 INFO OmegaLex start
+2019-02-15 10:39:24,127 INFO OmegaLex start
+2019-02-15 10:39:29,337 INFO (andreab) navigate to lexicon editor
+2019-02-15 10:41:55,383 INFO OmegaLex start
+2019-02-15 10:42:02,747 INFO OmegaLex start
+2019-02-15 10:42:07,625 INFO (andreab) navigate to lexicon editor
+2019-02-15 10:47:38,350 INFO OmegaLex start
+2019-02-15 10:47:49,802 INFO OmegaLex start
+2019-02-15 10:51:47,181 INFO OmegaLex start
+2019-02-15 10:51:52,217 INFO (andreab) navigate to lexicon editor
+2019-02-15 10:56:17,489 INFO OmegaLex start
+2019-02-15 10:56:22,547 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:02:55,138 INFO OmegaLex start
+2019-02-15 11:03:16,110 INFO OmegaLex start
+2019-02-15 11:04:25,404 INFO OmegaLex start
+2019-02-15 11:05:11,267 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:07:40,663 INFO OmegaLex start
+2019-02-15 11:07:44,858 INFO OmegaLex start
+2019-02-15 11:07:49,319 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:08:41,484 INFO OmegaLex start
+2019-02-15 11:09:46,307 INFO OmegaLex start
+2019-02-15 11:09:54,734 INFO OmegaLex start
+2019-02-15 11:10:10,000 INFO OmegaLex start
+2019-02-15 11:11:25,050 INFO OmegaLex start
+2019-02-15 11:11:45,919 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:14:50,922 INFO OmegaLex start
+2019-02-15 11:15:04,266 INFO OmegaLex start
+2019-02-15 11:15:08,849 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:21:53,595 INFO OmegaLex start
+2019-02-15 11:21:57,800 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:23:44,915 INFO (null) DURATA QUERY FORMA: 3
+2019-02-15 11:23:45,234 INFO (null) DURATA QUERY SENSO: 1
+2019-02-15 11:23:45,236 INFO (andreab) LOCK the lexical entry related to aur_de_falhola_aoc_lemma
+2019-02-15 11:23:45,236 INFO (null) DURATA QUERY LEMMA: 1330
+2019-02-15 11:31:18,678 INFO OmegaLex start
+2019-02-15 11:31:36,337 INFO OmegaLex start
+2019-02-15 11:32:07,766 INFO OmegaLex start
+2019-02-15 11:32:17,783 INFO OmegaLex start
+2019-02-15 11:32:31,281 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:33:49,483 INFO OmegaLex start
+2019-02-15 11:33:57,015 INFO OmegaLex start
+2019-02-15 11:34:03,103 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:44:09,690 INFO OmegaLex start
+2019-02-15 11:44:17,672 INFO OmegaLex start
+2019-02-15 11:44:24,276 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:46:18,845 INFO OmegaLex start
+2019-02-15 11:47:08,383 INFO OmegaLex start
+2019-02-15 11:47:12,339 INFO OmegaLex start
+2019-02-15 11:47:18,510 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:50:17,816 INFO OmegaLex start
+2019-02-15 11:51:21,945 INFO OmegaLex start
+2019-02-15 11:51:26,981 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:52:33,376 INFO (null) DURATA QUERY SENSO: 2
+2019-02-15 11:52:33,379 INFO (andreab) LOCK the lexical entry related to aloen_cicotri_aoc_lemma
+2019-02-15 11:52:33,379 INFO (null) DURATA QUERY LEMMA: 1395
+2019-02-15 11:52:49,367 INFO (null) DURATA QUERY FORMA: 3
+2019-02-15 11:52:49,680 INFO (null) DURATA QUERY SENSO: 2
+2019-02-15 11:52:49,682 INFO (andreab) UNLOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-02-15 11:52:49,682 INFO (andreab) LOCK the lexical entry related to alh_salvage_aoc_lemma
+2019-02-15 11:52:49,682 INFO (null) DURATA QUERY LEMMA: 1272
+2019-02-15 11:52:57,811 INFO (andreab) UPDATE Lemma name from alh salvage to alh salvage
+2019-02-15 11:52:59,124 INFO (andreab) UPDATE Lemma name from alh salvage to alh salvage
+2019-02-15 11:53:00,558 INFO (andreab) UPDATE Lemma name from alh salvage to alh salvage
+2019-02-15 11:53:01,771 INFO (andreab) UPDATE Lemma name from alh salvage to alh salvage
+2019-02-15 11:54:54,801 INFO OmegaLex start
+2019-02-15 11:58:13,131 INFO OmegaLex start
+2019-02-15 11:58:22,960 INFO (andreab) navigate to lexicon editor
+2019-02-15 11:58:52,661 INFO (andreab) LOAD correspondence lexicon 
+2019-02-15 12:00:02,658 INFO (andreab) NEW Lemma Word
+2019-02-15 12:01:58,282 INFO OmegaLex start
+2019-02-15 12:02:02,467 INFO OmegaLex start
+2019-02-15 12:02:06,708 INFO (andreab) navigate to lexicon editor
+2019-02-15 12:02:23,104 INFO (andreab) SELECT Ontology class: SistemaRiproduttivo
+2019-02-15 12:02:24,263 INFO (andreab) SELECT Ontology class: ParteDelloScheletro
+2019-02-15 12:02:25,449 INFO (andreab) SELECT Ontology class: barras
+2019-02-15 12:02:25,450 INFO (null) <http://ditmao/ontology#barras> labelled ossa della mandibola
+2019-02-15 12:02:26,396 INFO (andreab) SELECT Ontology class: espinaDelDors
+2019-02-15 12:02:26,396 INFO (null) <http://ditmao/ontology#espinaDelDors> labelled da EspinaDelDors escono nervis che vanno in tutto il corpo
+2019-02-15 12:02:28,080 INFO (andreab) SELECT Ontology class: polmo
+2019-02-15 12:02:28,080 INFO (null) <http://ditmao/ontology#polmo> labelled Si divide in 7 parti
+2019-02-15 12:02:36,542 INFO (andreab) SELECT Ontology class: vena
+2019-02-15 12:02:37,736 INFO (andreab) SELECT Ontology class: venaDelPolmo
+2019-02-15 12:03:45,389 INFO (andreab) SELECT Form postema_aoc_apostemas_form
+2019-02-15 12:03:47,248 INFO (null) DURATA QUERY FORMA: 3
+2019-02-15 12:03:47,252 INFO (null) DURATA QUERY FORMA: 3
+2019-02-15 12:03:47,256 INFO (null) DURATA QUERY FORMA: 3
+2019-02-15 12:03:47,260 INFO (null) DURATA QUERY FORMA: 2
+2019-02-15 12:03:47,263 INFO (null) DURATA QUERY FORMA: 2
+2019-02-15 12:03:47,559 INFO (null) DURATA QUERY SENSO: 1
+2019-02-15 12:03:47,560 INFO (andreab) LOCK the lexical entry related to postema_aoc_apostemas_form
+2019-02-15 12:03:47,561 INFO (null) DURATA QUERY LEMMA: 2174

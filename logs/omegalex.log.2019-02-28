@@ -1,0 +1,62 @@
+2019-02-28 08:20:05,236 INFO OmegaLex start
+2019-02-28 08:20:21,830 INFO (andreab) navigate to lexicon editor
+2019-02-28 08:20:43,390 ERROR 
+org.hibernate.NonUniqueResultException: query did not return a unique result: 2
+	at org.hibernate.internal.AbstractQueryImpl.uniqueElement(AbstractQueryImpl.java:975)
+	at org.hibernate.internal.CriteriaImpl.uniqueResult(CriteriaImpl.java:402)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.createAdmin(DomainCreator.java:105)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.createAdminDitmao(DomainCreator.java:129)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.preset(DomainCreator.java:72)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.doGet(DomainCreator.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-28 09:31:46,928 INFO OmegaLex start
+2019-02-28 09:31:52,946 INFO (andreab) navigate to lexicon editor
+2019-02-28 09:32:37,260 INFO (andreab) navigate to lexicon editor
+2019-02-28 09:32:56,720 INFO (null) DURATA QUERY FORMA: 5
+2019-02-28 09:32:56,726 INFO (null) DURATA QUERY FORMA: 4
+2019-02-28 09:32:56,732 INFO (null) DURATA QUERY FORMA: 4
+2019-02-28 09:32:56,737 INFO (null) DURATA QUERY FORMA: 4
+2019-02-28 09:32:56,743 INFO (null) DURATA QUERY FORMA: 4
+2019-02-28 09:32:56,748 INFO (null) DURATA QUERY FORMA: 4
+2019-02-28 09:32:56,753 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,757 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,761 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,765 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,768 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:56,772 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,776 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:56,780 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:56,782 INFO (null) DURATA QUERY FORMA: 1
+2019-02-28 09:32:56,785 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:56,788 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:56,792 INFO (null) DURATA QUERY FORMA: 3
+2019-02-28 09:32:56,795 INFO (null) DURATA QUERY FORMA: 2
+2019-02-28 09:32:57,089 INFO (null) DURATA QUERY SENSO: 1
+2019-02-28 09:32:57,092 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2019-02-28 09:32:57,092 INFO (null) DURATA QUERY LEMMA: 1856
+2019-02-28 10:30:21,273 INFO OmegaLex start

@@ -1,0 +1,65 @@
+2019-02-07 09:33:11,053 INFO OmegaLex start
+2019-02-07 09:33:15,071 INFO OmegaLex start
+2019-02-07 09:33:34,667 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 09:33:35,744 INFO (andreab) navigate to lexicon editor
+2019-02-07 09:34:04,409 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 09:34:04,684 INFO (null) DURATA QUERY SENSO: 2
+2019-02-07 09:34:04,686 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2019-02-07 09:34:04,687 INFO (null) DURATA QUERY LEMMA: 1724
+2019-02-07 09:35:25,275 INFO (null) DURATA QUERY SENSO: 2
+2019-02-07 09:35:25,277 INFO (andreab) UNLOCK the lexical entry related to nervi_baronich_aoc_lemma
+2019-02-07 09:35:25,277 INFO (andreab) LOCK the lexical entry related to nervi_baronich_aoc_lemma
+2019-02-07 09:35:25,277 INFO (null) DURATA QUERY LEMMA: 1121
+2019-02-07 09:35:28,212 INFO (null) DURATA QUERY FORMA: 2
+2019-02-07 09:35:28,488 INFO (null) DURATA QUERY SENSO: 1
+2019-02-07 09:35:28,490 INFO (andreab) UNLOCK the lexical entry related to nervi_aoc_lemma
+2019-02-07 09:35:28,490 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2019-02-07 09:35:28,490 INFO (null) DURATA QUERY LEMMA: 1678
+2019-02-07 09:35:49,766 INFO (null) DURATA QUERY FORMA: 1
+2019-02-07 09:35:50,039 INFO (null) DURATA QUERY SENSO: 1
+2019-02-07 09:35:50,040 INFO (andreab) UNLOCK the lexical entry related to vena_aoc_lemma
+2019-02-07 09:35:50,041 INFO (andreab) LOCK the lexical entry related to vena_aoc_lemma
+2019-02-07 09:35:50,041 INFO (null) DURATA QUERY LEMMA: 1680
+2019-02-07 09:37:21,986 INFO (andreab) All resources released 
+2019-02-07 09:37:21,986 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:47:03,054 INFO OmegaLex start
+2019-02-07 14:47:06,360 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:47:07,070 INFO (andreab) navigate to lexicon editor
+2019-02-07 14:48:16,312 INFO (andreab) RESET Lemma Search Filter 
+2019-02-07 14:48:24,789 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 14:48:25,072 INFO (null) DURATA QUERY SENSO: 2
+2019-02-07 14:48:25,074 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2019-02-07 14:48:25,074 INFO (null) DURATA QUERY LEMMA: 1755
+2019-02-07 14:48:29,961 INFO (andreab) ADD empty ontological reference to nervi_aoc_sense1
+2019-02-07 14:48:43,624 INFO (andreab) ADD ontological reference Nervi to the sense nervi_aoc_sense1
+2019-02-07 14:48:44,877 INFO (andreab) SAVE Sense nervi_aoc_sense1
+2019-02-07 14:49:48,463 INFO (andreab) navigate to lexicon editor
+2019-02-07 14:51:47,921 INFO (andreab) All resources released 
+2019-02-07 14:51:47,921 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:52:02,897 INFO OmegaLex start
+2019-02-07 14:52:09,844 INFO OmegaLex start
+2019-02-07 14:52:14,876 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:52:15,590 INFO (andreab) navigate to lexicon editor
+2019-02-07 14:53:49,582 INFO (andreab) navigate to lexicon editor
+2019-02-07 14:56:14,576 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 14:56:14,582 INFO (null) DURATA QUERY FORMA: 2
+2019-02-07 14:56:14,588 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 14:56:14,592 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 14:56:14,597 INFO (null) DURATA QUERY FORMA: 3
+2019-02-07 14:56:14,891 INFO (null) DURATA QUERY SENSO: 2
+2019-02-07 14:56:14,893 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-02-07 14:56:14,893 INFO (null) DURATA QUERY LEMMA: 1978
+2019-02-07 14:56:28,234 INFO (andreab) All resources released 
+2019-02-07 14:56:28,234 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:59:14,508 INFO OmegaLex start
+2019-02-07 14:59:18,647 INFO OmegaLex start
+2019-02-07 14:59:24,234 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 14:59:24,839 INFO (andreab) navigate to lexicon editor
+2019-02-07 15:00:33,217 INFO (andreab) All resources released 
+2019-02-07 15:00:33,217 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 15:00:40,661 INFO OmegaLex start
+2019-02-07 15:00:46,202 INFO OmegaLex start
+2019-02-07 15:00:50,077 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-07 15:00:50,749 INFO (andreab) navigate to lexicon editor
+2019-02-07 18:01:41,436 INFO (andreab) All resources released 
+2019-02-07 18:01:41,436 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1

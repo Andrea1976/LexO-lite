@@ -1,0 +1,17 @@
+2018-07-15 10:20:52,157 INFO OmegaLex start
+2018-07-15 10:24:20,540 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-15 10:27:27,588 INFO (andreab) LOAD lexicon All languages
+2018-07-15 10:27:41,569 INFO (andreab) SELECT Lemma abrotonum_lat_lemma
+2018-07-15 10:27:42,543 INFO (null) DURATA QUERY FORMA: 3
+2018-07-15 10:27:42,548 INFO (null) DURATA QUERY FORMA: 2
+2018-07-15 10:27:42,553 INFO (null) DURATA QUERY FORMA: 4
+2018-07-15 10:27:42,557 INFO (null) DURATA QUERY FORMA: 3
+2018-07-15 10:27:42,561 INFO (null) DURATA QUERY FORMA: 2
+2018-07-15 10:27:42,564 INFO (null) DURATA QUERY FORMA: 2
+2018-07-15 10:27:42,567 INFO (null) DURATA QUERY FORMA: 2
+2018-07-15 10:27:42,570 INFO (null) DURATA QUERY FORMA: 2
+2018-07-15 10:27:42,758 INFO (null) DURATA QUERY SENSO: 2
+2018-07-15 10:27:42,765 INFO (andreab) LOCK the lexical entry related to abrotonum_lat_lemma
+2018-07-15 10:27:42,766 INFO (null) DURATA QUERY LEMMA: 1199
+2018-07-15 13:27:48,812 INFO (andreab) All resources released 
+2018-07-15 13:27:48,812 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

@@ -1,0 +1,116 @@
+2018-10-24 08:23:56,011 INFO OmegaLex start
+2018-10-24 08:24:01,546 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 08:28:18,896 INFO (andreab) All resources released 
+2018-10-24 08:28:18,896 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 08:28:22,065 INFO OmegaLex start
+2018-10-24 08:29:20,477 INFO OmegaLex start
+2018-10-24 08:29:38,913 INFO OmegaLex start
+2018-10-24 08:30:23,201 INFO OmegaLex start
+2018-10-24 08:30:28,491 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 08:30:46,338 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-10-24 08:30:52,241 INFO (andreab) SELECT Attestation PROVA Text of adiman
+2018-10-24 08:31:00,131 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 08:31:17,534 INFO (andreab) SELECT Attestation Ric P(=Princeton) of abeillas
+2018-10-24 08:31:20,523 INFO (andreab) SELECT Attestation Erb A of abelha
+2018-10-24 08:31:24,846 INFO (andreab) SELECT Attestation PROVA Text of adiman
+2018-10-24 08:31:42,292 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-10-24 08:31:44,945 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 08:31:54,492 INFO (andreab) RESET Attestation Search Filter 
+2018-10-24 08:31:56,023 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 08:50:02,418 INFO (andreab) All resources released 
+2018-10-24 08:50:02,418 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 08:50:05,175 INFO OmegaLex start
+2018-10-24 08:59:16,607 INFO OmegaLex start
+2018-10-24 09:12:19,540 INFO OmegaLex start
+2018-10-24 09:12:23,551 INFO OmegaLex start
+2018-10-24 09:14:07,878 INFO OmegaLex start
+2018-10-24 09:14:11,529 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:14:53,383 INFO (andreab) SELECT Form centaurea_minor_aoc_סינטאבריאה_מינור_form
+2018-10-24 09:14:54,090 INFO (null) DURATA QUERY FORMA: 2
+2018-10-24 09:14:54,095 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 09:14:54,282 INFO (null) DURATA QUERY SENSO: 2
+2018-10-24 09:14:54,283 INFO (andreab) LOCK the lexical entry related to centaurea_minor_aoc_סינטאבריאה_מינור_form
+2018-10-24 09:14:54,283 INFO (null) DURATA QUERY LEMMA: 903
+2018-10-24 09:22:53,513 INFO (andreab) RESET Attestation Search Filter 
+2018-10-24 09:22:55,123 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 09:23:04,831 INFO (andreab) SELECT Attestation PROVA Text of adiman
+2018-10-24 09:23:38,680 INFO (andreab) All resources released 
+2018-10-24 09:23:38,680 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:32:40,777 INFO OmegaLex start
+2018-10-24 09:32:44,513 INFO OmegaLex start
+2018-10-24 09:32:48,655 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:35:27,491 INFO (andreab) All resources released 
+2018-10-24 09:35:27,491 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:37:22,100 INFO OmegaLex start
+2018-10-24 09:37:25,887 INFO OmegaLex start
+2018-10-24 09:37:30,255 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:38:18,886 INFO (andreab) SELECT Attestation PROVA Text of adiman
+2018-10-24 09:38:24,697 INFO (andreab) DELETE External attestation PROVA of adiman
+2018-10-24 09:38:36,492 INFO (andreab) RESET Attestation Search Filter 
+2018-10-24 09:38:37,907 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 09:39:07,598 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-10-24 09:39:10,697 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-24 09:41:40,327 INFO (andreab) All resources released 
+2018-10-24 09:41:40,327 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:41:43,288 INFO OmegaLex start
+2018-10-24 09:43:26,830 INFO OmegaLex start
+2018-10-24 09:43:38,981 INFO OmegaLex start
+2018-10-24 09:43:43,094 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:44:37,420 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-10-24 09:44:38,403 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 09:44:38,624 INFO (null) DURATA QUERY SENSO: 3
+2018-10-24 09:44:38,625 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:44:38,625 INFO (null) DURATA QUERY LEMMA: 1207
+2018-10-24 09:44:42,103 INFO (andreab) ADD empty External Documentation to lemma afolar1
+2018-10-24 09:45:00,831 INFO (andreab) SAVE new external attestation (id DB: 65536) of afolar1
+2018-10-24 09:45:05,346 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 09:45:21,872 INFO (andreab) UPDATE external attestation (id DB: 65536) of afolar1
+2018-10-24 09:45:37,142 INFO (andreab) UPDATE Internal attestation of afolar1
+2018-10-24 09:45:42,157 INFO (andreab) UPDATE internal attestation (id DB: 888) of afolar1
+2018-10-24 09:46:42,563 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 09:46:47,246 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 09:46:52,987 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-10-24 09:46:53,976 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 09:46:54,168 INFO (null) DURATA QUERY SENSO: 2
+2018-10-24 09:46:54,169 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:46:54,169 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:46:54,169 INFO (null) DURATA QUERY LEMMA: 1184
+2018-10-24 09:46:58,203 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 09:48:42,969 INFO (andreab) SELECT Attestation PROVA Text of afolar1
+2018-10-24 09:48:47,452 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-10-24 09:48:48,403 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 09:48:48,587 INFO (null) DURATA QUERY SENSO: 1
+2018-10-24 09:48:48,588 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:48:48,588 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:48:48,588 INFO (null) DURATA QUERY LEMMA: 1138
+2018-10-24 09:48:50,499 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 09:52:39,075 INFO (andreab) All resources released 
+2018-10-24 09:52:39,075 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:52:41,934 INFO OmegaLex start
+2018-10-24 09:53:04,680 INFO OmegaLex start
+2018-10-24 09:53:53,991 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-24 09:54:15,622 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-10-24 09:54:16,683 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 09:54:16,871 INFO (null) DURATA QUERY SENSO: 2
+2018-10-24 09:54:16,872 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 09:54:16,872 INFO (null) DURATA QUERY LEMMA: 1253
+2018-10-24 09:54:20,187 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 10:25:07,420 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 10:27:28,922 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 10:36:21,106 INFO (andreab) UPDATE External attestation of afolar1
+2018-10-24 10:36:34,948 INFO (andreab) SELECT Lemma afolar2_aoc_lemma
+2018-10-24 10:36:35,941 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 10:36:35,945 INFO (null) DURATA QUERY FORMA: 3
+2018-10-24 10:36:36,134 INFO (null) DURATA QUERY SENSO: 1
+2018-10-24 10:36:36,134 INFO (andreab) UNLOCK the lexical entry related to afolar2_aoc_lemma
+2018-10-24 10:36:36,134 INFO (andreab) LOCK the lexical entry related to afolar2_aoc_lemma
+2018-10-24 10:36:36,134 INFO (null) DURATA QUERY LEMMA: 1188
+2018-10-24 10:36:39,874 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-10-24 10:36:40,854 INFO (null) DURATA QUERY FORMA: 2
+2018-10-24 10:36:41,033 INFO (null) DURATA QUERY SENSO: 1
+2018-10-24 10:36:41,033 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 10:36:41,034 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-10-24 10:36:41,034 INFO (null) DURATA QUERY LEMMA: 1161
+2018-10-24 10:36:42,970 INFO (andreab) UPDATE Internal attestation of afolar1
+2018-10-24 11:05:29,243 INFO (andreab) All resources released 
+2018-10-24 11:05:29,243 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

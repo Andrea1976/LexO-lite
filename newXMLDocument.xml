@@ -1,0 +1,263 @@
+<rdf:RDF xml:base="http://ditmao.ilc.cnr.it/ditmao.owl">
+    <owl:Ontology rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl">
+        <owl:imports rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl"/>
+    </owl:Ontology>
+    
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#correspondence">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#senseRelation"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hasAlphabet">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#property"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#lemmaInfo">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#property"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#sublemmaOf">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#lexicalVariant"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hasSublemma">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#lexicalVariant"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#variant">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#property"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#constituent"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#correspondsTo"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#seeAlso"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#formVariant"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#lexicalVariant"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#property"/>
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#senseRelation"/>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#frenchTranslation">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl#translation"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#englishTranslation">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl#translation"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#frenchTranslationOf">
+        <owl:inverseOf rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#frenchTranslation"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#englishTranslationOf">
+        <owl:inverseOf rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#englishTranslation"/>
+    </owl:ObjectProperty>
+    
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#seeAOc"/>
+        
+    <owl:ObjectProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hasBilingualVariant">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#lexicalVariant"/>
+    </owl:ObjectProperty>
+
+    
+    <!-- 
+   ///////////////////////////////////////////////////////////////////////////////////////
+   //
+   // Data properties
+   //
+   ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#arabicTransliteration">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl#transliteration"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hasBibliography">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#representation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hasPosition">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#verified">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hebrewTransliteration">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl#transliteration"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#note">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#isDocumentedIn">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#representation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#alsoDocumentedIn">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#representation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#scientificName">
+        <rdfs:subPropertyOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#representation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+    <owl:DatatypeProperty rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lexinfo.owl#transliteration"/>
+    
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Alphabet">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#PropertyValue"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Collocation">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#Phrase"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#LemmaInfo">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#PropertyValue"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Sublemma">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Collocation"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#TransliterationType">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#PropertyValue"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#PropertyValue"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it:8082/DitmaoOntologies/lemon.rdf#PropertyValue"/>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Document"/>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Internal">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Document"/>
+    </owl:Class>
+    
+    <owl:Class rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#External">
+        <rdfs:subClassOf rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Document"/>
+    </owl:Class>
+    
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+    
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Arab">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Alphabet"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#ArabTrsl"/>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Hebr">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Alphabet"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#HebrTrsl"/>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Latn">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Alphabet"/>
+    </owl:NamedIndividual>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#alphabeticalVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#arabic">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#TransliterationType"/>
+    </owl:NamedIndividual>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#bilingualVariant">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:NamedIndividual>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#corpusExternalLemma">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#LemmaInfo"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#graphicVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#graphophoneticVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hebrew">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#TransliterationType"/>
+    </owl:NamedIndividual>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#hypoteticalForm">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#LemmaInfo"/>
+    </owl:Thing>
+    
+    <owl:NamedIndividual rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#linguisticVariant">
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:NamedIndividual>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#morphologicalVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#morphosyntacticVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#reconstructedForm">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#LemmaInfo"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#unspecifiedVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#linguisticVariant">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#Variant"/>
+    </owl:Thing>
+    
+    <owl:Thing rdf:about="http://ditmao.ilc.cnr.it/ditmaoLemon.owl#syntagma">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+        <rdf:type rdf:resource="http://www.lexinfo.net/ontology/2.0/lexinfo#PartOfSpeech"/>
+    </owl:Thing>
+</rdf:RDF>

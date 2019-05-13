@@ -1,0 +1,46 @@
+2018-07-12 13:17:26,893 INFO OmegaLex start
+2018-07-12 13:18:46,246 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 13:20:07,113 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-07-12 13:20:08,131 INFO (null) DURATA QUERY FORMA: 3
+2018-07-12 13:20:08,138 INFO (null) DURATA QUERY FORMA: 2
+2018-07-12 13:20:08,330 INFO (null) DURATA QUERY SENSO: 2
+2018-07-12 13:20:08,334 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-07-12 13:20:08,334 INFO (null) DURATA QUERY LEMMA: 1223
+2018-07-12 13:20:19,104 INFO (andreab) SELECT Lemma nervis_movibles_aoc_lemma
+2018-07-12 13:20:19,872 INFO (null) DURATA QUERY SENSO: 2
+2018-07-12 13:20:19,872 INFO (andreab) UNLOCK the lexical entry related to nervis_movibles_aoc_lemma
+2018-07-12 13:20:19,876 INFO (andreab) LOCK the lexical entry related to nervis_movibles_aoc_lemma
+2018-07-12 13:20:19,876 INFO (null) DURATA QUERY LEMMA: 774
+2018-07-12 13:20:28,016 INFO (andreab) SELECT Attestation Ric P(=Princeton) of abeillas
+2018-07-12 13:21:26,559 INFO (andreab) SELECT Lemma nervi_aoc_lemma
+2018-07-12 13:21:27,491 INFO (null) DURATA QUERY FORMA: 3
+2018-07-12 13:21:27,678 INFO (null) DURATA QUERY SENSO: 1
+2018-07-12 13:21:27,678 INFO (andreab) UNLOCK the lexical entry related to nervi_aoc_lemma
+2018-07-12 13:21:27,678 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2018-07-12 13:21:27,678 INFO (null) DURATA QUERY LEMMA: 1121
+2018-07-12 13:22:00,195 INFO (andreab) SELECT Lemma nervis_obtici_aoc_lemma
+2018-07-12 13:22:00,755 INFO (null) DURATA QUERY FORMA: 2
+2018-07-12 13:22:00,934 INFO (null) DURATA QUERY SENSO: 1
+2018-07-12 13:22:00,934 INFO (andreab) UNLOCK the lexical entry related to nervis_obtici_aoc_lemma
+2018-07-12 13:22:00,934 INFO (andreab) LOCK the lexical entry related to nervis_obtici_aoc_lemma
+2018-07-12 13:22:00,934 INFO (null) DURATA QUERY LEMMA: 741
+2018-07-12 13:29:06,772 INFO (andreab) All resources released 
+2018-07-12 13:29:06,772 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 13:29:09,615 INFO OmegaLex start
+2018-07-12 13:29:20,653 INFO OmegaLex start
+2018-07-12 13:29:23,716 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 13:29:43,902 INFO (andreab) SELECT Attestation ShS1 V(=Vatican1) of אברוטאנום
+2018-07-12 13:29:59,190 INFO (andreab) All resources released 
+2018-07-12 13:29:59,190 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 13:30:02,181 INFO OmegaLex start
+2018-07-12 13:39:36,180 INFO OmegaLex start
+2018-07-12 13:39:39,649 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 13:39:54,630 INFO (andreab) SELECT Attestation Ric P(=Princeton) of abeillas
+2018-07-12 13:40:03,165 INFO (andreab) SELECT Lemma nervi_aoc_lemma
+2018-07-12 13:40:04,188 INFO (null) DURATA QUERY FORMA: 2
+2018-07-12 13:40:04,367 INFO (null) DURATA QUERY SENSO: 2
+2018-07-12 13:40:04,375 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2018-07-12 13:40:04,375 INFO (null) DURATA QUERY LEMMA: 1213
+2018-07-12 13:40:12,980 INFO (andreab) All resources released 
+2018-07-12 13:40:12,980 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-12 16:54:14,269 INFO OmegaLex start

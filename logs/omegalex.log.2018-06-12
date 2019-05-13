@@ -1,0 +1,566 @@
+2018-06-12 09:13:26,059 INFO OmegaLex start
+2018-06-12 09:13:30,539 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:14:44,662 ERROR 
+org.hibernate.exception.SQLGrammarException: could not execute statement
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:80)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:211)
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:62)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3124)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3581)
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:104)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:465)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:351)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:350)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:56)
+	at org.hibernate.internal.SessionImpl.flush(SessionImpl.java:1258)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy170.flush(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.creator.DocumentImporter.importAttestations(DocumentImporter.java:195)
+	at it.cnr.ilc.lc.omegalex.creator.DocumentImporter.importDocuments(DocumentImporter.java:42)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.importDocuments(DomainCreator.java:179)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.doGet(DomainCreator.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'manuscript_id' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.Util.getInstance(Util.java:387)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:942)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:147)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:208)
+	... 45 more
+2018-06-12 09:20:03,619 INFO (andreab) All resources released 
+2018-06-12 09:20:03,619 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:20:25,746 INFO OmegaLex start
+2018-06-12 09:20:32,881 INFO OmegaLex start
+2018-06-12 09:40:20,936 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:43:47,667 INFO (andreab) All resources released 
+2018-06-12 09:43:47,667 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:43:57,905 INFO OmegaLex start
+2018-06-12 09:44:09,438 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:48:46,108 INFO (andreab) All resources released 
+2018-06-12 09:48:46,108 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 09:48:49,532 INFO OmegaLex start
+2018-06-12 09:48:53,085 INFO OmegaLex start
+2018-06-12 12:06:58,283 INFO OmegaLex start
+2018-06-12 12:10:31,592 INFO OmegaLex start
+2018-06-12 12:10:35,356 INFO OmegaLex start
+2018-06-12 12:10:39,184 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 12:11:09,488 INFO (andreab) All resources released 
+2018-06-12 12:11:09,488 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:02:34,684 INFO OmegaLex start
+2018-06-12 14:02:39,822 INFO OmegaLex start
+2018-06-12 14:02:44,432 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:05:01,426 INFO (andreab) All resources released 
+2018-06-12 14:05:01,426 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:05:14,652 INFO OmegaLex start
+2018-06-12 14:05:18,435 INFO OmegaLex start
+2018-06-12 14:05:22,386 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:06:26,463 INFO (andreab) All resources released 
+2018-06-12 14:06:26,463 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:13:00,020 INFO OmegaLex start
+2018-06-12 14:13:03,732 INFO OmegaLex start
+2018-06-12 14:13:07,429 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:13:31,426 INFO (andreab) All resources released 
+2018-06-12 14:13:31,426 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:19:21,504 INFO OmegaLex start
+2018-06-12 14:19:25,126 INFO OmegaLex start
+2018-06-12 14:19:31,020 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:20:26,579 INFO (andreab) All resources released 
+2018-06-12 14:20:26,579 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:20:30,016 INFO OmegaLex start
+2018-06-12 14:20:45,872 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:21:55,117 INFO (andreab) All resources released 
+2018-06-12 14:21:55,117 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:22:15,934 INFO OmegaLex start
+2018-06-12 14:22:20,681 INFO OmegaLex start
+2018-06-12 14:22:24,958 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:23:51,622 INFO (andreab) All resources released 
+2018-06-12 14:23:51,622 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:24:08,804 INFO OmegaLex start
+2018-06-12 14:24:13,090 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:29:43,889 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-06-12 14:29:45,155 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-06-12 14:29:46,750 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-06-12 14:29:48,885 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 14:29:53,717 INFO (andreab) SEARCH performed about attestation Book type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 14:29:55,914 INFO (andreab) SEARCH performed about attestation Article type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 14:29:59,121 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 14:36:52,159 INFO (andreab) All resources released 
+2018-06-12 14:36:52,159 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 14:36:55,160 INFO OmegaLex start
+2018-06-12 14:38:10,281 INFO OmegaLex start
+2018-06-12 14:48:59,185 INFO OmegaLex start
+2018-06-12 15:01:26,349 INFO OmegaLex start
+2018-06-12 15:01:30,036 INFO OmegaLex start
+2018-06-12 15:02:49,480 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:08:46,054 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: uu
+2018-06-12 15:08:47,059 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:08:48,058 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:08:48,220 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:08:50,248 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:09:19,318 INFO (andreab) All resources released 
+2018-06-12 15:09:19,318 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:17:58,178 INFO OmegaLex start
+2018-06-12 15:18:01,900 INFO OmegaLex start
+2018-06-12 15:18:06,688 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:24:32,526 INFO (andreab) All resources released 
+2018-06-12 15:24:32,526 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:24:35,542 INFO OmegaLex start
+2018-06-12 15:25:00,299 INFO OmegaLex start
+2018-06-12 15:25:04,288 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:31:46,597 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: aa
+2018-06-12 15:36:17,358 INFO (andreab) All resources released 
+2018-06-12 15:36:17,358 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:36:20,514 INFO OmegaLex start
+2018-06-12 15:36:34,194 INFO OmegaLex start
+2018-06-12 15:38:28,500 INFO OmegaLex start
+2018-06-12 15:40:02,341 INFO OmegaLex start
+2018-06-12 15:40:57,594 INFO OmegaLex start
+2018-06-12 15:41:02,491 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:41:22,342 INFO OmegaLex start
+2018-06-12 15:41:55,820 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:42:12,851 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: aa
+2018-06-12 15:42:20,008 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:42:23,339 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:42:23,886 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:42:25,131 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (a(a
+2018-06-12 15:42:26,892 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:42:29,698 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (T(T
+2018-06-12 15:42:29,917 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (T(T
+2018-06-12 15:42:31,985 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Th(Th
+2018-06-12 15:42:32,105 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (The(The
+2018-06-12 15:42:32,386 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes(Thes
+2018-06-12 15:42:34,075 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes)(Thes)
+2018-06-12 15:42:34,187 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes)(Thes)
+2018-06-12 15:42:34,848 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) (Thes) 
+2018-06-12 15:42:35,922 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) ((Thes) (
+2018-06-12 15:42:36,035 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) ((Thes) (
+2018-06-12 15:42:39,706 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) (X(Thes) (X
+2018-06-12 15:42:39,823 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) (X(Thes) (X
+2018-06-12 15:42:40,402 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) ((Thes) (
+2018-06-12 15:42:51,487 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes) (Thes) 
+2018-06-12 15:42:51,647 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes)(Thes)
+2018-06-12 15:42:51,801 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Thes(Thes
+2018-06-12 15:42:51,964 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (The(The
+2018-06-12 15:42:52,118 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Th(Th
+2018-06-12 15:42:53,223 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (T(T
+2018-06-12 15:42:54,671 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:42:55,000 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:43:03,384 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:43:03,817 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:43:04,121 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (er(er
+2018-06-12 15:43:04,377 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb(erb
+2018-06-12 15:43:04,418 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb(erb
+2018-06-12 15:43:04,448 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb(erb
+2018-06-12 15:43:04,829 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb (erb 
+2018-06-12 15:43:04,957 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb a(erb a
+2018-06-12 15:43:05,470 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb (erb 
+2018-06-12 15:43:05,630 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (erb(erb
+2018-06-12 15:43:05,782 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (er(er
+2018-06-12 15:43:05,926 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (e(e
+2018-06-12 15:43:06,198 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:43:06,735 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (E(E
+2018-06-12 15:43:06,896 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (E(E
+2018-06-12 15:43:07,303 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Er(Er
+2018-06-12 15:43:08,208 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb(Erb
+2018-06-12 15:43:10,097 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb (Erb 
+2018-06-12 15:43:10,207 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb a(Erb a
+2018-06-12 15:43:11,510 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb a)(Erb a)
+2018-06-12 15:43:11,556 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb a)(Erb a)
+2018-06-12 15:43:14,537 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb a(Erb a
+2018-06-12 15:43:14,694 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb (Erb 
+2018-06-12 15:43:14,903 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Erb(Erb
+2018-06-12 15:43:15,070 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Er(Er
+2018-06-12 15:43:15,222 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (E(E
+2018-06-12 15:43:15,476 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-12 15:43:15,787 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:43:24,446 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Bcontains: B
+2018-06-12 15:43:24,578 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Bcontains: B
+2018-06-12 15:43:25,924 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - contains: 
+2018-06-12 15:43:31,579 INFO (andreab) RESET Attestation Search Filter 
+2018-06-12 15:43:31,797 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:43:35,381 INFO (andreab) RESET Attestation Search Filter 
+2018-06-12 15:43:35,612 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:43:43,648 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - hcontains: h
+2018-06-12 15:44:39,674 INFO (andreab) All resources released 
+2018-06-12 15:44:39,674 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:44:43,633 INFO OmegaLex start
+2018-06-12 15:44:54,706 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:47:51,232 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - hcontains: h
+2018-06-12 15:48:20,399 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: hh
+2018-06-12 15:48:23,765 INFO (andreab) All resources released 
+2018-06-12 15:48:23,765 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:48:44,366 INFO OmegaLex start
+2018-06-12 15:48:48,804 INFO OmegaLex start
+2018-06-12 15:48:53,481 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:50:25,659 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - hcontains: h
+2018-06-12 15:50:30,544 INFO (andreab) All resources released 
+2018-06-12 15:50:30,544 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:51:16,131 INFO OmegaLex start
+2018-06-12 15:51:19,787 INFO OmegaLex start
+2018-06-12 15:51:23,619 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:51:54,933 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - 2contains: 2
+2018-06-12 15:51:58,412 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - contains: 
+2018-06-12 15:52:07,359 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-06-12 15:52:08,538 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-06-12 15:52:12,240 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: aa
+2018-06-12 15:52:13,805 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-06-12 15:52:18,328 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - 2contains: 2
+2018-06-12 15:52:22,135 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - 2contains: 2
+2018-06-12 15:52:23,381 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 22
+2018-06-12 15:52:28,549 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 15:53:11,842 INFO (andreab) All resources released 
+2018-06-12 15:53:11,842 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:53:25,875 INFO OmegaLex start
+2018-06-12 15:53:29,359 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:56:51,013 INFO (andreab) All resources released 
+2018-06-12 15:56:51,013 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:56:53,997 INFO OmegaLex start
+2018-06-12 15:57:01,101 INFO OmegaLex start
+2018-06-12 15:57:29,306 INFO OmegaLex start
+2018-06-12 15:57:32,962 INFO OmegaLex start
+2018-06-12 15:57:51,473 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 15:58:50,420 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Tcontains: T
+2018-06-12 15:58:50,858 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - TBcontains: TB
+2018-06-12 15:58:50,990 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - TBDcontains: TBD
+2018-06-12 15:58:51,071 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - TBDcontains: TBD
+2018-06-12 15:58:53,912 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - TBcontains: TB
+2018-06-12 15:58:54,808 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Tcontains: T
+2018-06-12 15:58:56,604 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - contains: 
+2018-06-12 16:04:46,973 INFO access denied from Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 on 192.168.92.125
+2018-06-12 16:04:46,973 INFO (root) access denied from Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 on 192.168.92.125
+2018-06-12 16:04:54,040 INFO (emiliano) logged in from Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 on 192.168.92.125
+2018-06-12 16:07:25,305 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: bb
+2018-06-12 16:07:25,667 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: brbr
+2018-06-12 16:07:25,709 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: brobro
+2018-06-12 16:07:25,915 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: broqbroq
+2018-06-12 16:07:27,086 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: brobro
+2018-06-12 16:07:27,244 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: brbr
+2018-06-12 16:07:27,392 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: bb
+2018-06-12 16:07:27,647 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 16:07:28,114 INFO (emiliano) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-12 16:09:21,531 INFO (emiliano) SELECT Lemma _star_broquel_aoc_lemma
+2018-06-12 16:09:22,521 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 16:09:22,702 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 16:09:22,709 INFO (emiliano) LOCK the lexical entry related to _star_broquel_aoc_lemma
+2018-06-12 16:09:22,709 INFO (null) DURATA QUERY LEMMA: 1179
+2018-06-12 16:09:47,383 INFO (emiliano) ADD empty Internal Documentation to lemma broquel
+2018-06-12 16:13:16,466 INFO (emiliano) All resources released 
+2018-06-12 16:13:16,466 INFO (emiliano) logged out from Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 on 192.168.92.125
+2018-06-12 16:13:16,466 INFO (andreab) All resources released 
+2018-06-12 16:13:16,466 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 16:24:59,467 INFO OmegaLex start
+2018-06-12 16:25:03,043 INFO OmegaLex start
+2018-06-12 16:25:06,518 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 16:43:18,103 INFO (andreab) All resources released 
+2018-06-12 16:43:18,103 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 16:43:21,389 INFO OmegaLex start
+2018-06-12 16:43:56,544 INFO OmegaLex start
+2018-06-12 16:44:00,337 INFO OmegaLex start
+2018-06-12 16:44:04,818 INFO OmegaLex start
+2018-06-12 16:47:11,029 INFO OmegaLex start
+2018-06-12 16:47:41,794 INFO OmegaLex start
+2018-06-12 16:47:44,775 INFO OmegaLex start
+2018-06-12 16:58:01,952 INFO OmegaLex start
+2018-06-12 17:03:06,873 INFO OmegaLex start
+2018-06-12 17:12:05,181 INFO OmegaLex start
+2018-06-12 17:12:08,810 INFO OmegaLex start
+2018-06-12 17:12:15,760 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:12:29,773 INFO (andreab) SELECT Lemma colera_aoc_lemma
+2018-06-12 17:12:30,758 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:12:30,764 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:12:30,954 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:12:30,958 INFO (andreab) LOCK the lexical entry related to colera_aoc_lemma
+2018-06-12 17:12:30,958 INFO (null) DURATA QUERY LEMMA: 1189
+2018-06-12 17:13:56,027 INFO (andreab) SELECT Lemma erba_sana_aoc_lemma
+2018-06-12 17:13:56,575 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:13:56,579 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:13:56,756 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:13:56,756 INFO (andreab) UNLOCK the lexical entry related to erba_sana_aoc_lemma
+2018-06-12 17:13:56,756 INFO (andreab) LOCK the lexical entry related to erba_sana_aoc_lemma
+2018-06-12 17:13:56,757 INFO (null) DURATA QUERY LEMMA: 730
+2018-06-12 17:14:36,813 INFO (andreab) SELECT Lemma oli_rozat_aoc_lemma
+2018-06-12 17:14:37,382 INFO (null) DURATA QUERY FORMA: 1
+2018-06-12 17:14:37,386 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:14:37,390 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:14:37,393 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:14:37,574 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:14:37,574 INFO (andreab) UNLOCK the lexical entry related to oli_rozat_aoc_lemma
+2018-06-12 17:14:37,574 INFO (andreab) LOCK the lexical entry related to oli_rozat_aoc_lemma
+2018-06-12 17:14:37,575 INFO (null) DURATA QUERY LEMMA: 764
+2018-06-12 17:14:46,942 INFO (andreab) All resources released 
+2018-06-12 17:14:46,942 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:15:59,804 INFO OmegaLex start
+2018-06-12 17:16:05,680 INFO OmegaLex start
+2018-06-12 17:19:59,379 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:20:18,878 INFO (andreab) SELECT Lemma colera_aoc_lemma
+2018-06-12 17:21:16,912 INFO (null) DURATA QUERY FORMA: 4
+2018-06-12 17:21:36,805 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:21:37,515 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:21:37,524 INFO (andreab) LOCK the lexical entry related to colera_aoc_lemma
+2018-06-12 17:21:37,524 INFO (null) DURATA QUERY LEMMA: 78650
+2018-06-12 17:22:25,921 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:22:54,079 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:22:54,279 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:22:54,279 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:22:54,279 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:22:54,280 INFO (null) DURATA QUERY LEMMA: 28360
+2018-06-12 17:25:03,210 INFO (andreab) All resources released 
+2018-06-12 17:25:03,210 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:25:06,346 INFO OmegaLex start
+2018-06-12 17:26:02,769 INFO OmegaLex start
+2018-06-12 17:26:21,879 INFO OmegaLex start
+2018-06-12 17:26:35,230 INFO OmegaLex start
+2018-06-12 17:27:04,378 INFO OmegaLex start
+2018-06-12 17:27:11,361 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:28:22,015 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:28:23,199 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:28:23,401 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:28:23,408 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:28:23,408 INFO (null) DURATA QUERY LEMMA: 1395
+2018-06-12 17:32:46,979 INFO (andreab) All resources released 
+2018-06-12 17:32:46,979 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:32:49,982 INFO OmegaLex start
+2018-06-12 17:36:17,830 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:39:00,910 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-12 17:39:02,139 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:39:02,143 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:39:02,146 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:39:02,150 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:39:02,154 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:39:02,157 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:39:02,367 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:39:02,375 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-12 17:39:02,375 INFO (null) DURATA QUERY LEMMA: 1468
+2018-06-12 17:39:06,119 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-12 17:39:07,223 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:39:07,227 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:39:07,230 INFO (null) DURATA QUERY FORMA: 1
+2018-06-12 17:39:07,433 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:39:07,434 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:39:07,435 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2018-06-12 17:39:07,511 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-12 17:39:07,511 INFO (null) DURATA QUERY LEMMA: 1395
+2018-06-12 17:39:11,019 INFO (andreab) UPDATE Internal attestation of accession
+2018-06-12 17:39:23,982 INFO (andreab) UPDATE Internal attestation of accession
+2018-06-12 17:44:24,671 INFO (andreab) All resources released 
+2018-06-12 17:44:24,671 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:44:27,759 INFO OmegaLex start
+2018-06-12 17:44:47,942 INFO OmegaLex start
+2018-06-12 17:47:14,497 INFO OmegaLex start
+2018-06-12 17:48:10,224 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:48:21,940 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-12 17:48:22,976 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:48:22,981 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:48:22,985 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:48:23,187 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:48:23,189 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:48:23,192 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-12 17:48:23,192 INFO (null) DURATA QUERY LEMMA: 1254
+2018-06-12 17:48:36,783 INFO (andreab) UPDATE Internal attestation of accession
+2018-06-12 17:49:34,223 INFO (andreab) All resources released 
+2018-06-12 17:49:34,224 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:53:37,174 INFO OmegaLex start
+2018-06-12 17:53:40,985 INFO OmegaLex start
+2018-06-12 17:54:13,730 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 17:54:40,953 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-12 17:54:42,163 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:54:42,171 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-12 17:54:42,171 INFO (null) DURATA QUERY LEMMA: 1220
+2018-06-12 17:54:44,927 INFO (andreab) ADD empty Internal Documentation to lemma acassia2*
+2018-06-12 17:55:02,835 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:55:03,811 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:55:04,002 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:55:04,003 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:04,003 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:04,003 INFO (null) DURATA QUERY LEMMA: 1170
+2018-06-12 17:55:08,192 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 17:55:21,506 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:55:22,473 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 17:55:22,661 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 17:55:22,662 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:22,662 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:22,662 INFO (null) DURATA QUERY LEMMA: 1158
+2018-06-12 17:55:30,047 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:55:31,005 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:55:31,192 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:55:31,192 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:31,192 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:55:31,192 INFO (null) DURATA QUERY LEMMA: 1147
+2018-06-12 17:55:34,617 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 17:57:41,620 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 17:57:42,629 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 17:57:42,828 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 17:57:42,828 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:57:42,828 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 17:57:42,828 INFO (null) DURATA QUERY LEMMA: 1210
+2018-06-12 17:57:47,970 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 17:58:22,545 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 18:03:49,339 INFO (andreab) All resources released 
+2018-06-12 18:03:49,339 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:03:52,337 INFO OmegaLex start
+2018-06-12 18:03:56,613 INFO OmegaLex start
+2018-06-12 18:21:54,328 INFO OmegaLex start
+2018-06-12 18:21:58,028 INFO OmegaLex start
+2018-06-12 18:22:05,813 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:22:20,820 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:22:21,808 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:22:21,812 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:22:21,816 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:22:21,819 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:22:21,823 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:22:22,023 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 18:22:22,024 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:22:22,028 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:22:22,028 INFO (null) DURATA QUERY LEMMA: 1211
+2018-06-12 18:22:26,167 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:22:49,862 INFO (andreab) SELECT Lemma licor_aoc_lemma
+2018-06-12 18:22:50,830 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:22:51,029 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:22:51,030 INFO (andreab) UNLOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 18:22:51,030 INFO (andreab) LOCK the lexical entry related to licor_aoc_lemma
+2018-06-12 18:22:51,030 INFO (null) DURATA QUERY LEMMA: 1170
+2018-06-12 18:22:55,598 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 18:23:00,261 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 18:23:06,216 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 18:23:12,635 INFO (andreab) UPDATE Internal attestation of licor
+2018-06-12 18:25:44,191 INFO (andreab) RESET Lemma Search Filter 
+2018-06-12 18:25:48,347 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-12 18:25:49,297 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:25:49,300 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:25:49,303 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:25:49,307 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:25:49,311 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:25:49,314 INFO (null) DURATA QUERY FORMA: 1
+2018-06-12 18:25:49,506 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:25:49,507 INFO (andreab) UNLOCK the lexical entry related to aglan_aoc_lemma
+2018-06-12 18:25:49,507 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-12 18:25:49,507 INFO (null) DURATA QUERY LEMMA: 1162
+2018-06-12 18:33:48,764 INFO (andreab) UPDATE Internal attestation of aglan
+2018-06-12 18:37:37,100 INFO (andreab) All resources released 
+2018-06-12 18:37:37,100 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:37:40,144 INFO OmegaLex start
+2018-06-12 18:40:16,076 INFO OmegaLex start
+2018-06-12 18:40:21,141 INFO OmegaLex start
+2018-06-12 18:40:31,969 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:41:19,016 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:41:24,886 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:41:24,890 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:41:24,894 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:41:24,899 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:41:24,903 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:41:25,127 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 18:41:25,128 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:41:25,150 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:41:25,150 INFO (null) DURATA QUERY LEMMA: 6137
+2018-06-12 18:41:29,065 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:42:45,561 INFO (andreab) All resources released 
+2018-06-12 18:42:45,561 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:44:03,505 INFO OmegaLex start
+2018-06-12 18:44:08,609 INFO OmegaLex start
+2018-06-12 18:44:12,758 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:44:25,422 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:44:26,531 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:44:26,535 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:44:26,539 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:44:26,543 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:44:26,547 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:44:26,771 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 18:44:26,772 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:44:26,795 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:44:26,795 INFO (null) DURATA QUERY LEMMA: 1376
+2018-06-12 18:44:29,642 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:45:55,747 INFO (andreab) All resources released 
+2018-06-12 18:45:55,747 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:45:59,079 INFO OmegaLex start
+2018-06-12 18:46:40,173 INFO OmegaLex start
+2018-06-12 18:46:43,961 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:46:57,448 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:46:58,656 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:46:58,660 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:46:58,665 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:46:58,668 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:46:58,672 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:46:58,882 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 18:46:58,883 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:46:58,887 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:46:58,887 INFO (null) DURATA QUERY LEMMA: 1442
+2018-06-12 18:47:01,983 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:47:19,705 INFO (andreab) UPDATE internal attestation (id DB: 131640) of acitoal
+2018-06-12 18:48:42,244 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:48:43,350 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:48:43,353 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:48:43,356 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:48:43,359 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:48:43,362 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:48:43,568 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:48:43,569 INFO (null) DURATA QUERY SENSO: 0
+2018-06-12 18:48:43,570 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:48:43,610 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:48:43,610 INFO (null) DURATA QUERY LEMMA: 1368
+2018-06-12 18:48:48,845 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:49:47,910 INFO (andreab) All resources released 
+2018-06-12 18:49:47,910 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:49:50,983 INFO OmegaLex start
+2018-06-12 18:50:25,762 INFO OmegaLex start
+2018-06-12 18:50:36,895 INFO OmegaLex start
+2018-06-12 18:50:42,587 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-12 18:50:57,812 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-12 18:50:59,054 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:50:59,059 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:50:59,062 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:50:59,066 INFO (null) DURATA QUERY FORMA: 3
+2018-06-12 18:50:59,070 INFO (null) DURATA QUERY FORMA: 2
+2018-06-12 18:50:59,279 INFO (null) DURATA QUERY SENSO: 2
+2018-06-12 18:50:59,280 INFO (null) DURATA QUERY SENSO: 1
+2018-06-12 18:50:59,283 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-12 18:50:59,284 INFO (null) DURATA QUERY LEMMA: 1474
+2018-06-12 18:51:02,536 INFO (andreab) UPDATE Internal attestation of acitoal
+2018-06-12 18:51:10,825 INFO (andreab) UPDATE internal attestation (id DB: 131640) of acitoal
+2018-06-12 18:52:01,440 INFO (andreab) All resources released 
+2018-06-12 18:52:01,440 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

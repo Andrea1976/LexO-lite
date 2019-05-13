@@ -1,0 +1,180 @@
+2019-04-23 11:02:15,576 INFO OmegaLex start
+2019-04-23 11:03:17,053 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy98.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2019-04-23 11:04:24,442 INFO OmegaLex start
+2019-04-23 11:05:25,606 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy145.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2019-04-23 11:07:18,701 INFO OmegaLex start
+2019-04-23 11:07:26,615 INFO (andreab) navigate to lexicon editor
+2019-04-23 11:07:47,994 INFO (andreab) navigate to lexicon view
+2019-04-23 11:07:52,085 INFO (andreab) navigate to accounts
+2019-04-23 11:07:55,237 INFO (andreab) navigate to lexicon editor
+2019-04-23 11:37:07,647 INFO OmegaLex start
+2019-04-23 11:37:11,437 INFO OmegaLex start
+2019-04-23 11:37:18,718 INFO (andreab) navigate to lexicon editor
+2019-04-23 11:41:40,629 INFO OmegaLex start
+2019-04-23 11:41:48,528 INFO (andreab) navigate to lexicon editor
+2019-04-23 11:42:06,297 INFO (andreab) SELECT Ontology class: destreMuscle
+2019-04-23 11:42:06,304 INFO (null) <http://ditmao/ontology#destreMuscle> labelled v. nervi tattili
+2019-04-23 11:42:08,185 INFO (andreab) SELECT Ontology class: craneum
+2019-04-23 11:42:09,595 INFO (andreab) SELECT Ontology class: barrasDesus
+2019-04-23 11:42:10,313 INFO (andreab) SELECT Ontology class: espinaDelDors
+2019-04-23 11:42:10,313 INFO (null) <http://ditmao/ontology#espinaDelDors> labelled da EspinaDelDors escono nervis che vanno in tutto il corpo
+2019-04-23 11:43:46,731 INFO OmegaLex start
+2019-04-23 11:49:22,296 INFO OmegaLex start
+2019-04-23 11:49:30,344 INFO (andreab) navigate to lexicon editor
+2019-04-23 11:49:45,681 INFO (andreab) SELECT Ontology class: Phenomenon
+2019-04-23 11:49:49,580 INFO (andreab) SELECT Ontology class: Mental_Element
+2019-04-23 11:52:41,029 INFO (andreab) SELECT Ontology class: Representation
+2019-04-23 11:54:26,397 INFO (null) DURATA QUERY FORMA: 4
+2019-04-23 11:54:26,403 INFO (null) DURATA QUERY FORMA: 2
+2019-04-23 11:54:26,409 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 11:54:26,415 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 11:54:26,419 INFO (null) DURATA QUERY FORMA: 2
+2019-04-23 11:54:26,729 INFO (null) DURATA QUERY SENSO: 3
+2019-04-23 11:54:26,731 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-04-23 11:54:26,731 INFO (null) DURATA QUERY LEMMA: 1940
+2019-04-23 11:54:43,506 INFO (andreab) SELECT Ontology class: Group
+2019-04-23 11:54:48,484 INFO (andreab) SELECT Ontology class: Linguistic_Entity
+2019-04-23 11:55:10,128 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 11:55:10,132 INFO (null) DURATA QUERY FORMA: 2
+2019-04-23 11:55:10,135 INFO (null) DURATA QUERY FORMA: 2
+2019-04-23 11:55:10,435 INFO (null) DURATA QUERY SENSO: 1
+2019-04-23 11:55:10,436 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2019-04-23 11:55:10,436 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2019-04-23 11:55:10,437 INFO (null) DURATA QUERY LEMMA: 1866
+2019-04-23 11:56:23,728 INFO (andreab) ADD empty ontological reference to accession_aoc_sense1
+2019-04-23 12:00:18,137 INFO (andreab) VIEW Deatils of the ressuriection_aoc_sense1 synonym of accession_aoc_sense1
+2019-04-23 12:00:20,252 INFO (null) DURATA QUERY SENSO: 1
+2019-04-23 12:00:20,252 INFO (andreab) LOCK the lexical entry related to ressuriection_aoc_lemma
+2019-04-23 12:04:24,309 INFO (andreab) UNLOCK the lexical entry related to ressuriection_aoc_lemma
+2019-04-23 12:20:16,169 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 12:20:16,465 INFO (null) DURATA QUERY SENSO: 1
+2019-04-23 12:20:16,467 INFO (andreab) UNLOCK the lexical entry related to acression_aoc_lemma
+2019-04-23 12:20:16,467 INFO (andreab) LOCK the lexical entry related to acression_aoc_lemma
+2019-04-23 12:20:16,467 INFO (null) DURATA QUERY LEMMA: 1851
+2019-04-23 12:20:24,069 INFO (null) DURATA QUERY SENSO: 1
+2019-04-23 12:20:24,071 INFO (andreab) UNLOCK the lexical entry related to acassia3_aoc_lemma
+2019-04-23 12:20:24,071 INFO (andreab) LOCK the lexical entry related to acassia3_aoc_lemma
+2019-04-23 12:20:24,071 INFO (null) DURATA QUERY LEMMA: 1885
+2019-04-23 14:36:56,253 INFO OmegaLex start
+2019-04-23 14:41:58,586 INFO (andreab) navigate to lexicon editor
+2019-04-23 14:44:11,795 INFO OmegaLex start
+2019-04-23 14:45:25,433 INFO OmegaLex start
+2019-04-23 14:45:28,562 INFO OmegaLex start
+2019-04-23 14:47:27,829 INFO OmegaLex start
+2019-04-23 14:47:31,571 INFO OmegaLex start
+2019-04-23 14:47:42,393 INFO (andreab) navigate to lexicon editor
+2019-04-23 14:48:11,728 INFO (andreab) SELECT Ontology class: Mental_Creation
+2019-04-23 14:48:27,343 INFO (null) DURATA QUERY SENSO: 2
+2019-04-23 14:48:27,346 INFO (andreab) LOCK the lexical entry related to acassia3_aoc_lemma
+2019-04-23 14:48:27,346 INFO (null) DURATA QUERY LEMMA: 1919
+2019-04-23 14:48:33,705 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 14:48:33,709 INFO (null) DURATA QUERY FORMA: 3
+2019-04-23 14:48:34,009 INFO (null) DURATA QUERY SENSO: 2
+2019-04-23 14:48:34,010 INFO (andreab) UNLOCK the lexical entry related to acorus_aoc_lemma
+2019-04-23 14:48:34,011 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-04-23 14:48:34,011 INFO (null) DURATA QUERY LEMMA: 1865
+2019-04-23 14:48:43,010 INFO (null) DURATA QUERY SENSO: 2
+2019-04-23 14:48:43,011 INFO (andreab) UNLOCK the lexical entry related to afolament_aoc_lemma
+2019-04-23 14:48:43,012 INFO (andreab) LOCK the lexical entry related to afolament_aoc_lemma
+2019-04-23 14:48:43,012 INFO (null) DURATA QUERY LEMMA: 1881
+2019-04-23 14:58:10,067 INFO OmegaLex start
+2019-04-23 14:58:30,097 INFO OmegaLex start
+2019-04-23 14:58:33,754 INFO (andreab) navigate to lexicon editor

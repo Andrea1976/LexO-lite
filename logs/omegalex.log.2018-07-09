@@ -1,0 +1,64 @@
+2018-07-09 17:26:16,017 INFO OmegaLex start
+2018-07-09 17:26:26,990 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:34:30,723 INFO (andreab) All resources released 
+2018-07-09 17:34:30,723 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:34:34,174 INFO OmegaLex start
+2018-07-09 17:34:37,056 INFO OmegaLex start
+2018-07-09 17:39:38,104 INFO OmegaLex start
+2018-07-09 17:39:41,988 INFO OmegaLex start
+2018-07-09 17:39:46,442 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:40:02,345 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-07-09 17:40:03,325 INFO (null) DURATA QUERY FORMA: 3
+2018-07-09 17:40:03,332 INFO (null) DURATA QUERY FORMA: 3
+2018-07-09 17:40:03,522 INFO (null) DURATA QUERY SENSO: 2
+2018-07-09 17:40:03,526 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-07-09 17:40:03,526 INFO (null) DURATA QUERY LEMMA: 1183
+2018-07-09 17:42:53,811 INFO (andreab) All resources released 
+2018-07-09 17:42:53,812 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:42:57,330 INFO OmegaLex start
+2018-07-09 17:43:53,368 INFO OmegaLex start
+2018-07-09 17:44:02,352 INFO OmegaLex start
+2018-07-09 17:44:06,987 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:46:08,860 INFO (andreab) All resources released 
+2018-07-09 17:46:08,860 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:46:11,921 INFO OmegaLex start
+2018-07-09 17:54:46,521 INFO OmegaLex start
+2018-07-09 17:54:53,658 INFO OmegaLex start
+2018-07-09 17:54:57,573 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:56:22,539 INFO (andreab) All resources released 
+2018-07-09 17:56:22,539 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:56:26,607 INFO OmegaLex start
+2018-07-09 17:56:30,298 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:56:59,497 INFO (andreab) All resources released 
+2018-07-09 17:56:59,498 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:57:19,374 INFO OmegaLex start
+2018-07-09 17:57:24,590 INFO OmegaLex start
+2018-07-09 17:57:28,892 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:58:34,568 INFO (andreab) All resources released 
+2018-07-09 17:58:34,568 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 17:59:20,501 INFO OmegaLex start
+2018-07-09 17:59:24,367 INFO OmegaLex start
+2018-07-09 17:59:28,141 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-09 18:00:33,653 INFO (andreab) SELECT Lemma nervis_movedors_aoc_lemma
+2018-07-09 18:00:34,469 INFO (null) DURATA QUERY SENSO: 2
+2018-07-09 18:00:34,476 INFO (andreab) LOCK the lexical entry related to nervis_movedors_aoc_lemma
+2018-07-09 18:00:34,476 INFO (null) DURATA QUERY LEMMA: 826
+2018-07-09 18:00:38,007 INFO (andreab) SELECT Lemma nervi_aoc_lemma
+2018-07-09 18:00:38,935 INFO (null) DURATA QUERY FORMA: 4
+2018-07-09 18:00:39,114 INFO (null) DURATA QUERY SENSO: 1
+2018-07-09 18:00:39,114 INFO (andreab) UNLOCK the lexical entry related to nervi_aoc_lemma
+2018-07-09 18:00:39,114 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2018-07-09 18:00:39,114 INFO (null) DURATA QUERY LEMMA: 1109
+2018-07-09 18:00:44,111 INFO (andreab) SELECT Lemma nervis_sensibles_aoc_lemma
+2018-07-09 18:00:44,835 INFO (null) DURATA QUERY SENSO: 2
+2018-07-09 18:00:44,835 INFO (andreab) UNLOCK the lexical entry related to nervis_sensibles_aoc_lemma
+2018-07-09 18:00:44,835 INFO (andreab) LOCK the lexical entry related to nervis_sensibles_aoc_lemma
+2018-07-09 18:00:44,835 INFO (null) DURATA QUERY LEMMA: 726
+2018-07-09 18:00:51,828 INFO (andreab) SELECT Lemma nervis_obtici_aoc_lemma
+2018-07-09 18:00:52,377 INFO (null) DURATA QUERY FORMA: 2
+2018-07-09 18:00:52,557 INFO (null) DURATA QUERY SENSO: 1
+2018-07-09 18:00:52,557 INFO (andreab) UNLOCK the lexical entry related to nervis_obtici_aoc_lemma
+2018-07-09 18:00:52,558 INFO (andreab) LOCK the lexical entry related to nervis_obtici_aoc_lemma
+2018-07-09 18:00:52,558 INFO (null) DURATA QUERY LEMMA: 732
+2018-07-09 18:01:15,085 INFO (andreab) All resources released 
+2018-07-09 18:01:15,085 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

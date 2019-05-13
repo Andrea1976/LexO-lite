@@ -1,0 +1,204 @@
+2018-10-29 08:18:06,538 INFO OmegaLex start
+2018-10-29 08:18:12,179 INFO OmegaLex start
+2018-10-29 08:18:16,306 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 08:22:28,478 INFO (andreab) SELECT Lemma acression_aoc_lemma
+2018-10-29 08:22:32,730 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 08:22:32,962 INFO (null) DURATA QUERY SENSO: 2
+2018-10-29 08:22:32,963 INFO (andreab) LOCK the lexical entry related to acression_aoc_lemma
+2018-10-29 08:22:32,964 INFO (null) DURATA QUERY LEMMA: 4488
+2018-10-29 08:22:41,357 INFO (andreab) ADD empty External Documentation to lemma acression
+2018-10-29 08:23:04,145 INFO (andreab) SAVE new external attestation (id DB: 196608) of acression
+2018-10-29 08:24:02,386 INFO (andreab) RESET Attestation Search Filter 
+2018-10-29 08:24:46,588 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: dd
+2018-10-29 08:24:54,505 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: dd
+2018-10-29 08:24:58,914 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-29 08:26:15,830 INFO (andreab) RESET Attestation Search Filter 
+2018-10-29 08:26:32,180 INFO (andreab) SELECT Lemma yleon_aoc_lemma
+2018-10-29 08:26:33,221 INFO (null) DURATA QUERY FORMA: 4
+2018-10-29 08:26:33,420 INFO (null) DURATA QUERY SENSO: 1
+2018-10-29 08:26:33,421 INFO (andreab) UNLOCK the lexical entry related to yleon_aoc_lemma
+2018-10-29 08:26:33,421 INFO (andreab) LOCK the lexical entry related to yleon_aoc_lemma
+2018-10-29 08:26:33,421 INFO (null) DURATA QUERY LEMMA: 1242
+2018-10-29 08:26:36,066 INFO (andreab) ADD empty External Documentation to lemma yleon
+2018-10-29 08:26:40,818 INFO (andreab) SAVE new external attestation (id DB: 196609) of yleon
+2018-10-29 08:26:51,154 INFO (andreab) RESET Attestation Search Filter 
+2018-10-29 08:30:38,288 INFO (andreab) SELECT Lemma brot_aoc_lemma
+2018-10-29 08:30:39,309 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 08:30:39,312 INFO (null) DURATA QUERY FORMA: 2
+2018-10-29 08:30:39,315 INFO (null) DURATA QUERY FORMA: 2
+2018-10-29 08:30:39,318 INFO (null) DURATA QUERY FORMA: 2
+2018-10-29 08:30:39,321 INFO (null) DURATA QUERY FORMA: 2
+2018-10-29 08:30:39,519 INFO (null) DURATA QUERY SENSO: 1
+2018-10-29 08:30:39,520 INFO (andreab) UNLOCK the lexical entry related to brot_aoc_lemma
+2018-10-29 08:30:39,520 INFO (andreab) LOCK the lexical entry related to brot_aoc_lemma
+2018-10-29 08:30:39,520 INFO (null) DURATA QUERY LEMMA: 1235
+2018-10-29 08:30:41,704 INFO (andreab) OPEN note of Lemma brot
+2018-10-29 08:31:22,514 INFO (andreab) ADD empty External Documentation to lemma brot
+2018-10-29 08:31:28,223 INFO (andreab) SAVE new external attestation (id DB: 196610) of brot
+2018-10-29 08:31:48,498 INFO (andreab) RESET Attestation Search Filter 
+2018-10-29 08:32:19,824 INFO (andreab) SELECT Lemma espaveli_aoc_lemma
+2018-10-29 08:32:21,032 INFO (null) DURATA QUERY SENSO: 1
+2018-10-29 08:32:21,032 INFO (andreab) UNLOCK the lexical entry related to espaveli_aoc_lemma
+2018-10-29 08:32:21,033 INFO (andreab) LOCK the lexical entry related to espaveli_aoc_lemma
+2018-10-29 08:32:21,033 INFO (null) DURATA QUERY LEMMA: 1210
+2018-10-29 08:32:23,658 INFO (andreab) ADD empty External Documentation to lemma espaveli
+2018-10-29 08:32:28,563 INFO (andreab) SAVE new external attestation (id DB: 196611) of espaveli
+2018-10-29 08:34:05,967 INFO (andreab) SELECT Lemma frex_aoc_lemma
+2018-10-29 08:34:07,220 INFO (null) DURATA QUERY SENSO: 1
+2018-10-29 08:34:07,220 INFO (andreab) UNLOCK the lexical entry related to frex_aoc_lemma
+2018-10-29 08:34:07,220 INFO (andreab) LOCK the lexical entry related to frex_aoc_lemma
+2018-10-29 08:34:07,221 INFO (null) DURATA QUERY LEMMA: 1255
+2018-10-29 08:34:09,059 INFO (andreab) ADD empty External Documentation to lemma frex
+2018-10-29 08:34:16,550 INFO (andreab) SAVE new external attestation (id DB: 196612) of frex
+2018-10-29 08:34:45,487 INFO (andreab) RESET Attestation Search Filter 
+2018-10-29 08:37:19,408 INFO (andreab) All resources released 
+2018-10-29 08:37:19,408 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 09:39:25,908 INFO OmegaLex start
+2018-10-29 09:39:29,803 INFO OmegaLex start
+2018-10-29 09:40:01,101 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 09:45:19,526 INFO OmegaLex start
+2018-10-29 09:45:28,760 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 09:52:34,518 INFO (andreab) All resources released 
+2018-10-29 09:52:34,518 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 09:52:45,702 INFO OmegaLex start
+2018-10-29 09:52:54,231 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:12:10,621 INFO OmegaLex start
+2018-10-29 11:12:30,684 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:18:39,457 INFO OmegaLex start
+2018-10-29 11:18:43,351 INFO OmegaLex start
+2018-10-29 11:18:46,985 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:36:07,704 INFO OmegaLex start
+2018-10-29 11:41:07,709 INFO OmegaLex start
+2018-10-29 11:41:11,825 INFO OmegaLex start
+2018-10-29 11:42:53,914 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:43:08,765 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:44:20,787 INFO (andreab) All resources released 
+2018-10-29 11:44:20,787 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:44:24,025 INFO OmegaLex start
+2018-10-29 11:44:50,340 INFO OmegaLex start
+2018-10-29 11:44:56,149 INFO OmegaLex start
+2018-10-29 11:45:09,572 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:45:47,445 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:47:20,340 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:49:32,640 INFO (andreab) All resources released 
+2018-10-29 11:49:32,640 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:49:55,214 INFO OmegaLex start
+2018-10-29 11:50:02,816 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:50:21,098 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:50:52,359 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:52:10,377 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:53:27,656 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:53:48,537 INFO (andreab) LOAD lexicon aoc
+2018-10-29 11:54:43,596 INFO (andreab) All resources released 
+2018-10-29 11:54:43,596 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:54:46,812 INFO OmegaLex start
+2018-10-29 11:54:50,091 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 11:55:00,375 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 11:56:06,267 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 12:01:32,738 INFO (andreab) All resources released 
+2018-10-29 12:01:32,738 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:01:46,560 INFO OmegaLex start
+2018-10-29 12:02:05,047 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:02:18,421 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 12:04:21,206 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 12:04:47,858 INFO (andreab) All resources released 
+2018-10-29 12:04:47,858 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:05:08,791 INFO OmegaLex start
+2018-10-29 12:05:12,743 INFO OmegaLex start
+2018-10-29 12:05:30,704 INFO OmegaLex start
+2018-10-29 12:05:36,004 INFO OmegaLex start
+2018-10-29 12:05:48,109 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:06:14,642 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 12:09:19,729 INFO (andreab) All resources released 
+2018-10-29 12:09:19,729 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:09:28,524 INFO OmegaLex start
+2018-10-29 12:09:36,261 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 12:09:48,535 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 12:10:17,351 INFO (andreab) All resources released 
+2018-10-29 12:10:17,351 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:29:23,758 INFO OmegaLex start
+2018-10-29 13:29:27,613 INFO OmegaLex start
+2018-10-29 13:29:49,287 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:30:03,077 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:32:12,330 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:33:09,275 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:33:57,730 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:35:01,698 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:35:32,674 INFO (andreab) All resources released 
+2018-10-29 13:35:32,674 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:35:44,611 INFO OmegaLex start
+2018-10-29 13:35:49,555 INFO OmegaLex start
+2018-10-29 13:36:13,963 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:36:42,275 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:39:25,313 INFO (andreab) All resources released 
+2018-10-29 13:39:25,313 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:39:35,084 INFO OmegaLex start
+2018-10-29 13:39:38,401 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:40:16,603 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:40:41,783 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:41:20,205 INFO (andreab) All resources released 
+2018-10-29 13:41:20,205 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:41:34,402 INFO OmegaLex start
+2018-10-29 13:41:37,799 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:41:50,886 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:42:59,139 INFO (andreab) All resources released 
+2018-10-29 13:42:59,139 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:43:09,885 INFO OmegaLex start
+2018-10-29 13:43:14,241 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:43:48,370 INFO (andreab) All resources released 
+2018-10-29 13:43:48,370 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:47:57,376 INFO OmegaLex start
+2018-10-29 13:48:01,213 INFO OmegaLex start
+2018-10-29 13:48:05,075 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:48:22,757 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:48:29,742 INFO (andreab) All resources released 
+2018-10-29 13:48:29,742 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:48:41,580 INFO OmegaLex start
+2018-10-29 13:48:46,745 INFO OmegaLex start
+2018-10-29 13:49:09,175 INFO OmegaLex start
+2018-10-29 13:49:12,454 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:49:36,792 INFO (andreab) All resources released 
+2018-10-29 13:49:36,792 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:50:17,838 INFO OmegaLex start
+2018-10-29 13:50:23,323 INFO OmegaLex start
+2018-10-29 13:50:48,588 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:51:10,764 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:51:23,500 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:51:30,597 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:51:42,354 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:51:48,805 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:53:08,873 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:53:14,902 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:53:34,996 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:53:40,620 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:54:43,899 INFO (andreab) All resources released 
+2018-10-29 13:54:43,899 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:54:47,699 INFO OmegaLex start
+2018-10-29 13:54:58,902 INFO OmegaLex start
+2018-10-29 13:55:33,808 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:55:58,396 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:56:19,278 INFO (andreab) LOAD lexicon aoc
+2018-10-29 13:56:33,791 INFO (andreab) All resources released 
+2018-10-29 13:56:33,791 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:58:51,531 INFO OmegaLex start
+2018-10-29 13:58:57,031 INFO OmegaLex start
+2018-10-29 13:59:01,561 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 13:59:38,749 INFO (andreab) LOAD correspondence lexicon 
+2018-10-29 13:59:46,411 INFO (andreab) RESET Lemma Search Filter 
+2018-10-29 14:00:09,042 INFO (andreab) All resources released 
+2018-10-29 14:00:09,042 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 14:05:55,834 INFO OmegaLex start
+2018-10-29 14:06:01,328 INFO OmegaLex start
+2018-10-29 14:10:45,627 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 14:25:26,917 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-10-29 14:25:27,993 INFO (null) DURATA QUERY FORMA: 4
+2018-10-29 14:25:27,998 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 14:25:28,002 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 14:25:28,006 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 14:25:28,012 INFO (null) DURATA QUERY FORMA: 3
+2018-10-29 14:25:28,250 INFO (null) DURATA QUERY SENSO: 2
+2018-10-29 14:25:28,251 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-10-29 14:25:28,251 INFO (null) DURATA QUERY LEMMA: 1336
+2018-10-29 14:39:46,615 INFO (andreab) All resources released 
+2018-10-29 14:39:46,615 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-29 14:39:50,052 INFO OmegaLex start

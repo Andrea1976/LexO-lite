@@ -1,0 +1,57 @@
+2018-11-30 12:45:01,255 INFO OmegaLex start
+2018-11-30 12:45:11,254 INFO OmegaLex start
+2018-11-30 12:45:23,993 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-30 12:46:10,495 INFO (null) DURATA QUERY FORMA: 3
+2018-11-30 12:46:10,501 INFO (null) DURATA QUERY FORMA: 3
+2018-11-30 12:46:10,688 INFO (null) DURATA QUERY SENSO: 2
+2018-11-30 12:46:10,690 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-11-30 12:46:10,691 INFO (null) DURATA QUERY LEMMA: 1248
+2018-11-30 12:46:17,395 INFO (null) DURATA QUERY FORMA: 4
+2018-11-30 12:46:17,591 INFO (null) DURATA QUERY SENSO: 2
+2018-11-30 12:46:17,593 INFO (andreab) UNLOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-11-30 12:46:17,593 INFO (andreab) LOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-11-30 12:46:17,593 INFO (null) DURATA QUERY LEMMA: 1227
+2018-11-30 12:46:20,518 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:46:20,521 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:46:20,526 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:46:20,529 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:46:20,531 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:46:20,534 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:46:20,539 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:46:20,733 INFO (null) DURATA QUERY SENSO: 1
+2018-11-30 12:46:20,735 INFO (andreab) UNLOCK the lexical entry related to agarich_aoc_lemma
+2018-11-30 12:46:20,735 INFO (andreab) LOCK the lexical entry related to agarich_aoc_lemma
+2018-11-30 12:46:20,736 INFO (null) DURATA QUERY LEMMA: 1198
+2018-11-30 12:46:25,196 INFO (andreab) VIEW Deatils of the אגארישקון_grlat_sense1 correspondence of agarich_aoc_sense1
+2018-11-30 12:46:26,503 INFO (null) DURATA QUERY SENSO: 1
+2018-11-30 12:46:26,503 INFO (andreab) LOCK the lexical entry related to אגארישקון_grlat_lemma
+2018-11-30 12:46:35,151 INFO (andreab) UNLOCK the lexical entry related to אגארישקון_grlat_lemma
+2018-11-30 12:47:05,537 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:47:05,541 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:47:05,544 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:47:05,739 INFO (null) DURATA QUERY SENSO: 1
+2018-11-30 12:47:05,741 INFO (andreab) UNLOCK the lexical entry related to albre_aoc_lemma
+2018-11-30 12:47:05,741 INFO (andreab) LOCK the lexical entry related to albre_aoc_lemma
+2018-11-30 12:47:05,741 INFO (null) DURATA QUERY LEMMA: 1146
+2018-11-30 12:47:10,075 INFO (andreab) VIEW Deatils of the affrodil_aoc_sense1 synonym of albre_aoc_sense1
+2018-11-30 12:47:11,192 INFO (null) DURATA QUERY FORMA: 1
+2018-11-30 12:47:11,195 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:47:11,197 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:47:11,202 INFO (null) DURATA QUERY FORMA: 2
+2018-11-30 12:47:11,391 INFO (null) DURATA QUERY SENSO: 1
+2018-11-30 12:47:11,391 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2018-11-30 12:52:17,797 INFO (andreab) All resources released 
+2018-11-30 12:52:17,797 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-30 12:52:21,524 INFO OmegaLex start
+2018-11-30 12:52:25,203 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-30 12:54:47,240 INFO (null) DURATA QUERY FORMA: 4
+2018-11-30 12:54:47,421 INFO (null) DURATA QUERY SENSO: 2
+2018-11-30 12:54:47,423 INFO (andreab) LOCK the lexical entry related to boca_del_ventre_aoc_lemma
+2018-11-30 12:54:47,423 INFO (null) DURATA QUERY LEMMA: 915
+2018-11-30 12:54:50,426 INFO (andreab) UPDATE Lemma name from boca del ventre to boca del ventre
+2018-11-30 12:59:10,445 INFO (null) DURATA QUERY SENSO: 2
+2018-11-30 12:59:10,447 INFO (andreab) UNLOCK the lexical entry related to antrarmas_aoc_lemma
+2018-11-30 12:59:10,447 INFO (andreab) LOCK the lexical entry related to antrarmas_aoc_lemma
+2018-11-30 12:59:10,447 INFO (null) DURATA QUERY LEMMA: 1119
+2018-11-30 12:59:31,823 INFO (andreab) All resources released 
+2018-11-30 12:59:31,823 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1

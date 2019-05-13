@@ -1,0 +1,23 @@
+2019-03-27 11:14:26,900 INFO OmegaLex start
+2019-03-27 11:14:31,994 INFO (andreab) navigate to lexicon editor
+2019-03-27 11:16:53,705 INFO (andreab) SELECT Ontology class: bocaDesusDelEstomach
+2019-03-27 11:16:53,711 INFO (null) <http://ditmao/ontology#bocaDesusDelEstomach> labelled dove avviene la prima digestione
+2019-03-27 11:46:18,036 INFO (null) DURATA QUERY SENSO: 2
+2019-03-27 11:46:18,039 INFO (andreab) LOCK the lexical entry related to boca_del_estomach_aoc_lemma
+2019-03-27 11:46:18,039 INFO (null) DURATA QUERY LEMMA: 1268
+2019-03-27 11:46:34,175 INFO (andreab) UPDATE Lemma name from boca del estomach to boca del estomach
+2019-03-27 11:46:34,871 INFO (andreab) UPDATE Lemma name from boca del estomach to boca del estomach
+2019-03-27 11:46:35,550 INFO (andreab) UPDATE Lemma name from boca del estomach to boca del estomach
+2019-03-27 11:46:36,250 INFO (andreab) UPDATE Lemma name from boca del estomach to boca del estomach
+2019-03-27 11:47:22,773 INFO (null) DURATA QUERY SENSO: 1
+2019-03-27 11:47:22,774 INFO (andreab) UNLOCK the lexical entry related to boca_del_estomach_aoc_lemma
+2019-03-27 11:47:22,774 INFO (andreab) LOCK the lexical entry related to boca_del_estomach_aoc_lemma
+2019-03-27 11:47:22,774 INFO (null) DURATA QUERY LEMMA: 1100
+2019-03-27 11:47:35,873 INFO (andreab) ADD empty ontological reference to boca_del_estomach_aoc_sense1
+2019-03-27 11:48:50,456 INFO (andreab) navigate to lexicon editor
+2019-03-27 11:49:11,035 INFO (null) DURATA QUERY SENSO: 1
+2019-03-27 11:49:11,036 INFO (andreab) LOCK the lexical entry related to boca_del_estomach_aoc_lemma
+2019-03-27 11:49:11,036 INFO (null) DURATA QUERY LEMMA: 1110
+2019-03-27 11:49:19,590 INFO (andreab) ADD empty ontological reference to boca_del_estomach_aoc_sense1
+2019-03-27 11:54:09,133 INFO OmegaLex start
+2019-03-27 11:54:17,266 INFO (andreab) navigate to lexicon editor

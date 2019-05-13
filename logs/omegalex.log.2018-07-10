@@ -1,0 +1,119 @@
+2018-07-10 09:59:04,440 INFO OmegaLex start
+2018-07-10 09:59:08,511 INFO OmegaLex start
+2018-07-10 09:59:12,629 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:01:11,558 INFO (andreab) All resources released 
+2018-07-10 10:01:11,558 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:01:14,954 INFO OmegaLex start
+2018-07-10 10:02:29,741 INFO OmegaLex start
+2018-07-10 10:02:33,808 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:03:20,201 INFO (andreab) All resources released 
+2018-07-10 10:03:20,201 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:04:58,024 INFO OmegaLex start
+2018-07-10 10:05:01,839 INFO OmegaLex start
+2018-07-10 10:05:05,614 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:05:45,071 INFO (andreab) All resources released 
+2018-07-10 10:05:45,071 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:23:41,351 INFO OmegaLex start
+2018-07-10 10:23:45,226 INFO OmegaLex start
+2018-07-10 10:23:49,230 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:25:09,169 INFO (andreab) All resources released 
+2018-07-10 10:25:09,169 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:27:22,342 INFO OmegaLex start
+2018-07-10 10:27:29,067 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 10:28:19,932 INFO (andreab) SELECT Lemma nervis_obtici_aoc_lemma
+2018-07-10 10:28:20,541 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 10:28:20,726 INFO (null) DURATA QUERY SENSO: 2
+2018-07-10 10:28:20,734 INFO (andreab) LOCK the lexical entry related to nervis_obtici_aoc_lemma
+2018-07-10 10:28:20,734 INFO (null) DURATA QUERY LEMMA: 805
+2018-07-10 10:28:25,533 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:28,799 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:29,259 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:29,704 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:30,214 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:30,636 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:31,047 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:31,465 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:31,865 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:32,267 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:32,679 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:33,084 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:33,518 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:33,942 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:34,352 INFO (andreab) UPDATE Lemma name from nervis obtici to nervis obtici
+2018-07-10 10:28:36,734 INFO (andreab) UPDATE Internal attestation of nervis obtici
+2018-07-10 10:29:31,008 INFO (andreab) All resources released 
+2018-07-10 10:29:31,008 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 15:33:48,097 INFO OmegaLex start
+2018-07-10 16:57:51,087 INFO OmegaLex start
+2018-07-10 16:58:38,708 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 17:04:58,264 INFO (andreab) All resources released 
+2018-07-10 17:04:58,264 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 17:05:01,289 INFO OmegaLex start
+2018-07-10 17:05:19,759 INFO OmegaLex start
+2018-07-10 17:05:23,652 INFO OmegaLex start
+2018-07-10 17:08:30,252 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 17:09:43,876 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-07-10 17:09:44,914 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:09:44,920 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:09:45,118 INFO (null) DURATA QUERY SENSO: 2
+2018-07-10 17:09:45,121 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-07-10 17:09:45,121 INFO (null) DURATA QUERY LEMMA: 1246
+2018-07-10 17:10:02,361 INFO (andreab) SELECT Lemma nervi_aoc_lemma
+2018-07-10 17:10:03,302 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:10:03,478 INFO (null) DURATA QUERY SENSO: 1
+2018-07-10 17:10:03,479 INFO (andreab) UNLOCK the lexical entry related to nervi_aoc_lemma
+2018-07-10 17:10:03,479 INFO (andreab) LOCK the lexical entry related to nervi_aoc_lemma
+2018-07-10 17:10:03,479 INFO (null) DURATA QUERY LEMMA: 1120
+2018-07-10 17:10:04,725 INFO (andreab) RESET Lemma Search Filter 
+2018-07-10 17:10:12,047 INFO (andreab) SELECT Attestation Ric P(=Princeton) of abeillas
+2018-07-10 17:10:38,761 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-07-10 17:10:39,697 INFO (null) DURATA QUERY FORMA: 1
+2018-07-10 17:10:39,702 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:10:39,707 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:10:39,710 INFO (null) DURATA QUERY FORMA: 1
+2018-07-10 17:10:39,714 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:10:39,902 INFO (null) DURATA QUERY SENSO: 1
+2018-07-10 17:10:39,903 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-07-10 17:10:39,903 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-07-10 17:10:39,903 INFO (null) DURATA QUERY LEMMA: 1143
+2018-07-10 17:10:43,277 INFO (andreab) SELECT Attestation Erb A of abelhas
+2018-07-10 17:10:47,559 INFO (andreab) All resources released 
+2018-07-10 17:10:47,559 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 17:20:18,517 INFO OmegaLex start
+2018-07-10 17:20:22,491 INFO OmegaLex start
+2018-07-10 17:20:34,559 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-07-10 17:20:59,146 INFO (andreab) LOAD lexicon lat
+2018-07-10 17:21:02,308 INFO (andreab) SELECT Lemma abrotonum_lat_lemma
+2018-07-10 17:21:03,341 INFO (null) DURATA QUERY FORMA: 4
+2018-07-10 17:21:03,346 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:21:03,351 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:21:03,358 INFO (null) DURATA QUERY FORMA: 4
+2018-07-10 17:21:03,363 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:21:03,367 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:21:03,371 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:21:03,375 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:21:03,575 INFO (null) DURATA QUERY SENSO: 2
+2018-07-10 17:21:03,578 INFO (andreab) LOCK the lexical entry related to abrotonum_lat_lemma
+2018-07-10 17:21:03,579 INFO (null) DURATA QUERY LEMMA: 1272
+2018-07-10 17:22:05,632 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: FF
+2018-07-10 17:22:06,067 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: FF
+2018-07-10 17:22:06,221 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: FebrFebr
+2018-07-10 17:22:06,356 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: FebrFebr
+2018-07-10 17:22:06,490 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: FebrFebr
+2018-07-10 17:22:08,060 INFO (andreab) SELECT Attestation Febr C of abrotonum
+2018-07-10 17:22:14,730 INFO (andreab) SELECT Lemma abrotonum_lat_lemma
+2018-07-10 17:22:15,708 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,711 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,715 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,718 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,721 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,725 INFO (null) DURATA QUERY FORMA: 2
+2018-07-10 17:22:15,730 INFO (null) DURATA QUERY FORMA: 3
+2018-07-10 17:22:15,733 INFO (null) DURATA QUERY FORMA: 1
+2018-07-10 17:22:15,956 INFO (null) DURATA QUERY SENSO: 1
+2018-07-10 17:22:15,956 INFO (andreab) UNLOCK the lexical entry related to abrotonum_lat_lemma
+2018-07-10 17:22:15,957 INFO (andreab) LOCK the lexical entry related to abrotonum_lat_lemma
+2018-07-10 17:22:15,957 INFO (null) DURATA QUERY LEMMA: 1230
+2018-07-10 17:22:23,883 INFO (andreab) ADD empty ontological reference to abrotonum_lat_sense1
+2018-07-10 20:23:19,268 INFO (andreab) All resources released 
+2018-07-10 20:23:19,268 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

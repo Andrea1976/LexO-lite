@@ -1,0 +1,144 @@
+2019-05-09 08:56:37,842 INFO LexO-lite start
+2019-05-09 08:57:33,612 INFO LexO-lite start
+2019-05-09 08:57:43,227 INFO LexO-lite start
+2019-05-09 09:01:14,861 INFO LexO-lite start
+2019-05-09 09:01:22,996 INFO LexO-lite start
+2019-05-09 11:19:56,145 INFO LexO-lite start
+2019-05-09 11:20:04,284 INFO LexO-lite start
+2019-05-09 11:26:38,704 INFO LexO-lite start
+2019-05-09 11:34:06,862 INFO LexO-lite start
+2019-05-09 11:39:19,352 INFO LexO-lite start
+2019-05-09 11:39:27,500 INFO LexO-lite start
+2019-05-09 11:41:31,781 INFO LexO-lite start
+2019-05-09 12:42:44,463 INFO LexO-lite start
+2019-05-09 12:45:14,120 INFO LexO-lite start
+2019-05-09 12:45:26,438 INFO LexO-lite start
+2019-05-09 12:48:14,607 INFO LexO-lite start
+2019-05-09 12:52:40,783 INFO LexO-lite start
+2019-05-09 13:53:29,174 INFO LexO-lite start
+2019-05-09 13:53:37,353 INFO LexO-lite start
+2019-05-09 14:00:32,460 INFO LexO-lite start
+2019-05-09 14:02:28,305 INFO LexO-lite start
+2019-05-09 14:03:19,883 INFO LexO-lite start
+2019-05-09 14:06:35,353 INFO LexO-lite start
+2019-05-09 14:09:38,619 INFO LexO-lite start
+2019-05-09 14:09:53,137 INFO LexO-lite start
+2019-05-09 14:09:57,302 INFO LexO-lite start
+2019-05-09 14:10:01,330 INFO LexO-lite start
+2019-05-09 14:10:05,026 INFO LexO-lite start
+2019-05-09 14:12:42,530 INFO LexO-lite start
+2019-05-09 14:13:36,723 INFO LexO-lite start
+2019-05-09 14:14:56,353 INFO LexO-lite start
+2019-05-09 14:15:08,925 INFO LexO-lite start
+2019-05-09 14:15:19,268 INFO LexO-lite start
+2019-05-09 14:18:15,530 INFO LexO-lite start
+2019-05-09 14:18:22,581 INFO LexO-lite start
+2019-05-09 14:19:43,867 INFO LexO-lite start
+2019-05-09 14:20:27,856 INFO LexO-lite start
+2019-05-09 14:35:06,408 INFO LexO-lite start
+2019-05-09 14:35:10,266 INFO LexO-lite start
+2019-05-09 14:39:29,083 INFO LexO-lite start
+2019-05-09 14:52:50,981 INFO LexO-lite start
+2019-05-09 14:58:12,330 INFO LexO-lite start
+2019-05-09 15:06:01,124 INFO LexO-lite start
+2019-05-09 15:06:48,330 INFO LexO-lite start
+2019-05-09 15:12:13,521 INFO LexO-lite start
+2019-05-09 15:15:13,381 INFO LexO-lite start
+2019-05-09 15:18:24,078 INFO LexO-lite start
+2019-05-09 15:21:41,052 ERROR 
+java.lang.NullPointerException
+	at it.cnr.ilc.lexolite.creator.DomainCreator.createAccountType(DomainCreator.java:92)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.preset(DomainCreator.java:70)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.doGet(DomainCreator.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lexolite.LexOliteFilter.doFilter(LexOliteFilter.java:56)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-09 15:21:52,456 ERROR 
+java.lang.NullPointerException
+	at it.cnr.ilc.lexolite.creator.DomainCreator.createAccountType(DomainCreator.java:92)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.preset(DomainCreator.java:70)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.doGet(DomainCreator.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lexolite.LexOliteFilter.doFilter(LexOliteFilter.java:56)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-09 15:24:31,202 INFO LexO-lite start
+2019-05-09 15:24:46,323 ERROR 
+java.lang.NullPointerException
+	at it.cnr.ilc.lexolite.creator.DomainCreator.createAccountType(DomainCreator.java:92)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.preset(DomainCreator.java:70)
+	at it.cnr.ilc.lexolite.creator.DomainCreator.doGet(DomainCreator.java:46)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lexolite.LexOliteFilter.doFilter(LexOliteFilter.java:56)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-09 15:54:55,337 INFO LexO-lite start
+2019-05-09 15:56:27,164 INFO LexO-lite start
+2019-05-09 15:57:06,672 INFO LexO-lite start

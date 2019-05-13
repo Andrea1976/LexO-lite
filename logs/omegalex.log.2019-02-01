@@ -1,0 +1,458 @@
+2019-02-01 08:13:25,159 INFO OmegaLex start
+2019-02-01 08:13:35,555 INFO OmegaLex start
+2019-02-01 08:13:40,984 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:13:41,738 INFO (andreab) navigate to lexicon editor
+2019-02-01 08:15:00,444 INFO (andreab) All resources released 
+2019-02-01 08:15:00,444 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:15:04,187 INFO OmegaLex start
+2019-02-01 08:15:07,418 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:15:08,050 INFO (andreab) navigate to lexicon editor
+2019-02-01 08:15:25,672 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 08:15:25,680 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 08:15:25,686 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:15:25,693 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:15:25,699 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:15:25,880 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 08:15:25,882 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-02-01 08:15:25,882 INFO (null) DURATA QUERY LEMMA: 1192
+2019-02-01 08:15:38,409 INFO (andreab) VIEW Deatils of the גדואר_אלזנכבאר_arab_sense1 correspondence of acitoal_aoc_sense1
+2019-02-01 08:15:39,332 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:15:39,332 INFO (andreab) LOCK the lexical entry related to גדואר_אלזנכבאר_arab_lemma
+2019-02-01 08:16:48,175 INFO (andreab) LOAD lexicon aocarab
+2019-02-01 08:17:00,864 INFO (andreab) LOAD lexicon All languages
+2019-02-01 08:17:25,573 INFO (andreab) LOAD correspondence lexicon 
+2019-02-01 08:17:32,575 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:17:32,576 INFO (andreab) UNLOCK the lexical entry related to _קולנג_arab_lemma
+2019-02-01 08:17:32,576 INFO (andreab) UNLOCK the lexical entry related to _קולנג_arab_lemma
+2019-02-01 08:17:32,576 INFO (andreab) LOCK the lexical entry related to _קולנג_arab_lemma
+2019-02-01 08:17:32,577 INFO (null) DURATA QUERY LEMMA: 1102
+2019-02-01 08:17:38,889 INFO (andreab) ADD empty englishTranslation relation to _קולנג_arab_sense1
+2019-02-01 08:18:01,297 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:18:01,298 INFO (andreab) UNLOCK the lexical entry related to allium_lat_lemma
+2019-02-01 08:18:01,298 INFO (andreab) LOCK the lexical entry related to allium_lat_lemma
+2019-02-01 08:18:01,298 INFO (null) DURATA QUERY LEMMA: 1088
+2019-02-01 08:20:14,078 INFO (andreab) All resources released 
+2019-02-01 08:20:14,078 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:27:29,380 INFO OmegaLex start
+2019-02-01 08:27:33,498 INFO OmegaLex start
+2019-02-01 08:27:37,815 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:27:38,445 INFO (andreab) navigate to lexicon editor
+2019-02-01 08:28:07,544 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 08:28:07,546 INFO (andreab) LOCK the lexical entry related to aloen_epatic_aoc_lemma
+2019-02-01 08:28:07,546 INFO (null) DURATA QUERY LEMMA: 818
+2019-02-01 08:29:01,742 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 08:29:01,743 INFO (andreab) UNLOCK the lexical entry related to avassit_aoc_lemma
+2019-02-01 08:29:01,744 INFO (andreab) LOCK the lexical entry related to avassit_aoc_lemma
+2019-02-01 08:29:01,744 INFO (null) DURATA QUERY LEMMA: 1136
+2019-02-01 08:36:50,156 INFO (andreab) All resources released 
+2019-02-01 08:36:50,157 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:37:07,581 INFO OmegaLex start
+2019-02-01 08:37:13,461 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 08:37:14,145 INFO (andreab) navigate to lexicon editor
+2019-02-01 08:37:32,985 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 08:37:32,988 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2019-02-01 08:37:32,988 INFO (null) DURATA QUERY LEMMA: 1249
+2019-02-01 08:37:35,187 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:37:35,193 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:37:35,198 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:37:35,202 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:37:35,207 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:37:35,395 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:37:35,397 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2019-02-01 08:37:35,397 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-02-01 08:37:35,397 INFO (null) DURATA QUERY LEMMA: 1181
+2019-02-01 08:37:45,490 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:37:45,676 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:37:45,678 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:37:45,678 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:37:45,678 INFO (null) DURATA QUERY LEMMA: 783
+2019-02-01 08:37:53,486 INFO (andreab) UPDATE Lemma bilingual type of alh salvage to true
+2019-02-01 08:37:58,323 INFO (andreab) UPDATE Multiword Lemma alh salvage
+2019-02-01 08:38:10,068 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:10,258 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:38:10,260 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:38:10,260 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:38:10,260 INFO (null) DURATA QUERY LEMMA: 758
+2019-02-01 08:38:16,473 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,477 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,481 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:38:16,483 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,486 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,490 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,493 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:38:16,496 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:38:16,500 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:38:16,506 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 08:38:16,701 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:38:16,702 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:38:16,703 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:38:16,703 INFO (null) DURATA QUERY LEMMA: 1215
+2019-02-01 08:38:19,921 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:38:20,508 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:38:20,704 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:38:20,704 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:39:29,844 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:39:30,033 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:39:30,035 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:39:30,035 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:39:30,035 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:39:30,035 INFO (null) DURATA QUERY LEMMA: 766
+2019-02-01 08:39:39,690 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,694 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,696 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,698 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,701 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,705 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:39:39,707 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,710 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:39:39,713 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 08:39:39,717 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:39,912 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:39:39,913 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:39:39,913 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:39:39,914 INFO (null) DURATA QUERY LEMMA: 1196
+2019-02-01 08:39:42,859 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:39:43,451 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:39:43,645 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:39:43,645 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:45:34,215 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,219 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,221 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,223 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,225 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:45:34,228 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,230 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,234 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,235 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:45:34,238 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:45:34,425 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:45:34,427 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:45:34,427 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:45:34,427 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:45:34,427 INFO (null) DURATA QUERY LEMMA: 1186
+2019-02-01 08:45:37,281 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:45:37,852 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:45:38,039 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:45:38,039 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:47:11,106 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:47:16,768 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:47:16,966 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:47:16,967 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:47:16,967 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:47:16,967 INFO (null) DURATA QUERY LEMMA: 784
+2019-02-01 08:47:23,523 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,526 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,528 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,531 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,533 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,536 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,537 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,540 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,541 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:47:23,544 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:23,735 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:47:23,737 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:47:23,737 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:47:23,737 INFO (null) DURATA QUERY LEMMA: 1179
+2019-02-01 08:47:27,018 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:47:27,598 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:47:27,791 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:47:27,791 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:47:49,309 INFO (andreab) UPDATE Lemma used in languages of alh salvage to lat
+2019-02-01 08:48:10,510 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:48:38,103 INFO (andreab) UPDATE Internal attestation of alh
+2019-02-01 08:49:23,638 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:49:23,838 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:49:23,839 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:49:23,839 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:49:23,839 INFO (null) DURATA QUERY LEMMA: 784
+2019-02-01 08:49:30,772 INFO (andreab) UPDATE Lemma used in languages of alh salvage to lat
+2019-02-01 08:49:31,944 INFO (andreab) UPDATE Multiword Lemma alh salvage
+2019-02-01 08:49:46,879 INFO (andreab) ADD empty bilingual variant to lemma alh salvage
+2019-02-01 08:51:09,710 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:51:09,712 INFO (andreab) UNLOCK the lexical entry related to alfauni_aoc_lemma
+2019-02-01 08:51:09,712 INFO (andreab) LOCK the lexical entry related to alfauni_aoc_lemma
+2019-02-01 08:51:09,712 INFO (null) DURATA QUERY LEMMA: 1128
+2019-02-01 08:51:15,141 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:51:15,142 INFO (andreab) UNLOCK the lexical entry related to aloen_cicotri_aoc_lemma
+2019-02-01 08:51:15,142 INFO (andreab) LOCK the lexical entry related to aloen_cicotri_aoc_lemma
+2019-02-01 08:51:15,142 INFO (null) DURATA QUERY LEMMA: 781
+2019-02-01 08:51:16,620 INFO (andreab) UPDATE Lemma bilingual type of aloen cicotri to true
+2019-02-01 08:51:19,385 INFO (andreab) UPDATE Multiword Lemma aloen cicotri
+2019-02-01 08:51:28,807 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:51:29,006 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:51:29,007 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:51:29,007 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:51:29,007 INFO (null) DURATA QUERY LEMMA: 787
+2019-02-01 08:51:32,936 INFO (andreab) ADD empty bilingual variant to lemma alh salvage
+2019-02-01 08:51:36,560 INFO (andreab) ADD Bilingual variant aloen cicotri@aoc to the Lemma alh salvage
+2019-02-01 08:51:38,769 INFO (andreab) UPDATE Multiword Lemma alh salvage
+2019-02-01 08:51:52,367 INFO (andreab) ADD empty reference (seeAlso) to lemma alh salvage
+2019-02-01 08:52:03,975 INFO (andreab) ADD Reference (seeAlso) accus@lat to the Lemma alh salvage
+2019-02-01 08:52:05,554 INFO (andreab) UPDATE Multiword Lemma alh salvage
+2019-02-01 08:53:14,932 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,934 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,935 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:53:14,937 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,938 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:53:14,940 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:53:14,942 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,944 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,945 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:14,947 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:15,135 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:53:15,136 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:53:15,136 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:53:15,136 INFO (null) DURATA QUERY LEMMA: 1149
+2019-02-01 08:53:20,597 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:53:21,179 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:53:21,384 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:53:21,384 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:54:25,225 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:25,419 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:54:25,420 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:54:25,421 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:54:25,421 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:54:25,421 INFO (null) DURATA QUERY LEMMA: 772
+2019-02-01 08:54:33,985 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:33,988 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:33,990 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:33,991 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:54:33,993 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:54:33,995 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:54:33,997 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:33,999 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:34,000 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:34,002 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:54:34,219 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:54:34,220 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:54:34,220 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:54:34,220 INFO (null) DURATA QUERY LEMMA: 1195
+2019-02-01 08:55:59,518 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:55:59,521 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,522 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,523 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:55:59,525 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,527 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,528 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,530 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,531 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,533 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:55:59,725 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:55:59,727 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:55:59,727 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:55:59,727 INFO (null) DURATA QUERY LEMMA: 1200
+2019-02-01 08:56:03,047 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:56:03,619 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:03,805 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:56:03,805 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:56:51,470 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,472 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:56:51,474 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,475 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:56:51,477 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,479 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 08:56:51,481 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,483 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,484 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,487 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:51,682 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 08:56:51,683 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:56:51,683 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:56:51,683 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 08:56:51,684 INFO (null) DURATA QUERY LEMMA: 1211
+2019-02-01 08:56:54,659 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 08:56:55,240 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 08:56:55,438 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 08:56:55,439 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 08:57:11,127 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 11:58:00,271 INFO (andreab) All resources released 
+2019-02-01 11:58:00,271 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 13:19:52,567 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 13:19:53,184 INFO (andreab) navigate to lexicon editor
+2019-02-01 13:20:15,204 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:15,397 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 13:20:15,398 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 13:20:15,398 INFO (null) DURATA QUERY LEMMA: 773
+2019-02-01 13:20:19,998 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 13:20:20,001 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,003 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,004 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,006 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,008 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,010 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,011 INFO (null) DURATA QUERY FORMA: 0
+2019-02-01 13:20:20,013 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,015 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:20,206 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 13:20:20,207 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 13:20:20,207 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 13:20:20,207 INFO (null) DURATA QUERY LEMMA: 1163
+2019-02-01 13:20:22,522 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 13:20:23,107 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 13:20:23,303 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 13:20:23,303 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 13:20:30,448 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:29:47,707 INFO (andreab) All resources released 
+2019-02-01 14:29:47,707 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:29:58,358 INFO OmegaLex start
+2019-02-01 14:30:01,933 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:30:02,640 INFO (andreab) navigate to lexicon editor
+2019-02-01 14:30:33,994 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,001 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 14:30:34,007 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,012 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 14:30:34,017 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,023 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,028 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,033 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,038 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:30:34,043 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:30:34,236 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 14:30:34,239 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:30:34,239 INFO (null) DURATA QUERY LEMMA: 1328
+2019-02-01 14:30:37,281 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:30:37,509 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:30:37,512 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:30:37,512 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:30:37,512 INFO (null) DURATA QUERY LEMMA: 811
+2019-02-01 14:30:40,534 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,538 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,541 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,543 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,546 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,549 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,552 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:30:40,554 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,557 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,560 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:30:40,783 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:30:40,785 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:30:40,785 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:30:40,785 INFO (null) DURATA QUERY LEMMA: 1211
+2019-02-01 14:30:43,830 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 14:30:44,414 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:30:44,604 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:30:44,604 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:31:12,337 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:31:15,447 INFO (andreab) VIEW Deatils of alh agrest by Sublemma relation of Lemma alh
+2019-02-01 14:31:16,059 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:31:16,063 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:16,067 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:16,070 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:16,074 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:16,264 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:31:16,264 INFO (andreab) LOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:31:57,932 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:31:57,936 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:57,939 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:31:57,943 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:31:57,947 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:31:58,139 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:31:58,140 INFO (andreab) UNLOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:31:58,140 INFO (andreab) UNLOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:31:58,140 INFO (andreab) LOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:31:58,140 INFO (null) DURATA QUERY LEMMA: 772
+2019-02-01 14:34:25,138 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:34:25,141 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,144 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:34:25,146 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,149 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,152 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,155 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,158 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,160 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:25,165 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:34:25,353 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 14:34:25,355 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:34:25,355 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:34:25,355 INFO (null) DURATA QUERY LEMMA: 1153
+2019-02-01 14:34:27,421 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 14:34:27,985 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:34:28,171 INFO (null) DURATA QUERY SENSO: 0
+2019-02-01 14:34:28,171 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:34:34,901 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:36:02,157 INFO (andreab) All resources released 
+2019-02-01 14:36:02,157 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:41:20,600 INFO OmegaLex start
+2019-02-01 14:41:27,976 INFO OmegaLex start
+2019-02-01 14:41:32,340 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:41:33,094 INFO (andreab) navigate to lexicon editor
+2019-02-01 14:43:13,372 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:43:13,378 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:43:13,382 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,386 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,391 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:43:13,396 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,399 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,403 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,407 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,412 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:43:13,606 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:43:13,609 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:43:13,609 INFO (null) DURATA QUERY LEMMA: 1310
+2019-02-01 14:43:20,161 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 14:44:28,343 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:44:28,544 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:45:00,743 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:46:04,214 INFO (andreab) All resources released 
+2019-02-01 14:46:04,214 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:46:07,907 INFO OmegaLex start
+2019-02-01 14:46:12,367 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 14:46:13,107 INFO (andreab) navigate to lexicon editor
+2019-02-01 14:49:03,772 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:49:03,778 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 14:49:03,785 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 14:49:03,790 INFO (null) DURATA QUERY FORMA: 4
+2019-02-01 14:49:03,796 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:49:03,801 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:03,804 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:03,809 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:03,814 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:49:03,821 INFO (null) DURATA QUERY FORMA: 3
+2019-02-01 14:49:04,020 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:49:04,022 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:49:04,022 INFO (null) DURATA QUERY LEMMA: 1386
+2019-02-01 14:49:07,662 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:07,868 INFO (null) DURATA QUERY SENSO: 2
+2019-02-01 14:49:07,869 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:49:07,870 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:49:07,870 INFO (null) DURATA QUERY LEMMA: 869
+2019-02-01 14:49:16,775 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,779 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,783 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,786 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,790 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,795 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,798 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,802 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,805 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:16,811 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:17,015 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:49:17,017 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:49:17,017 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2019-02-01 14:49:17,017 INFO (null) DURATA QUERY LEMMA: 1312
+2019-02-01 14:49:19,660 INFO (andreab) VIEW Deatils of alh salvage by Sublemma relation of Lemma alh
+2019-02-01 14:49:20,281 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:20,475 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:49:20,475 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:49:27,754 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2019-02-01 14:49:30,861 INFO (andreab) VIEW Deatils of alh agrest by Sublemma relation of Lemma alh
+2019-02-01 14:49:31,468 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:31,473 INFO (null) DURATA QUERY FORMA: 2
+2019-02-01 14:49:31,477 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:49:31,480 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:49:31,482 INFO (null) DURATA QUERY FORMA: 1
+2019-02-01 14:49:31,682 INFO (null) DURATA QUERY SENSO: 1
+2019-02-01 14:49:31,682 INFO (andreab) LOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:49:35,987 INFO (andreab) UNLOCK the lexical entry related to _star_alh_agrest_aoc_lemma
+2019-02-01 14:59:39,177 INFO (andreab) RESET Form Search Filter 
+2019-02-01 15:04:14,470 INFO (andreab) All resources released 
+2019-02-01 15:04:14,470 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 15:04:18,484 INFO OmegaLex start
+2019-02-01 15:04:22,570 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1
+2019-02-01 15:04:23,462 INFO (andreab) navigate to lexicon editor
+2019-02-01 15:05:24,462 INFO (andreab) RESET Form Search Filter 
+2019-02-01 15:06:56,073 INFO (andreab) RESET Lemma Search Filter 
+2019-02-01 15:07:22,287 INFO (andreab) All resources released 
+2019-02-01 15:07:22,287 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0 on 127.0.0.1

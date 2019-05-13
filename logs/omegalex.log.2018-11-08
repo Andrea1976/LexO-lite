@@ -1,0 +1,170 @@
+2018-11-08 16:48:48,912 INFO OmegaLex start
+2018-11-08 16:48:53,055 INFO OmegaLex start
+2018-11-08 16:49:11,005 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 16:49:35,218 INFO (null) DURATA QUERY FORMA: 4
+2018-11-08 16:49:35,224 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 16:49:35,415 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 16:49:35,418 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-11-08 16:49:35,418 INFO (null) DURATA QUERY LEMMA: 1210
+2018-11-08 16:49:51,143 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 16:49:51,148 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:49:51,152 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:49:51,158 INFO (null) DURATA QUERY FORMA: 4
+2018-11-08 16:49:51,164 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:49:51,352 INFO (null) DURATA QUERY SENSO: 1
+2018-11-08 16:49:51,356 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-11-08 16:49:51,357 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-11-08 16:49:51,357 INFO (null) DURATA QUERY LEMMA: 1219
+2018-11-08 16:50:20,439 INFO (andreab) ADD empty External Documentation to lemma acitoal
+2018-11-08 16:50:53,533 INFO (andreab) SAVE new external attestation (id DB: 163840) of acitoal
+2018-11-08 16:51:07,263 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 16:51:07,510 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:51:07,514 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:51:07,518 INFO (null) DURATA QUERY FORMA: 1
+2018-11-08 16:51:07,522 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:51:07,720 INFO (null) DURATA QUERY SENSO: 1
+2018-11-08 16:51:07,722 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-11-08 16:51:07,722 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-11-08 16:51:07,722 INFO (null) DURATA QUERY LEMMA: 1448
+2018-11-08 16:51:43,115 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-11-08 16:51:57,881 INFO (andreab) RESET Attestation Search Filter 
+2018-11-08 16:52:04,976 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-08 16:52:08,502 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-11-08 16:52:15,298 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-08 16:52:26,065 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 16:52:26,250 INFO (null) DURATA QUERY SENSO: 1
+2018-11-08 16:52:26,252 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-11-08 16:52:26,252 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-11-08 16:52:26,252 INFO (null) DURATA QUERY LEMMA: 1149
+2018-11-08 16:52:34,489 INFO (andreab) ADD empty External Documentation to lemma aiga
+2018-11-08 16:53:00,687 INFO (andreab) SAVE new external attestation (id DB: 163841) of aiga
+2018-11-08 16:53:08,359 INFO (null) DURATA QUERY FORMA: 1
+2018-11-08 16:53:08,547 INFO (null) DURATA QUERY SENSO: 1
+2018-11-08 16:53:08,549 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-11-08 16:53:08,549 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-11-08 16:53:08,549 INFO (null) DURATA QUERY LEMMA: 1168
+2018-11-08 16:53:25,686 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-11-08 16:53:34,129 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-08 16:55:55,119 INFO (andreab) All resources released 
+2018-11-08 16:55:55,119 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 16:56:45,110 INFO OmegaLex start
+2018-11-08 16:56:51,860 INFO OmegaLex start
+2018-11-08 16:57:01,044 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 16:58:31,986 INFO (andreab) All resources released 
+2018-11-08 16:58:31,986 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 16:58:35,784 INFO OmegaLex start
+2018-11-08 16:58:38,919 INFO OmegaLex start
+2018-11-08 17:01:11,292 INFO OmegaLex start
+2018-11-08 17:01:20,495 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:01:57,057 INFO (null) DURATA QUERY FORMA: 4
+2018-11-08 17:01:57,278 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:01:57,281 INFO (andreab) LOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-11-08 17:01:57,281 INFO (null) DURATA QUERY LEMMA: 12682
+2018-11-08 17:02:13,165 INFO (andreab) ADD empty External Documentation to lemma adiman
+2018-11-08 17:02:41,997 INFO (andreab) SAVE new external attestation (id DB: 196608) of adiman
+2018-11-08 17:07:14,662 INFO (null) DURATA QUERY FORMA: 4
+2018-11-08 17:07:14,873 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:07:14,875 INFO (andreab) UNLOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-11-08 17:07:14,875 INFO (andreab) LOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-11-08 17:07:14,875 INFO (null) DURATA QUERY LEMMA: 152108
+2018-11-08 17:10:22,914 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:10:22,961 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:10:23,164 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:10:23,165 INFO (andreab) UNLOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-11-08 17:10:23,165 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-11-08 17:10:23,165 INFO (null) DURATA QUERY LEMMA: 7453
+2018-11-08 17:10:35,157 INFO (andreab) ADD empty External Documentation to lemma agrena
+2018-11-08 17:13:45,720 INFO (andreab) SAVE new external attestation (id DB: 196609) of agrena
+2018-11-08 17:15:19,340 INFO (andreab) All resources released 
+2018-11-08 17:15:19,341 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:16:22,362 INFO OmegaLex start
+2018-11-08 17:16:29,046 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:16:58,305 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:16:58,307 INFO (andreab) LOCK the lexical entry related to ajutori_aoc_lemma
+2018-11-08 17:16:58,308 INFO (null) DURATA QUERY LEMMA: 7530
+2018-11-08 17:17:04,888 INFO (andreab) ADD empty External Documentation to lemma ajutori
+2018-11-08 17:17:20,470 INFO (andreab) SAVE new external attestation (id DB: 229376) of ajutori
+2018-11-08 17:18:14,928 INFO (andreab) All resources released 
+2018-11-08 17:18:14,928 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:37:03,701 INFO OmegaLex start
+2018-11-08 17:37:07,973 INFO OmegaLex start
+2018-11-08 17:38:46,245 INFO OmegaLex start
+2018-11-08 17:38:50,533 INFO OmegaLex start
+2018-11-08 17:38:56,031 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:39:22,364 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:39:22,372 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:39:22,573 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:39:22,575 INFO (andreab) LOCK the lexical entry related to afolar2_aoc_lemma
+2018-11-08 17:39:22,576 INFO (null) DURATA QUERY LEMMA: 1425
+2018-11-08 17:39:28,070 INFO (andreab) ADD empty External Documentation to lemma afolar2
+2018-11-08 17:39:43,111 INFO (andreab) SAVE new external attestation (id DB: 262144) of afolar2
+2018-11-08 17:40:30,293 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:40:30,298 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:40:30,485 INFO (null) DURATA QUERY SENSO: 1
+2018-11-08 17:40:30,487 INFO (andreab) UNLOCK the lexical entry related to afolar2_aoc_lemma
+2018-11-08 17:40:30,487 INFO (andreab) LOCK the lexical entry related to afolar2_aoc_lemma
+2018-11-08 17:40:30,487 INFO (null) DURATA QUERY LEMMA: 1204
+2018-11-08 17:40:44,838 INFO (andreab) All resources released 
+2018-11-08 17:40:44,838 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:41:03,065 INFO OmegaLex start
+2018-11-08 17:41:10,904 INFO OmegaLex start
+2018-11-08 17:41:16,548 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:42:39,702 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:42:39,706 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:42:39,934 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:42:39,937 INFO (andreab) LOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-11-08 17:42:39,938 INFO (null) DURATA QUERY LEMMA: 8291
+2018-11-08 17:42:49,875 INFO (andreab) ADD empty External Documentation to lemma acorus3*
+2018-11-08 17:43:05,590 INFO (andreab) SAVE new external attestation (id DB: 294912) of acorus3*
+2018-11-08 17:45:40,926 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:45:40,929 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:45:40,934 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:45:40,937 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:45:41,154 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:45:41,156 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-11-08 17:45:41,156 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-11-08 17:45:41,156 INFO (null) DURATA QUERY LEMMA: 8224
+2018-11-08 17:45:48,074 INFO (andreab) ADD empty External Documentation to lemma acorus2*
+2018-11-08 17:46:13,093 INFO (andreab) SAVE new external attestation (id DB: 294913) of acorus2*
+2018-11-08 17:54:31,392 INFO (andreab) All resources released 
+2018-11-08 17:54:31,392 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:54:35,912 INFO OmegaLex start
+2018-11-08 17:55:22,952 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 17:55:49,321 INFO (null) DURATA QUERY FORMA: 5
+2018-11-08 17:55:49,328 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:55:49,617 INFO (null) DURATA QUERY SENSO: 3
+2018-11-08 17:55:49,619 INFO (andreab) LOCK the lexical entry related to _star_aijia_aoc_lemma
+2018-11-08 17:55:49,619 INFO (null) DURATA QUERY LEMMA: 7702
+2018-11-08 17:56:17,850 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:56:17,856 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 17:56:17,860 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 17:56:18,115 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 17:56:18,116 INFO (andreab) UNLOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-11-08 17:56:18,116 INFO (andreab) LOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-11-08 17:56:18,116 INFO (null) DURATA QUERY LEMMA: 9479
+2018-11-08 17:56:27,927 INFO (andreab) ADD empty External Documentation to lemma aiguier
+2018-11-08 17:56:55,588 INFO (andreab) SAVE new external attestation (id DB: 327680) of aiguier
+2018-11-08 17:56:59,995 INFO (andreab) All resources released 
+2018-11-08 17:56:59,995 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 18:00:07,846 INFO OmegaLex start
+2018-11-08 18:00:12,091 INFO OmegaLex start
+2018-11-08 18:00:17,608 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 18:00:40,648 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 18:00:40,654 INFO (null) DURATA QUERY FORMA: 2
+2018-11-08 18:00:40,863 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 18:00:40,865 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-11-08 18:00:40,865 INFO (null) DURATA QUERY LEMMA: 1296
+2018-11-08 18:00:49,989 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 18:00:49,992 INFO (andreab) UNLOCK the lexical entry related to ajutori_aoc_lemma
+2018-11-08 18:00:49,992 INFO (andreab) LOCK the lexical entry related to ajutori_aoc_lemma
+2018-11-08 18:00:49,992 INFO (null) DURATA QUERY LEMMA: 1505
+2018-11-08 18:00:58,527 INFO (null) DURATA QUERY FORMA: 3
+2018-11-08 18:00:58,724 INFO (null) DURATA QUERY SENSO: 2
+2018-11-08 18:00:58,725 INFO (andreab) UNLOCK the lexical entry related to acression_aoc_lemma
+2018-11-08 18:00:58,726 INFO (andreab) LOCK the lexical entry related to acression_aoc_lemma
+2018-11-08 18:00:58,726 INFO (null) DURATA QUERY LEMMA: 1240
+2018-11-08 18:01:03,612 INFO (andreab) ADD empty External Documentation to lemma acression
+2018-11-08 18:01:21,545 INFO (andreab) SAVE new external attestation (id DB: 360448) of acression
+2018-11-08 18:03:57,379 INFO (andreab) All resources released 
+2018-11-08 18:03:57,379 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-08 18:04:00,810 INFO OmegaLex start

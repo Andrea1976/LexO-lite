@@ -1,0 +1,12 @@
+2018-06-07 11:11:15,288 INFO OmegaLex start
+2018-06-07 11:11:58,285 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-07 11:12:31,607 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-07 11:12:32,619 INFO (null) DURATA QUERY FORMA: 3
+2018-06-07 11:12:32,624 INFO (null) DURATA QUERY FORMA: 3
+2018-06-07 11:12:32,628 INFO (null) DURATA QUERY FORMA: 3
+2018-06-07 11:12:32,809 INFO (null) DURATA QUERY SENSO: 2
+2018-06-07 11:12:32,817 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-07 11:12:32,817 INFO (null) DURATA QUERY LEMMA: 1213
+2018-06-07 11:19:26,591 INFO (andreab) All resources released 
+2018-06-07 11:19:26,591 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-07 11:38:14,476 INFO OmegaLex start

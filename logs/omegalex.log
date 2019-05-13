@@ -1,0 +1,59 @@
+2019-04-24 11:33:41,439 INFO OmegaLex start
+2019-04-24 11:38:02,942 INFO OmegaLex start
+2019-04-24 11:38:03,293 ERROR 
+java.lang.ExceptionInInitializerError
+	at it.cnr.ilc.lexolite.HibernateUtil.<clinit>(HibernateUtil.java:29)
+	at it.cnr.ilc.lexolite.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.MappingException: Unable to load class [ it.cnr.ilc.lc.omegalex.domain.SuperEntity] declared in Hibernate configuration <mapping/> entry
+	at org.hibernate.cfg.Configuration.parseMappingElement(Configuration.java:2281)
+	at org.hibernate.cfg.Configuration.parseSessionFactory(Configuration.java:2229)
+	at org.hibernate.cfg.Configuration.doConfigure(Configuration.java:2209)
+	at org.hibernate.cfg.Configuration.doConfigure(Configuration.java:2162)
+	at org.hibernate.cfg.Configuration.configure(Configuration.java:2077)
+	at org.hibernate.cfg.Configuration.configure(Configuration.java:2056)
+	at it.cnr.ilc.lexolite.HibernateUtil.<clinit>(HibernateUtil.java:23)
+	... 19 more
+Caused by: java.lang.ClassNotFoundException: it.cnr.ilc.lc.omegalex.domain.SuperEntity
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1291)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1119)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at org.hibernate.internal.util.ReflectHelper.classForName(ReflectHelper.java:193)
+	at org.hibernate.cfg.Configuration.parseMappingElement(Configuration.java:2278)
+	... 25 more
+2019-04-24 11:40:19,266 INFO OmegaLex start
+2019-04-24 11:41:18,668 INFO OmegaLex start
+2019-04-24 11:41:35,283 INFO OmegaLex start
+2019-04-24 11:41:35,284 INFO OmegaLex start
+2019-04-24 11:41:35,284 INFO OmegaLex start
+2019-04-24 11:41:53,165 INFO OmegaLex start
+2019-04-24 11:41:53,166 INFO OmegaLex start
+2019-04-24 11:41:53,166 INFO OmegaLex start
+2019-04-24 11:42:37,551 INFO OmegaLex start
+2019-04-24 11:42:37,552 INFO OmegaLex start
+2019-04-24 11:42:37,552 INFO OmegaLex start
+2019-04-24 11:42:45,521 INFO OmegaLex start
+2019-04-24 11:42:45,522 INFO OmegaLex start
+2019-04-24 11:42:45,522 INFO OmegaLex start
+2019-04-24 11:43:18,160 INFO OmegaLex start
+2019-04-24 11:43:18,162 INFO OmegaLex start
+2019-04-24 11:43:18,162 INFO OmegaLex start
+2019-04-24 11:44:01,359 INFO OmegaLex start

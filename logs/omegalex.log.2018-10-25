@@ -1,0 +1,109 @@
+2018-10-25 16:18:53,874 INFO OmegaLex start
+2018-10-25 16:19:33,792 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-25 16:19:47,601 INFO (andreab) SELECT Lemma det_aoc_lemma
+2018-10-25 16:19:48,653 INFO (null) DURATA QUERY FORMA: 4
+2018-10-25 16:19:48,658 INFO (null) DURATA QUERY FORMA: 4
+2018-10-25 16:19:48,873 INFO (null) DURATA QUERY SENSO: 3
+2018-10-25 16:19:48,874 INFO (andreab) LOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:19:48,874 INFO (null) DURATA QUERY LEMMA: 1279
+2018-10-25 16:20:04,576 ERROR 
+org.hibernate.exception.ConstraintViolationException: could not execute statement
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:72)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:211)
+	at org.hibernate.engine.query.spi.NativeSQLQueryPlan.performExecuteUpdate(NativeSQLQueryPlan.java:211)
+	at org.hibernate.internal.SessionImpl.executeNativeUpdate(SessionImpl.java:1346)
+	at org.hibernate.internal.SQLQueryImpl.executeUpdate(SQLQueryImpl.java:389)
+	at it.cnr.ilc.lc.omegalex.creator.AttestationImporter.deleteDocuments(AttestationImporter.java:47)
+	at it.cnr.ilc.lc.omegalex.creator.AttestationImporter.importAttestations(AttestationImporter.java:38)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.importDocuments(DomainCreator.java:179)
+	at it.cnr.ilc.lc.omegalex.creator.DomainCreator.doGet(DomainCreator.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`LexO_users`.`ExternalAttestation`, CONSTRAINT `FK_443t8pa3h4cmylexs03qknj7m` FOREIGN KEY (`document_id`) REFERENCES `Document` (`id`))
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.Util.getInstance(Util.java:387)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:934)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:147)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:208)
+	... 33 more
+2018-10-25 16:22:58,113 INFO (andreab) SELECT Lemma det_aoc_lemma
+2018-10-25 16:22:59,040 INFO (null) DURATA QUERY FORMA: 2
+2018-10-25 16:22:59,044 INFO (null) DURATA QUERY FORMA: 3
+2018-10-25 16:22:59,220 INFO (null) DURATA QUERY SENSO: 2
+2018-10-25 16:22:59,220 INFO (andreab) UNLOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:22:59,220 INFO (andreab) LOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:22:59,220 INFO (null) DURATA QUERY LEMMA: 1109
+2018-10-25 16:27:17,025 INFO (andreab) SELECT Lemma det_aoc_lemma
+2018-10-25 16:27:17,961 INFO (null) DURATA QUERY FORMA: 2
+2018-10-25 16:27:17,968 INFO (null) DURATA QUERY FORMA: 3
+2018-10-25 16:27:18,154 INFO (null) DURATA QUERY SENSO: 1
+2018-10-25 16:27:18,154 INFO (andreab) UNLOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:27:18,154 INFO (andreab) LOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:27:18,154 INFO (null) DURATA QUERY LEMMA: 1131
+2018-10-25 16:27:25,952 INFO (andreab) UPDATE Internal attestation of des
+2018-10-25 16:27:41,818 INFO (andreab) All resources released 
+2018-10-25 16:27:41,819 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-25 16:46:45,793 INFO OmegaLex start
+2018-10-25 16:46:54,546 INFO OmegaLex start
+2018-10-25 16:47:06,267 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-25 16:48:04,157 INFO (andreab) SELECT Attestation AnatPor C of des
+2018-10-25 16:48:19,543 INFO (andreab) SELECT Lemma det_aoc_lemma
+2018-10-25 16:48:20,536 INFO (null) DURATA QUERY FORMA: 4
+2018-10-25 16:48:20,543 INFO (null) DURATA QUERY FORMA: 3
+2018-10-25 16:48:20,723 INFO (null) DURATA QUERY SENSO: 2
+2018-10-25 16:48:20,724 INFO (andreab) LOCK the lexical entry related to det_aoc_lemma
+2018-10-25 16:48:20,724 INFO (null) DURATA QUERY LEMMA: 1183
+2018-10-25 16:52:04,615 INFO (andreab) All resources released 
+2018-10-25 16:52:04,615 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-25 17:08:21,171 INFO OmegaLex start
+2018-10-25 17:08:24,862 INFO OmegaLex start
+2018-10-25 17:10:46,867 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-10-25 17:11:01,742 INFO (andreab) SELECT Lemma det_aoc_lemma
+2018-10-25 17:11:02,744 INFO (null) DURATA QUERY FORMA: 3
+2018-10-25 17:11:02,751 INFO (null) DURATA QUERY FORMA: 2
+2018-10-25 17:11:02,935 INFO (null) DURATA QUERY SENSO: 2
+2018-10-25 17:11:02,936 INFO (andreab) LOCK the lexical entry related to det_aoc_lemma
+2018-10-25 17:11:02,936 INFO (null) DURATA QUERY LEMMA: 1199
+2018-10-25 20:11:21,962 INFO (andreab) All resources released 
+2018-10-25 20:11:21,962 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1

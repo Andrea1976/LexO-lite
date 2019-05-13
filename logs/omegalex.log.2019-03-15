@@ -1,0 +1,250 @@
+2019-03-15 08:09:23,665 INFO OmegaLex start
+2019-03-15 08:09:30,020 INFO OmegaLex start
+2019-03-15 08:09:34,434 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:10:53,005 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:11:03,666 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:11:03,668 INFO (andreab) LOCK the lexical entry related to centaurea_lat_lemma
+2019-03-15 08:11:03,668 INFO (null) DURATA QUERY LEMMA: 4113
+2019-03-15 08:11:12,403 INFO (andreab) ADD empty reference (seeAlso) to lemma centaurea
+2019-03-15 08:21:56,639 INFO OmegaLex start
+2019-03-15 08:22:02,071 INFO OmegaLex start
+2019-03-15 08:22:23,008 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:24:52,071 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:25:03,798 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:25:03,800 INFO (andreab) LOCK the lexical entry related to artemisia_lat_lemma
+2019-03-15 08:25:03,801 INFO (null) DURATA QUERY LEMMA: 4293
+2019-03-15 08:26:43,308 INFO (andreab) ADD empty reference (seeAlso) to lemma artemisia
+2019-03-15 08:27:21,875 INFO OmegaLex start
+2019-03-15 08:28:10,414 INFO OmegaLex start
+2019-03-15 08:28:15,492 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:28:37,566 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:28:48,411 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:28:48,414 INFO (andreab) LOCK the lexical entry related to artemisia_lat_lemma
+2019-03-15 08:28:48,414 INFO (null) DURATA QUERY LEMMA: 4362
+2019-03-15 08:28:59,921 INFO (andreab) ADD empty reference (seeAlso) to lemma artemisia
+2019-03-15 08:29:32,984 INFO OmegaLex start
+2019-03-15 08:30:15,813 INFO OmegaLex start
+2019-03-15 08:30:41,315 INFO OmegaLex start
+2019-03-15 08:30:46,639 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:31:23,490 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:31:36,571 INFO (null) DURATA QUERY SENSO: 3
+2019-03-15 08:31:36,573 INFO (andreab) LOCK the lexical entry related to anginae_lat_lemma
+2019-03-15 08:31:36,573 INFO (null) DURATA QUERY LEMMA: 4744
+2019-03-15 08:32:00,327 INFO (andreab) ADD empty reference (seeAlso) to lemma anginae
+2019-03-15 08:34:31,037 INFO OmegaLex start
+2019-03-15 08:34:38,722 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:35:42,937 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:35:50,187 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:35:50,189 INFO (andreab) LOCK the lexical entry related to dysnoicis_lat_lemma
+2019-03-15 08:35:50,189 INFO (null) DURATA QUERY LEMMA: 2060
+2019-03-15 08:35:52,291 INFO (andreab) ADD empty reference (seeAlso) to lemma dysnoicis
+2019-03-15 08:40:54,671 INFO OmegaLex start
+2019-03-15 08:41:07,564 INFO OmegaLex start
+2019-03-15 08:41:15,954 INFO (andreab) navigate to lexicon editor
+2019-03-15 08:41:33,606 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:41:40,135 INFO (null) DURATA QUERY SENSO: 3
+2019-03-15 08:41:40,138 INFO (andreab) LOCK the lexical entry related to fastidia_lat_lemma
+2019-03-15 08:41:40,138 INFO (null) DURATA QUERY LEMMA: 2144
+2019-03-15 08:41:42,141 INFO (andreab) ADD empty reference (seeAlso) to lemma fastidia
+2019-03-15 08:42:20,344 INFO (andreab) ADD Reference (seeAlso) vapor@lat to the Lemma fastidia
+2019-03-15 08:42:36,940 INFO (andreab) UPDATE Lemma fastidia
+2019-03-15 08:42:54,722 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:43:03,999 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 08:43:04,002 INFO (andreab) UNLOCK the lexical entry related to fastidia_lat_lemma
+2019-03-15 08:43:04,003 INFO (andreab) LOCK the lexical entry related to fastidia_lat_lemma
+2019-03-15 08:43:04,003 INFO (null) DURATA QUERY LEMMA: 1789
+2019-03-15 08:43:09,725 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:43:09,727 INFO (andreab) UNLOCK the lexical entry related to ictericis_lat_lemma
+2019-03-15 08:43:09,728 INFO (andreab) LOCK the lexical entry related to ictericis_lat_lemma
+2019-03-15 08:43:09,728 INFO (null) DURATA QUERY LEMMA: 1772
+2019-03-15 08:43:13,364 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 08:43:13,366 INFO (andreab) UNLOCK the lexical entry related to vapor_lat_lemma
+2019-03-15 08:43:13,366 INFO (andreab) LOCK the lexical entry related to vapor_lat_lemma
+2019-03-15 08:43:13,366 INFO (null) DURATA QUERY LEMMA: 1751
+2019-03-15 08:48:28,396 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 08:48:28,398 INFO (andreab) UNLOCK the lexical entry related to allium_lat_lemma
+2019-03-15 08:48:28,402 INFO (andreab) LOCK the lexical entry related to allium_lat_lemma
+2019-03-15 08:48:28,402 INFO (null) DURATA QUERY LEMMA: 2006
+2019-03-15 08:48:36,088 INFO (andreab) UPDATE Lemma Part-of-Speech of allium to article
+2019-03-15 08:48:38,410 INFO (andreab) UPDATE Lemma allium
+2019-03-15 08:52:08,888 INFO (andreab) RESET Corr Search Filter 
+2019-03-15 08:52:10,524 INFO (andreab) RESET Corr Search Filter 
+2019-03-15 08:52:37,341 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:52:46,385 INFO (andreab) NEW Lemma Word
+2019-03-15 08:52:49,879 INFO (andreab) UPDATE Lemma name from a to a
+2019-03-15 08:52:50,558 INFO (andreab) UPDATE Lemma name from aaa to aaa
+2019-03-15 08:52:50,958 INFO (andreab) UPDATE Lemma name from aaaprov to aaaprov
+2019-03-15 08:52:51,375 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2019-03-15 08:52:51,786 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2019-03-15 08:52:52,199 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2019-03-15 08:52:52,625 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2019-03-15 08:52:53,151 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2019-03-15 08:52:54,999 INFO (andreab) UPDATE Lemma name from aaaprova2 to aaaprova2
+2019-03-15 08:52:56,356 INFO (andreab) UPDATE Lemma name from aaaprova2 to aaaprova2
+2019-03-15 08:52:56,396 INFO (andreab) UPDATE correspondence check box of aaaprova2 to true
+2019-03-15 08:53:01,800 INFO (andreab) UPDATE Lemma language of aaaprova2 to cat
+2019-03-15 08:53:04,118 INFO (andreab) UPDATE Lemma alphabet of aaaprova2 to Latn
+2019-03-15 08:53:06,325 INFO (andreab) UPDATE Lemma Part-of-Speech of aaaprova2 to article
+2019-03-15 08:53:10,550 INFO (andreab) SAVE new Lemma and its default sense aaaprova2
+2019-03-15 08:53:13,473 INFO (andreab) LOCK the lexical entry related to aaaprova2_cat_lemma
+2019-03-15 08:53:18,920 INFO (andreab) LOAD correspondence lexicon 
+2019-03-15 08:53:32,626 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 08:53:32,628 INFO (andreab) UNLOCK the lexical entry related to אירבא_טריאנגולאריש_lat_lemma
+2019-03-15 08:53:32,628 INFO (andreab) LOCK the lexical entry related to אירבא_טריאנגולאריש_lat_lemma
+2019-03-15 08:53:32,628 INFO (null) DURATA QUERY LEMMA: 1177
+2019-03-15 09:16:14,164 INFO OmegaLex start
+2019-03-15 09:16:18,243 INFO OmegaLex start
+2019-03-15 09:16:23,557 INFO (andreab) navigate to lexicon editor
+2019-03-15 09:16:38,276 INFO (null) DURATA QUERY FORMA: 4
+2019-03-15 09:16:38,281 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,285 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,289 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,293 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,296 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,299 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,303 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,308 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,311 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,315 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,319 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,324 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,328 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,332 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,335 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,339 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:16:38,342 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,345 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:16:38,615 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 09:16:38,618 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2019-03-15 09:16:38,618 INFO (null) DURATA QUERY LEMMA: 1789
+2019-03-15 09:17:16,356 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:17:16,358 INFO (andreab) UNLOCK the lexical entry related to arnaves_aoc_lemma
+2019-03-15 09:17:16,358 INFO (andreab) LOCK the lexical entry related to arnaves_aoc_lemma
+2019-03-15 09:17:16,359 INFO (null) DURATA QUERY LEMMA: 1682
+2019-03-15 09:17:23,671 INFO (andreab) VIEW Deatils of the paliure_épine_de_Christ_fr_sense1 translation of arnaves_aoc_sense1
+2019-03-15 09:17:25,048 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:17:25,049 INFO (andreab) LOCK the lexical entry related to paliure_épine_de_Christ_fr_lemma
+2019-03-15 09:17:30,384 INFO (andreab) UNLOCK the lexical entry related to paliure_épine_de_Christ_fr_lemma
+2019-03-15 09:18:01,577 INFO (andreab) VIEW Deatils of the paliure_épine_de_Christ_fr_sense1 translation of arnaves_aoc_sense1
+2019-03-15 09:18:02,899 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:18:02,899 INFO (andreab) LOCK the lexical entry related to paliure_épine_de_Christ_fr_lemma
+2019-03-15 09:18:06,185 INFO (andreab) UNLOCK the lexical entry related to paliure_épine_de_Christ_fr_lemma
+2019-03-15 09:18:26,611 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:18:26,613 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,616 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,618 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:18:26,620 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,622 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,624 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,627 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,629 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 09:18:26,631 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,633 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,635 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,637 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,640 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,641 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,643 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,645 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,647 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,649 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 09:18:26,920 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:18:26,921 INFO (andreab) UNLOCK the lexical entry related to acassia1_aoc_lemma
+2019-03-15 09:18:26,922 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2019-03-15 09:18:26,922 INFO (null) DURATA QUERY LEMMA: 1662
+2019-03-15 09:37:58,101 INFO OmegaLex start
+2019-03-15 09:38:03,441 INFO (andreab) navigate to lexicon editor
+2019-03-15 09:38:39,113 INFO (null) DURATA QUERY FORMA: 4
+2019-03-15 09:38:39,118 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:38:39,122 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:38:39,126 INFO (null) DURATA QUERY FORMA: 3
+2019-03-15 09:38:39,398 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 09:38:39,401 INFO (andreab) LOCK the lexical entry related to acorus2_aoc_lemma
+2019-03-15 09:38:39,401 INFO (null) DURATA QUERY LEMMA: 1730
+2019-03-15 09:38:50,610 INFO (andreab) NEW Lemma Word
+2019-03-15 09:38:56,611 INFO (andreab) UPDATE Lemma Part-of-Speech of  to noun
+2019-03-15 09:39:07,548 INFO (andreab) UPDATE Lemma name from a to a
+2019-03-15 09:39:08,228 INFO (andreab) UPDATE Lemma name from an to an
+2019-03-15 09:39:08,804 INFO (andreab) UPDATE Lemma name from and to and
+2019-03-15 09:39:09,358 INFO (andreab) UPDATE Lemma name from andre to andre
+2019-03-15 09:39:09,919 INFO (andreab) UPDATE Lemma name from andrea to andrea
+2019-03-15 09:39:10,710 INFO (andreab) UPDATE Lemma name from andrea to andrea
+2019-03-15 09:39:11,455 INFO (andreab) UPDATE Lemma name from andrea to andrea
+2019-03-15 09:39:12,864 INFO (andreab) UPDATE Lemma language of andrea to aoc
+2019-03-15 09:39:15,425 INFO (andreab) UPDATE Lemma alphabet of andrea to Latn
+2019-03-15 09:39:20,899 INFO (andreab) UPDATE Lemma gender of andrea to neuter
+2019-03-15 09:39:23,157 INFO (andreab) UPDATE Lemma number of andrea to singular
+2019-03-15 09:39:28,544 INFO (andreab) SAVE new Lemma and its default sense andrea
+2019-03-15 09:39:32,268 INFO (andreab) LOCK the lexical entry related to andrea_aoc_lemma
+2019-03-15 09:39:50,260 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:39:50,262 INFO (andreab) UNLOCK the lexical entry related to andrea_aoc_lemma
+2019-03-15 09:39:50,262 INFO (andreab) LOCK the lexical entry related to andrea_aoc_lemma
+2019-03-15 09:39:50,262 INFO (null) DURATA QUERY LEMMA: 1625
+2019-03-15 09:39:54,008 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:39:54,009 INFO (andreab) UNLOCK the lexical entry related to anelit_aoc_lemma
+2019-03-15 09:39:54,010 INFO (andreab) LOCK the lexical entry related to anelit_aoc_lemma
+2019-03-15 09:39:54,010 INFO (null) DURATA QUERY LEMMA: 1633
+2019-03-15 09:39:56,375 INFO (null) DURATA QUERY SENSO: 1
+2019-03-15 09:39:56,377 INFO (andreab) UNLOCK the lexical entry related to andrea_aoc_lemma
+2019-03-15 09:39:56,378 INFO (andreab) LOCK the lexical entry related to andrea_aoc_lemma
+2019-03-15 09:39:56,378 INFO (null) DURATA QUERY LEMMA: 1608
+2019-03-15 13:04:20,204 INFO OmegaLex start
+2019-03-15 13:04:29,253 INFO OmegaLex start
+2019-03-15 13:04:35,806 INFO (andreab) navigate to lexicon editor
+2019-03-15 13:05:52,557 INFO OmegaLex start
+2019-03-15 13:06:03,672 INFO OmegaLex start
+2019-03-15 13:06:08,400 INFO (andreab) navigate to lexicon editor
+2019-03-15 13:06:53,827 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:06:53,830 INFO (andreab) LOCK the lexical entry related to arnaves_aoc_lemma
+2019-03-15 13:06:53,830 INFO (null) DURATA QUERY LEMMA: 1651
+2019-03-15 13:07:54,754 INFO OmegaLex start
+2019-03-15 13:07:59,949 INFO (andreab) navigate to lexicon editor
+2019-03-15 13:08:27,023 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:08:27,025 INFO (andreab) LOCK the lexical entry related to arnaves_aoc_lemma
+2019-03-15 13:08:27,025 INFO (null) DURATA QUERY LEMMA: 1651
+2019-03-15 13:10:17,062 INFO OmegaLex start
+2019-03-15 13:11:03,047 INFO OmegaLex start
+2019-03-15 13:11:07,276 INFO (andreab) navigate to lexicon editor
+2019-03-15 13:11:57,047 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:11:57,049 INFO (andreab) LOCK the lexical entry related to arnaves_aoc_lemma
+2019-03-15 13:11:57,049 INFO (null) DURATA QUERY LEMMA: 1722
+2019-03-15 13:12:46,604 INFO (andreab) LOAD lexicon All languages
+2019-03-15 13:12:58,543 INFO (andreab) LOAD lexicon fr
+2019-03-15 13:13:11,953 INFO (andreab) LOAD lexicon en
+2019-03-15 13:17:15,625 INFO (andreab) NEW Lemma Word
+2019-03-15 13:17:23,172 INFO (andreab) UPDATE Lemma language of  to en
+2019-03-15 13:17:27,794 INFO (andreab) UPDATE Lemma name from k to k
+2019-03-15 13:17:28,297 INFO (andreab) UPDATE Lemma name from kit to kit
+2019-03-15 13:17:28,799 INFO (andreab) UPDATE Lemma name from kitche to kitche
+2019-03-15 13:17:29,309 INFO (andreab) UPDATE Lemma name from kitchen to kitchen
+2019-03-15 13:17:29,823 INFO (andreab) UPDATE Lemma name from kitchen to kitchen
+2019-03-15 13:17:30,324 INFO (andreab) UPDATE Lemma name from kitchen to kitchen
+2019-03-15 13:17:30,868 INFO (andreab) UPDATE Lemma name from kitchen to kitchen
+2019-03-15 13:17:31,394 INFO (andreab) UPDATE Lemma name from kitchen to kitchen
+2019-03-15 13:17:31,678 INFO (andreab) UPDATE Lemma alphabet of kitchen to Latn
+2019-03-15 13:17:36,326 INFO (andreab) SAVE new Lemma and its default sense kitchen
+2019-03-15 13:17:39,782 INFO (andreab) LOCK the lexical entry related to kitchen_en_lemma
+2019-03-15 13:17:44,309 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:17:44,311 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:17:44,313 INFO (andreab) UNLOCK the lexical entry related to kitchen_en_lemma
+2019-03-15 13:17:44,313 INFO (andreab) LOCK the lexical entry related to kitchen_en_lemma
+2019-03-15 13:17:44,313 INFO (null) DURATA QUERY LEMMA: 1649
+2019-03-15 13:17:50,406 INFO (andreab) EXPORT lexicon only
+2019-03-15 13:46:22,547 INFO OmegaLex start
+2019-03-15 13:46:35,411 INFO (andreab) navigate to lexicon editor
+2019-03-15 13:46:49,286 INFO (andreab) LOAD lexicon fr
+2019-03-15 13:47:16,478 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:47:16,481 INFO (andreab) LOCK the lexical entry related to abusseau_fr_lemma
+2019-03-15 13:47:16,481 INFO (null) DURATA QUERY LEMMA: 1916
+2019-03-15 13:47:29,779 INFO (null) DURATA QUERY SENSO: 2
+2019-03-15 13:47:29,781 INFO (andreab) UNLOCK the lexical entry related to lyciet_d_APOS_Europe_fr_lemma
+2019-03-15 13:47:29,782 INFO (andreab) LOCK the lexical entry related to lyciet_d_APOS_Europe_fr_lemma
+2019-03-15 13:47:29,783 INFO (null) DURATA QUERY LEMMA: 1205
+2019-03-15 13:47:52,936 INFO (andreab) LOAD lexicon All languages
+2019-03-15 13:48:04,663 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 13:48:04,666 INFO (null) DURATA QUERY FORMA: 2
+2019-03-15 13:48:04,669 INFO (null) DURATA QUERY FORMA: 1
+2019-03-15 13:48:04,959 INFO (null) DURATA QUERY SENSO: 3
+2019-03-15 13:48:04,962 INFO (andreab) UNLOCK the lexical entry related to arn_aoc_lemma
+2019-03-15 13:48:04,962 INFO (andreab) LOCK the lexical entry related to arn_aoc_lemma
+2019-03-15 13:48:04,962 INFO (null) DURATA QUERY LEMMA: 1731

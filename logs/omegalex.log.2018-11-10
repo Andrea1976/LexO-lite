@@ -1,0 +1,144 @@
+2018-11-10 15:16:34,251 INFO OmegaLex start
+2018-11-10 15:16:38,667 INFO OmegaLex start
+2018-11-10 15:18:46,483 INFO OmegaLex start
+2018-11-10 15:22:49,559 INFO OmegaLex start
+2018-11-10 15:30:25,159 INFO OmegaLex start
+2018-11-10 15:49:59,481 INFO OmegaLex start
+2018-11-10 15:50:05,775 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-10 15:50:26,935 INFO (andreab) LOAD correspondence lexicon 
+2018-11-10 15:50:32,528 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 15:50:32,530 INFO (andreab) LOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:50:32,530 INFO (null) DURATA QUERY LEMMA: 1299
+2018-11-10 15:51:15,210 INFO (andreab) ADD empty translation relation to aloe_gr_sense1
+2018-11-10 15:51:23,287 INFO (andreab) ADD Sense acacia_fr_sense1@fr as translation of the sense aloe_gr_sense1
+2018-11-10 15:51:25,530 INFO (andreab) SAVE Sense aloe_gr_sense1
+2018-11-10 15:51:31,714 INFO (andreab) VIEW Deatils of the acacia_fr_sense1 translation of aloe_gr_sense1
+2018-11-10 15:51:33,046 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 15:51:33,046 INFO (andreab) LOCK the lexical entry related to acacia_fr_lemma
+2018-11-10 15:51:56,550 INFO (andreab) UNLOCK the lexical entry related to acacia_fr_lemma
+2018-11-10 15:52:40,221 INFO (andreab) All resources released 
+2018-11-10 15:52:40,221 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-10 15:56:18,692 INFO OmegaLex start
+2018-11-10 15:56:22,827 INFO OmegaLex start
+2018-11-10 15:56:29,777 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-11-10 15:57:06,176 INFO (andreab) LOAD correspondence lexicon 
+2018-11-10 15:57:10,995 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 15:57:10,997 INFO (andreab) LOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:57:10,997 INFO (null) DURATA QUERY LEMMA: 1191
+2018-11-10 15:57:22,972 INFO (andreab) ADD empty Internal Documentation to lemma aloe
+2018-11-10 15:57:45,929 INFO (andreab) SAVE new internal attestation (id DB: 393216) of aloe
+2018-11-10 15:57:58,977 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 15:57:58,979 INFO (andreab) UNLOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:57:58,979 INFO (andreab) LOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:57:58,980 INFO (null) DURATA QUERY LEMMA: 1149
+2018-11-10 15:58:10,316 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 15:58:11,333 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-11-10 15:58:12,346 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-11-10 15:58:12,396 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-11-10 15:58:12,440 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-11-10 15:58:15,527 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ss
+2018-11-10 15:58:17,068 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 15:58:19,058 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 15:58:23,934 INFO (andreab) ADD empty External Documentation to lemma aloe
+2018-11-10 15:58:42,010 INFO (andreab) SAVE new external attestation (id DB: 393217) of aloe
+2018-11-10 15:58:58,387 INFO (andreab) RESET Attestation Search Filter 
+2018-11-10 15:59:09,260 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2018-11-10 15:59:32,460 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 15:59:32,461 INFO (andreab) UNLOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:59:32,462 INFO (andreab) LOCK the lexical entry related to aloe_gr_lemma
+2018-11-10 15:59:32,462 INFO (null) DURATA QUERY LEMMA: 1114
+2018-11-10 16:04:18,376 INFO (null) DURATA QUERY SENSO: 1
+2018-11-10 16:04:18,378 INFO (andreab) UNLOCK the lexical entry related to anginae_lat_lemma
+2018-11-10 16:04:18,378 INFO (andreab) LOCK the lexical entry related to anginae_lat_lemma
+2018-11-10 16:04:18,378 INFO (null) DURATA QUERY LEMMA: 1130
+2018-11-10 16:04:29,018 INFO (andreab) ADD empty englishTranslation relation to anginae_lat_sense1
+2018-11-10 16:04:36,449 INFO (andreab) ADD Sense adjuvant_organs_en_sense1@en as englishTranslation of the sense anginae_lat_sense1
+2018-11-10 16:04:38,141 INFO (andreab) SAVE Sense anginae_lat_sense1
+2018-11-10 16:04:47,983 INFO (andreab) ADD empty Internal Documentation to lemma anginae
+2018-11-10 16:04:56,100 INFO (andreab) SAVE new internal attestation (id DB: 393218) of anginae
+2018-11-10 16:07:57,481 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,485 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,490 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,492 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:07:57,495 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,498 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,503 INFO (null) DURATA QUERY FORMA: 3
+2018-11-10 16:07:57,508 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:07:57,696 INFO (null) DURATA QUERY SENSO: 2
+2018-11-10 16:07:57,697 INFO (andreab) UNLOCK the lexical entry related to aganos_aoc_lemma
+2018-11-10 16:07:57,697 INFO (andreab) LOCK the lexical entry related to aganos_aoc_lemma
+2018-11-10 16:07:57,697 INFO (null) DURATA QUERY LEMMA: 1183
+2018-11-10 16:08:08,307 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:08:08,310 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:08,494 INFO (null) DURATA QUERY SENSO: 0
+2018-11-10 16:08:08,496 INFO (andreab) UNLOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-11-10 16:08:08,496 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-11-10 16:08:08,496 INFO (null) DURATA QUERY LEMMA: 1163
+2018-11-10 16:08:12,835 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:12,840 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:08:12,842 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:12,846 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:12,851 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:12,854 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:13,039 INFO (null) DURATA QUERY SENSO: 1
+2018-11-10 16:08:13,041 INFO (andreab) UNLOCK the lexical entry related to aglan_aoc_lemma
+2018-11-10 16:08:13,041 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-11-10 16:08:13,041 INFO (null) DURATA QUERY LEMMA: 1146
+2018-11-10 16:08:15,762 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,765 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:08:15,767 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,769 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,771 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,772 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,776 INFO (null) DURATA QUERY FORMA: 1
+2018-11-10 16:08:15,978 INFO (null) DURATA QUERY SENSO: 1
+2018-11-10 16:08:15,980 INFO (andreab) UNLOCK the lexical entry related to agarich_aoc_lemma
+2018-11-10 16:08:15,980 INFO (andreab) LOCK the lexical entry related to agarich_aoc_lemma
+2018-11-10 16:08:15,980 INFO (null) DURATA QUERY LEMMA: 1176
+2018-11-10 16:08:20,497 INFO (null) DURATA QUERY FORMA: 2
+2018-11-10 16:08:20,679 INFO (null) DURATA QUERY SENSO: 1
+2018-11-10 16:08:20,680 INFO (andreab) UNLOCK the lexical entry related to adust_aoc_lemma
+2018-11-10 16:08:20,680 INFO (andreab) LOCK the lexical entry related to adust_aoc_lemma
+2018-11-10 16:08:20,680 INFO (null) DURATA QUERY LEMMA: 1109
+2018-11-10 16:08:30,397 INFO (andreab) ADD empty Internal Documentation to lemma adust
+2018-11-10 16:08:48,275 INFO (andreab) SAVE new internal attestation (id DB: 393219) of adust
+2018-11-10 16:09:01,860 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 16:09:02,765 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:03,695 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:03,758 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:03,801 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:03,842 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:03,892 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:05,691 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ss
+2018-11-10 16:09:10,182 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 16:09:19,828 INFO (andreab) RESET Attestation Search Filter 
+2018-11-10 16:09:30,719 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 16:09:31,613 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:32,536 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:32,583 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:32,637 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:32,680 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:32,713 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sisi
+2018-11-10 16:09:34,211 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ss
+2018-11-10 16:09:35,741 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 16:09:52,929 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-11-10 16:10:09,329 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: 
+2018-11-10 16:10:10,276 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: ss
+2018-11-10 16:10:11,260 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: ss
+2018-11-10 16:10:11,639 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: ss
+2018-11-10 16:10:12,013 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: sisi
+2018-11-10 16:10:12,305 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: sisi
+2018-11-10 16:10:12,344 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: sisi
+2018-11-10 16:10:12,394 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: sisi
+2018-11-10 16:10:13,758 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: ss
+2018-11-10 16:10:14,137 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: true - all: false - startsWith: slsl
+2018-11-10 16:10:21,323 INFO (andreab) RESET Attestation Search Filter 
+2018-11-10 16:10:27,994 INFO (andreab) ADD empty Internal Documentation to lemma adust
+2018-11-10 16:10:42,649 INFO (andreab) SAVE new internal attestation (id DB: 393220) of adust
+2018-11-10 16:10:50,123 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-11-10 16:10:51,049 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: nn
+2018-11-10 16:10:52,151 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: nono
+2018-11-10 16:10:52,198 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: nono
+2018-11-10 16:10:52,242 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: nono
+2018-11-10 17:09:50,230 INFO (andreab) All resources released 
+2018-11-10 17:09:50,230 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1

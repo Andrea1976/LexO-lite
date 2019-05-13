@@ -1,0 +1,18 @@
+2018-06-21 09:50:51,843 INFO OmegaLex start
+2018-06-21 09:51:30,079 INFO OmegaLex start
+2018-06-21 09:54:56,740 INFO OmegaLex start
+2018-06-21 09:55:08,260 INFO OmegaLex start
+2018-06-21 10:10:36,889 INFO OmegaLex start
+2018-06-21 10:10:45,243 INFO OmegaLex start
+2018-06-21 15:30:05,053 INFO OmegaLex start
+2018-06-21 15:30:08,850 INFO OmegaLex start
+2018-06-21 15:32:01,498 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-21 15:59:15,941 INFO (andreab) SELECT Attestation ShS1 O(=Oxford1) of broquel
+2018-06-21 15:59:26,885 INFO (andreab) SELECT Lemma _star_broquel_aoc_lemma
+2018-06-21 15:59:27,852 INFO (null) DURATA QUERY FORMA: 3
+2018-06-21 15:59:28,034 INFO (null) DURATA QUERY SENSO: 1
+2018-06-21 15:59:28,042 INFO (andreab) LOCK the lexical entry related to _star_broquel_aoc_lemma
+2018-06-21 15:59:28,042 INFO (null) DURATA QUERY LEMMA: 1159
+2018-06-21 15:59:51,970 INFO (andreab) RESET Lemma Search Filter 
+2018-06-21 16:05:52,582 INFO (andreab) All resources released 
+2018-06-21 16:05:52,582 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

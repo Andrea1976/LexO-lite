@@ -1,0 +1,187 @@
+2019-04-09 10:56:32,956 INFO OmegaLex start
+2019-04-09 10:56:41,485 INFO (andreab) navigate to lexicon editor
+2019-04-09 10:57:01,839 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 10:57:01,843 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 10:57:01,847 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 10:57:01,855 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 10:57:02,146 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 10:57:02,148 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 10:57:02,149 INFO (null) DURATA QUERY LEMMA: 1856
+2019-04-09 10:57:07,381 INFO (andreab) ADD empty External Documentation to lemma affrodil
+2019-04-09 10:57:35,522 INFO (andreab) SAVE new external attestation (id DB: 65536) of affrodil
+2019-04-09 11:09:25,378 INFO OmegaLex start
+2019-04-09 11:09:34,920 INFO OmegaLex start
+2019-04-09 11:09:39,634 INFO (andreab) navigate to lexicon editor
+2019-04-09 11:11:24,444 INFO (null) DURATA QUERY FORMA: 5
+2019-04-09 11:11:24,449 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:11:24,454 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:11:24,462 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:11:24,761 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 11:11:24,763 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:11:24,764 INFO (null) DURATA QUERY LEMMA: 9809
+2019-04-09 11:15:38,528 INFO OmegaLex start
+2019-04-09 11:15:42,518 INFO (andreab) navigate to lexicon editor
+2019-04-09 11:17:38,233 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:17:38,238 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:17:38,242 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:17:38,251 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:17:38,565 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 11:17:38,567 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:17:38,567 INFO (null) DURATA QUERY LEMMA: 2043
+2019-04-09 11:23:37,484 INFO OmegaLex start
+2019-04-09 11:23:46,672 INFO (andreab) navigate to lexicon editor
+2019-04-09 11:24:05,153 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:24:05,157 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:05,161 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:05,168 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:05,462 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 11:24:05,465 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:24:05,465 INFO (null) DURATA QUERY LEMMA: 1909
+2019-04-09 11:24:20,200 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:24:20,207 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:20,261 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:20,266 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:20,272 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:20,277 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:24:20,577 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 11:24:20,579 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 11:24:20,580 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 11:24:20,580 INFO (null) DURATA QUERY LEMMA: 1900
+2019-04-09 11:24:33,926 INFO (andreab) ADD empty External Documentation to lemma affumar
+2019-04-09 11:24:51,423 INFO (andreab) SAVE new external attestation (id DB: 98304) of affumar
+2019-04-09 11:25:07,597 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:25:07,600 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:25:07,614 INFO (null) DURATA QUERY FORMA: 13
+2019-04-09 11:25:07,619 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 11:25:07,966 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 11:25:07,968 INFO (andreab) UNLOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:25:07,968 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:25:07,968 INFO (null) DURATA QUERY LEMMA: 1897
+2019-04-09 11:25:20,456 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:25:20,758 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 11:25:20,760 INFO (andreab) UNLOCK the lexical entry related to acression_aoc_lemma
+2019-04-09 11:25:20,760 INFO (andreab) LOCK the lexical entry related to acression_aoc_lemma
+2019-04-09 11:25:20,760 INFO (null) DURATA QUERY LEMMA: 1871
+2019-04-09 11:25:23,073 INFO (andreab) ADD empty External Documentation to lemma acression
+2019-04-09 11:25:34,504 INFO (andreab) SAVE new external attestation (id DB: 98305) of acression
+2019-04-09 11:25:50,742 INFO (andreab) UPDATE External attestation of acression
+2019-04-09 11:25:56,292 INFO (andreab) UPDATE external attestation (id DB: 98305) of acression
+2019-04-09 11:37:20,516 INFO OmegaLex start
+2019-04-09 11:37:24,627 INFO OmegaLex start
+2019-04-09 11:37:31,816 INFO (andreab) navigate to lexicon editor
+2019-04-09 11:37:54,330 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:37:54,335 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 11:37:54,339 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:37:54,347 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:37:54,646 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 11:37:54,648 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 11:37:54,648 INFO (null) DURATA QUERY LEMMA: 1870
+2019-04-09 11:38:24,594 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:38:24,600 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:38:24,604 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:38:24,608 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:38:24,615 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 11:38:24,620 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 11:38:24,901 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 11:38:24,903 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 11:38:24,903 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 11:38:24,903 INFO (null) DURATA QUERY LEMMA: 1781
+2019-04-09 11:38:32,947 INFO (andreab) UPDATE External attestation of affumar
+2019-04-09 11:38:43,092 INFO (andreab) UPDATE external attestation (id DB: 98304) of affumar
+2019-04-09 11:38:49,902 INFO (andreab) UPDATE External attestation of affumar
+2019-04-09 11:38:56,368 INFO (andreab) UPDATE external attestation (id DB: 98304) of affumar
+2019-04-09 11:39:05,418 INFO (andreab) UPDATE External attestation of affumar
+2019-04-09 11:39:13,277 INFO (andreab) UPDATE external attestation (id DB: 98304) of affumar
+2019-04-09 11:39:19,268 INFO (andreab) UPDATE External attestation of affumar
+2019-04-09 11:39:27,297 INFO (andreab) UPDATE external attestation (id DB: 98304) of affumar
+2019-04-09 11:40:24,378 INFO OmegaLex start
+2019-04-09 11:40:30,889 INFO (andreab) navigate to lexicon editor
+2019-04-09 11:40:53,648 INFO (andreab) SEARCH performed about attestation All type - external: true - internal: false - all: false - startsWith: 
+2019-04-09 11:40:57,139 INFO (andreab) SELECT Attestation ptova Book of affumar
+2019-04-09 11:40:59,346 INFO (andreab) SELECT Attestation ptova Book of abelha
+2019-04-09 11:41:01,323 INFO (andreab) SELECT Attestation ptova Book of acression
+2019-04-09 11:41:04,784 INFO (andreab) RESET Attestation Search Filter 
+2019-04-09 11:41:12,883 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2019-04-09 16:25:31,616 INFO OmegaLex start
+2019-04-09 16:25:36,535 INFO (andreab) navigate to lexicon editor
+2019-04-09 16:25:55,960 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 16:25:55,965 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 16:25:56,258 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 16:25:56,261 INFO (andreab) LOCK the lexical entry related to acorus_aoc_lemma
+2019-04-09 16:25:56,261 INFO (null) DURATA QUERY LEMMA: 1836
+2019-04-09 16:26:05,277 INFO (andreab) REMOVE hismon (reference of acorus_aoc_sense1)
+2019-04-09 16:26:20,299 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 16:26:20,306 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 16:26:20,313 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 16:26:20,320 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:20,325 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:20,621 INFO (null) DURATA QUERY SENSO: 2
+2019-04-09 16:26:20,622 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2019-04-09 16:26:20,623 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-04-09 16:26:20,623 INFO (null) DURATA QUERY LEMMA: 1831
+2019-04-09 16:26:26,608 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 16:26:26,617 INFO (null) DURATA QUERY FORMA: 4
+2019-04-09 16:26:26,921 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:26,923 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2019-04-09 16:26:26,923 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2019-04-09 16:26:26,923 INFO (null) DURATA QUERY LEMMA: 1810
+2019-04-09 16:26:34,972 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:34,977 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:34,979 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:34,983 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:34,988 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:34,991 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:35,277 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:35,279 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 16:26:35,279 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2019-04-09 16:26:35,280 INFO (null) DURATA QUERY LEMMA: 1765
+2019-04-09 16:26:37,775 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:37,778 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:37,780 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:37,788 INFO (null) DURATA QUERY FORMA: 3
+2019-04-09 16:26:38,072 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:38,074 INFO (andreab) UNLOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 16:26:38,074 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2019-04-09 16:26:38,074 INFO (null) DURATA QUERY LEMMA: 1766
+2019-04-09 16:26:41,671 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:41,958 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:41,960 INFO (andreab) UNLOCK the lexical entry related to adust_aoc_lemma
+2019-04-09 16:26:41,960 INFO (andreab) LOCK the lexical entry related to adust_aoc_lemma
+2019-04-09 16:26:41,960 INFO (null) DURATA QUERY LEMMA: 1715
+2019-04-09 16:26:48,981 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:48,986 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:26:48,991 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:48,996 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:49,000 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:26:49,281 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:49,283 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2019-04-09 16:26:49,283 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2019-04-09 16:26:49,283 INFO (null) DURATA QUERY LEMMA: 1771
+2019-04-09 16:26:52,899 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:26:52,900 INFO (andreab) UNLOCK the lexical entry related to acassia2_aoc_lemma
+2019-04-09 16:26:52,900 INFO (andreab) LOCK the lexical entry related to acassia2_aoc_lemma
+2019-04-09 16:26:52,900 INFO (null) DURATA QUERY LEMMA: 1742
+2019-04-09 16:38:24,829 INFO (null) DURATA QUERY FORMA: 2
+2019-04-09 16:38:24,831 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:24,834 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:24,836 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:24,838 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:24,841 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:24,846 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:25,145 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:38:25,148 INFO (andreab) UNLOCK the lexical entry related to agarich_aoc_lemma
+2019-04-09 16:38:25,148 INFO (andreab) LOCK the lexical entry related to agarich_aoc_lemma
+2019-04-09 16:38:25,148 INFO (null) DURATA QUERY LEMMA: 1815
+2019-04-09 16:38:30,372 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,374 INFO (null) DURATA QUERY FORMA: 0
+2019-04-09 16:38:30,378 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,380 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,383 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,385 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,388 INFO (null) DURATA QUERY FORMA: 1
+2019-04-09 16:38:30,391 INFO (null) DURATA QUERY FORMA: 0
+2019-04-09 16:38:30,685 INFO (null) DURATA QUERY SENSO: 1
+2019-04-09 16:38:30,687 INFO (andreab) UNLOCK the lexical entry related to aganos_aoc_lemma
+2019-04-09 16:38:30,688 INFO (andreab) LOCK the lexical entry related to aganos_aoc_lemma
+2019-04-09 16:38:30,688 INFO (null) DURATA QUERY LEMMA: 1796
+2019-04-09 16:51:01,251 INFO OmegaLex start

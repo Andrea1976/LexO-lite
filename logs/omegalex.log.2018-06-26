@@ -1,0 +1,318 @@
+2018-06-26 13:32:36,875 INFO OmegaLex start
+2018-06-26 13:32:41,605 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 13:40:36,087 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-26 13:40:37,056 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:40:37,060 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:40:37,064 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:40:37,253 INFO (null) DURATA QUERY SENSO: 2
+2018-06-26 13:40:37,257 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-26 13:40:37,257 INFO (null) DURATA QUERY LEMMA: 1171
+2018-06-26 13:41:13,110 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-06-26 13:41:14,038 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,042 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,045 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,049 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,053 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,056 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,060 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,063 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,066 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,070 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,074 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,078 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,080 INFO (null) DURATA QUERY FORMA: 1
+2018-06-26 13:41:14,083 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,087 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,091 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,094 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,097 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:41:14,101 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:41:14,289 INFO (null) DURATA QUERY SENSO: 1
+2018-06-26 13:41:14,290 INFO (andreab) UNLOCK the lexical entry related to acassia1_aoc_lemma
+2018-06-26 13:41:14,290 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-06-26 13:41:14,290 INFO (null) DURATA QUERY LEMMA: 1182
+2018-06-26 13:41:34,070 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:35,593 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:37,361 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:40,350 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:42,095 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:43,543 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:45,396 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:49,040 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:50,560 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:52,055 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:41:54,401 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-06-26 13:44:45,797 INFO (andreab) All resources released 
+2018-06-26 13:44:45,797 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 13:47:23,970 INFO OmegaLex start
+2018-06-26 13:47:27,664 INFO OmegaLex start
+2018-06-26 13:47:31,719 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 13:53:00,933 INFO (andreab) SELECT Attestation Ric P(=Princeton) of verrugas
+2018-06-26 13:53:11,300 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-26 13:53:12,300 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:53:12,306 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:53:12,311 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:53:12,505 INFO (null) DURATA QUERY SENSO: 2
+2018-06-26 13:53:12,513 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-26 13:53:12,514 INFO (null) DURATA QUERY LEMMA: 1216
+2018-06-26 13:53:26,517 INFO (andreab) UPDATE Internal attestation of accessio
+2018-06-26 13:53:46,502 INFO (andreab) RESET Lemma Search Filter 
+2018-06-26 13:53:56,579 INFO (andreab) SELECT Lemma afolar2_aoc_lemma
+2018-06-26 13:53:57,512 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:53:57,518 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 13:53:57,722 INFO (null) DURATA QUERY SENSO: 1
+2018-06-26 13:53:57,723 INFO (andreab) UNLOCK the lexical entry related to afolar2_aoc_lemma
+2018-06-26 13:53:57,723 INFO (andreab) LOCK the lexical entry related to afolar2_aoc_lemma
+2018-06-26 13:53:57,723 INFO (null) DURATA QUERY LEMMA: 1146
+2018-06-26 13:53:59,288 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-06-26 13:54:00,225 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:54:00,420 INFO (null) DURATA QUERY SENSO: 2
+2018-06-26 13:54:00,420 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-26 13:54:00,420 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-26 13:54:00,420 INFO (null) DURATA QUERY LEMMA: 1134
+2018-06-26 13:54:09,947 INFO (andreab) SELECT Attestation ShS1 O(=Oxford1) of אברוטונום
+2018-06-26 13:54:40,090 INFO (andreab) SELECT Lemma sentonia_aoc_lemma
+2018-06-26 13:54:41,032 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:54:41,036 INFO (null) DURATA QUERY FORMA: 2
+2018-06-26 13:54:41,040 INFO (null) DURATA QUERY FORMA: 1
+2018-06-26 13:54:41,044 INFO (null) DURATA QUERY FORMA: 1
+2018-06-26 13:54:41,229 INFO (null) DURATA QUERY SENSO: 1
+2018-06-26 13:54:41,229 INFO (andreab) UNLOCK the lexical entry related to sentonia_aoc_lemma
+2018-06-26 13:54:41,230 INFO (andreab) LOCK the lexical entry related to sentonia_aoc_lemma
+2018-06-26 13:54:41,230 INFO (null) DURATA QUERY LEMMA: 1141
+2018-06-26 13:54:49,797 INFO (andreab) UPDATE Internal attestation of sentonia
+2018-06-26 13:55:11,414 INFO (andreab) RESET Lemma Search Filter 
+2018-06-26 13:55:13,186 INFO (andreab) All resources released 
+2018-06-26 13:55:13,186 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 14:06:57,326 INFO OmegaLex start
+2018-06-26 14:07:01,018 INFO OmegaLex start
+2018-06-26 14:07:29,752 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 14:07:46,576 INFO (andreab) SELECT Lemma vit_aoc_lemma
+2018-06-26 14:07:47,594 INFO (null) DURATA QUERY FORMA: 3
+2018-06-26 14:07:47,787 INFO (null) DURATA QUERY SENSO: 2
+2018-06-26 14:07:47,795 INFO (andreab) LOCK the lexical entry related to vit_aoc_lemma
+2018-06-26 14:07:47,796 INFO (null) DURATA QUERY LEMMA: 1223
+2018-06-26 14:09:21,738 INFO (andreab) All resources released 
+2018-06-26 14:09:21,738 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 14:13:57,807 INFO OmegaLex start
+2018-06-26 14:13:57,861 INFO OmegaLex start
+2018-06-26 15:28:48,686 INFO OmegaLex start
+2018-06-26 17:06:11,765 INFO OmegaLex start
+2018-06-26 17:07:21,314 INFO OmegaLex start
+2018-06-26 17:08:00,296 INFO OmegaLex start
+2018-06-26 17:11:17,355 INFO OmegaLex start
+2018-06-26 17:11:28,665 INFO OmegaLex start
+2018-06-26 17:11:51,073 INFO OmegaLex start
+2018-06-26 17:12:52,237 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy116.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2018-06-26 17:16:02,650 INFO OmegaLex start
+2018-06-26 17:17:03,869 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy85.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2018-06-26 17:18:29,095 INFO OmegaLex start
+2018-06-26 17:18:32,932 INFO OmegaLex start
+2018-06-26 17:19:34,077 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy118.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2018-06-26 17:20:31,384 INFO OmegaLex start
+2018-06-26 17:21:32,418 ERROR 
+org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:126)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:112)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:235)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:171)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:162)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1471)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.context.internal.ThreadLocalSessionContext$TransactionProtectionWrapper.invoke(ThreadLocalSessionContext.java:356)
+	at com.sun.proxy.$Proxy152.beginTransaction(Unknown Source)
+	at it.cnr.ilc.lc.omegalex.OmegaLexFilter.doFilter(OmegaLexFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:118)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:689)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:140)
+	at org.hibernate.c3p0.internal.C3P0ConnectionProvider.getConnection(C3P0ConnectionProvider.java:90)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:380)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:228)
+	... 29 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1418)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:606)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:526)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutAndMarkConnectionInUse(C3P0PooledConnectionPool.java:755)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:682)
+	... 33 more
+2018-06-26 17:23:59,657 INFO OmegaLex start
+2018-06-26 17:24:42,412 INFO OmegaLex start
+2018-06-26 17:28:35,931 INFO OmegaLex start
+2018-06-26 17:30:57,748 INFO OmegaLex start
+2018-06-26 17:31:01,654 INFO OmegaLex start
+2018-06-26 17:31:07,520 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 17:32:46,866 INFO (andreab) All resources released 
+2018-06-26 17:32:46,867 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-26 17:33:07,302 INFO OmegaLex start

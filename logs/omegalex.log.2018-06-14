@@ -1,0 +1,396 @@
+2018-06-14 11:15:00,025 INFO OmegaLex start
+2018-06-14 11:15:03,966 INFO OmegaLex start
+2018-06-14 11:15:13,797 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 11:15:37,521 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:17:31,834 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:19:33,824 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:23:09,679 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:24:31,994 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:27:41,714 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 11:32:02,534 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:38:16,441 INFO (andreab) SELECT Lemma acorus3_star__aoc_lemma
+2018-06-14 11:38:17,512 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 11:38:17,516 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 11:38:17,732 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:38:17,736 INFO (andreab) LOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-06-14 11:38:17,737 INFO (null) DURATA QUERY LEMMA: 1299
+2018-06-14 11:38:24,704 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:39:50,676 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-14 11:39:51,899 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:39:51,900 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 11:39:51,900 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 11:39:51,900 INFO (null) DURATA QUERY LEMMA: 1225
+2018-06-14 11:40:04,602 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:40:26,692 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-14 11:40:27,913 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:40:27,914 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 11:40:27,914 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 11:40:27,914 INFO (null) DURATA QUERY LEMMA: 1223
+2018-06-14 11:40:35,274 INFO (andreab) SELECT Document (Anat)
+2018-06-14 11:40:41,551 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:42:08,021 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-14 11:42:09,009 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 11:42:09,012 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 11:42:09,015 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 11:42:09,215 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:42:09,215 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-14 11:42:09,216 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-14 11:42:09,216 INFO (null) DURATA QUERY LEMMA: 1196
+2018-06-14 11:42:21,100 INFO (andreab) SELECT Document (Alb)
+2018-06-14 11:42:26,450 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:42:39,755 INFO (andreab) SELECT Document (Alb)
+2018-06-14 11:42:46,760 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-14 11:42:47,978 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:42:47,978 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 11:42:47,978 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 11:42:47,978 INFO (null) DURATA QUERY LEMMA: 1219
+2018-06-14 11:44:24,927 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 11:44:28,182 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:44:40,135 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-14 11:44:41,347 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 11:44:41,348 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 11:44:41,348 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 11:44:41,348 INFO (null) DURATA QUERY LEMMA: 1214
+2018-06-14 11:44:46,229 INFO (andreab) SELECT Document (S.Gen)
+2018-06-14 11:44:51,491 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 11:50:58,826 INFO (andreab) All resources released 
+2018-06-14 11:50:58,826 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 11:51:02,165 INFO OmegaLex start
+2018-06-14 12:25:11,479 INFO OmegaLex start
+2018-06-14 12:25:15,210 INFO OmegaLex start
+2018-06-14 12:25:20,901 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:25:37,831 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:25:53,539 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 12:25:56,461 INFO (andreab) SELECT Attestation (Thes) (C) of null
+2018-06-14 12:25:59,741 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:26:38,301 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:26:48,224 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 12:28:04,045 INFO (andreab) All resources released 
+2018-06-14 12:28:04,046 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:28:27,493 INFO OmegaLex start
+2018-06-14 12:28:32,675 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:29:07,941 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:29:39,352 INFO (andreab) All resources released 
+2018-06-14 12:29:39,352 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:31:02,966 INFO OmegaLex start
+2018-06-14 12:31:07,881 INFO OmegaLex start
+2018-06-14 12:31:20,436 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:31:56,869 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:33:27,501 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:36:26,999 INFO (andreab) All resources released 
+2018-06-14 12:36:26,999 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:36:30,359 INFO OmegaLex start
+2018-06-14 12:36:35,317 INFO OmegaLex start
+2018-06-14 12:36:48,307 INFO OmegaLex start
+2018-06-14 12:37:15,378 INFO OmegaLex start
+2018-06-14 12:37:21,140 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:37:36,794 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:38:55,180 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:40:36,280 INFO (andreab) SELECT Attestation (Febr) (C) of null
+2018-06-14 12:40:39,439 INFO (andreab) DELETE Internal attestation (Febr) (C) III of null
+2018-06-14 12:40:46,693 INFO (andreab) RESET Attestation Search Filter 
+2018-06-14 12:40:46,965 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 12:41:43,616 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:42:24,799 INFO (andreab) SELECT Attestation (NEW) (M 291) of acassia2*
+2018-06-14 12:42:27,356 INFO (andreab) DELETE Internal attestation (NEW) (M 291) 5 of acassia2*
+2018-06-14 12:46:15,309 INFO (andreab) All resources released 
+2018-06-14 12:46:15,309 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 12:47:25,544 INFO OmegaLex start
+2018-06-14 12:47:30,578 INFO OmegaLex start
+2018-06-14 13:00:08,626 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 13:02:44,093 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-14 13:02:45,428 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 13:02:45,451 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 13:02:45,452 INFO (null) DURATA QUERY LEMMA: 1363
+2018-06-14 13:02:50,241 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-14 13:02:51,336 INFO (null) DURATA QUERY FORMA: 4
+2018-06-14 13:02:51,340 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 13:02:51,345 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 13:02:51,348 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:02:51,351 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:02:51,354 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:02:51,558 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 13:02:51,558 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 13:02:51,558 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 13:02:51,558 INFO (null) DURATA QUERY LEMMA: 1320
+2018-06-14 13:02:59,638 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 13:06:45,430 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 13:08:33,933 INFO (andreab) SAVE updated internal attestation (M 291) (ה) 99
+2018-06-14 13:09:05,634 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-14 13:09:06,668 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:09:06,671 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:09:06,674 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:09:06,677 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:09:06,680 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 13:09:06,684 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 13:09:06,887 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 13:09:06,888 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 13:09:06,888 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 13:09:06,888 INFO (null) DURATA QUERY LEMMA: 1257
+2018-06-14 13:24:37,460 INFO (andreab) All resources released 
+2018-06-14 13:24:37,460 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 14:56:52,889 INFO OmegaLex start
+2018-06-14 14:57:15,266 INFO OmegaLex start
+2018-06-14 14:57:21,275 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 14:57:47,393 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 14:57:58,025 INFO (andreab) SAVE updated internal attestation (M 291) (ה) 666
+2018-06-14 14:58:07,617 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-14 14:58:08,689 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 14:58:08,694 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 14:58:08,697 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 14:58:08,701 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 14:58:08,705 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 14:58:08,710 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 14:58:08,909 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 14:58:08,917 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 14:58:08,917 INFO (null) DURATA QUERY LEMMA: 1303
+2018-06-14 14:58:25,062 INFO (andreab) SELECT Attestation (M 291) (ה) of affumar
+2018-06-14 15:01:43,960 INFO (andreab) SAVE updated internal attestation (Ag.Thesis) (א-V) 11
+2018-06-14 15:01:51,670 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-14 15:01:52,667 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:01:52,671 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 15:01:52,674 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 15:01:52,676 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:01:52,679 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:01:52,683 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:01:52,902 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 15:01:52,902 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 15:01:52,902 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 15:01:52,902 INFO (null) DURATA QUERY LEMMA: 1235
+2018-06-14 15:02:04,162 INFO (andreab) SELECT Attestation (Ag.Thesis) (א-V) of affumar
+2018-06-14 15:02:08,758 INFO (andreab) DELETE Internal attestation (Ag.Thesis) (א-V) 11 of affumar
+2018-06-14 15:02:17,873 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-14 15:02:18,852 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:02:18,855 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 15:02:18,857 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 15:02:18,859 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 15:02:18,862 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 15:02:18,866 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 15:02:19,057 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 15:02:19,058 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 15:02:19,058 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-14 15:02:19,058 INFO (null) DURATA QUERY LEMMA: 1186
+2018-06-14 15:02:27,710 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-14 15:02:28,914 INFO (null) DURATA QUERY SENSO: 0
+2018-06-14 15:02:28,915 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 15:02:28,916 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 15:02:28,916 INFO (null) DURATA QUERY LEMMA: 1208
+2018-06-14 15:02:34,735 INFO (andreab) UPDATE Internal attestation of acassia3*
+2018-06-14 15:02:45,609 INFO (andreab) UPDATE internal attestation (id DB: 163840) of acassia3*
+2018-06-14 15:02:59,674 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 15:03:00,087 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-14 15:03:00,505 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-14 15:03:00,986 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-14 15:03:01,899 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-14 15:03:02,193 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Z(Z
+2018-06-14 15:03:02,485 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Z(Z
+2018-06-14 15:03:02,531 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Z(Z
+2018-06-14 15:03:02,944 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Za(Za
+2018-06-14 15:03:05,666 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: (Z(Z
+2018-06-14 15:03:05,924 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ((
+2018-06-14 15:03:06,237 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 15:03:25,900 INFO (andreab) DELETE Internal attestation of acassia3*
+2018-06-14 15:03:29,089 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-14 15:03:30,267 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 15:03:30,267 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 15:03:30,267 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-14 15:03:30,267 INFO (null) DURATA QUERY LEMMA: 1179
+2018-06-14 15:03:31,536 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-14 15:03:32,722 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 15:03:32,722 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 15:03:32,722 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-14 15:03:32,722 INFO (null) DURATA QUERY LEMMA: 1188
+2018-06-14 15:03:43,365 INFO (andreab) RESET Attestation Search Filter 
+2018-06-14 15:03:43,583 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 15:06:42,199 INFO (andreab) All resources released 
+2018-06-14 15:06:42,199 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:06:45,743 INFO OmegaLex start
+2018-06-14 15:19:34,954 INFO OmegaLex start
+2018-06-14 15:19:38,794 INFO OmegaLex start
+2018-06-14 15:21:53,973 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:25:48,351 INFO (andreab) All resources released 
+2018-06-14 15:25:48,351 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:31:23,487 INFO OmegaLex start
+2018-06-14 15:42:10,851 INFO OmegaLex start
+2018-06-14 15:42:17,539 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:44:00,869 INFO (andreab) All resources released 
+2018-06-14 15:44:00,870 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:44:04,698 INFO OmegaLex start
+2018-06-14 15:44:11,432 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:46:13,992 INFO OmegaLex start
+2018-06-14 15:46:18,881 INFO OmegaLex start
+2018-06-14 15:46:30,700 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:55:57,247 INFO (andreab) All resources released 
+2018-06-14 15:55:57,247 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:56:55,703 INFO OmegaLex start
+2018-06-14 15:56:59,520 INFO OmegaLex start
+2018-06-14 15:57:04,222 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 15:59:44,303 INFO (andreab) All resources released 
+2018-06-14 15:59:44,303 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:00:22,784 INFO OmegaLex start
+2018-06-14 16:00:27,918 INFO OmegaLex start
+2018-06-14 16:00:33,365 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:08:32,350 INFO (andreab) All resources released 
+2018-06-14 16:08:32,350 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:09:03,187 INFO OmegaLex start
+2018-06-14 16:09:09,993 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:10:46,184 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - scontains: s
+2018-06-14 16:10:46,514 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmcontains: semm
+2018-06-14 16:10:46,670 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmaicontains: semmai
+2018-06-14 16:10:46,748 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmaicontains: semmai
+2018-06-14 16:10:46,825 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmaicontains: semmai
+2018-06-14 16:10:46,898 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmaicontains: semmai
+2018-06-14 16:11:18,144 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - scontains: s
+2018-06-14 16:11:18,444 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - secontains: se
+2018-06-14 16:11:18,678 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semcontains: sem
+2018-06-14 16:11:18,754 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmcontains: semm
+2018-06-14 16:11:19,196 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - semmacontains: semma
+2018-06-14 16:16:54,571 INFO (andreab) RESET Attestation Search Filter 
+2018-06-14 16:16:54,846 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - contains: 
+2018-06-14 16:16:59,122 INFO (andreab) SELECT Attestation Ric1 Ashb of acitoal
+2018-06-14 16:17:06,665 INFO (andreab) SELECT Attestation Erb A of aganos
+2018-06-14 16:17:51,241 INFO (andreab) SELECT Document Herb
+2018-06-14 16:18:01,037 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-06-14 16:18:08,001 INFO (andreab) SELECT Document B/C
+2018-06-14 16:18:11,705 INFO (andreab) SELECT Document P(=Paris2
+2018-06-14 16:33:06,052 INFO (andreab) All resources released 
+2018-06-14 16:33:06,052 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:33:09,190 INFO OmegaLex start
+2018-06-14 16:44:08,804 INFO OmegaLex start
+2018-06-14 16:44:16,666 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 16:44:45,844 INFO (andreab) SEARCH performed about document Map type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 16:44:49,051 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 16:44:56,157 INFO (andreab) NEW External document
+2018-06-14 16:45:01,703 INFO (andreab) UPDATE Document type  to Map
+2018-06-14 16:45:04,450 INFO (andreab) UPDATE Document abbreviation of -1 to 
+2018-06-14 16:45:04,627 INFO (andreab) UPDATE Document abbreviation of -1 to m
+2018-06-14 16:45:04,850 INFO (andreab) UPDATE Document abbreviation of -1 to ma
+2018-06-14 16:45:05,115 INFO (andreab) UPDATE Document abbreviation of -1 to map
+2018-06-14 16:45:05,246 INFO (andreab) UPDATE Document abbreviation of -1 to mapp
+2018-06-14 16:45:05,398 INFO (andreab) UPDATE Document abbreviation of -1 to mappa
+2018-06-14 16:45:05,521 INFO (andreab) UPDATE Document abbreviation of -1 to mappa 
+2018-06-14 16:45:05,689 INFO (andreab) UPDATE Document abbreviation of -1 to mappa p
+2018-06-14 16:45:05,815 INFO (andreab) UPDATE Document abbreviation of -1 to mappa pr
+2018-06-14 16:45:05,916 INFO (andreab) UPDATE Document abbreviation of -1 to mappa pro
+2018-06-14 16:45:06,047 INFO (andreab) UPDATE Document abbreviation of -1 to mappa prov
+2018-06-14 16:45:06,475 INFO (andreab) UPDATE Document abbreviation of -1 to mappa prova
+2018-06-14 16:45:09,710 INFO (andreab) UPDATE Document title of mappa prova to d
+2018-06-14 16:45:09,805 INFO (andreab) UPDATE Document title of mappa prova to de
+2018-06-14 16:45:09,915 INFO (andreab) UPDATE Document title of mappa prova to de 
+2018-06-14 16:45:10,083 INFO (andreab) UPDATE Document title of mappa prova to de i
+2018-06-14 16:45:10,180 INFO (andreab) UPDATE Document title of mappa prova to de il
+2018-06-14 16:45:10,344 INFO (andreab) UPDATE Document title of mappa prova to de il 
+2018-06-14 16:45:10,842 INFO (andreab) UPDATE Document title of mappa prova to de il t
+2018-06-14 16:45:10,953 INFO (andreab) UPDATE Document title of mappa prova to de il ti
+2018-06-14 16:45:11,077 INFO (andreab) UPDATE Document title of mappa prova to de il tit
+2018-06-14 16:45:11,207 INFO (andreab) UPDATE Document title of mappa prova to de il tito
+2018-06-14 16:45:11,355 INFO (andreab) UPDATE Document title of mappa prova to de il titol
+2018-06-14 16:45:11,575 INFO (andreab) UPDATE Document title of mappa prova to de il titolo
+2018-06-14 16:45:11,660 INFO (andreab) UPDATE Document title of mappa prova to de il titolo 
+2018-06-14 16:45:11,762 INFO (andreab) UPDATE Document title of mappa prova to de il titolo d
+2018-06-14 16:45:11,848 INFO (andreab) UPDATE Document title of mappa prova to de il titolo de
+2018-06-14 16:45:11,954 INFO (andreab) UPDATE Document title of mappa prova to de il titolo del
+2018-06-14 16:45:12,133 INFO (andreab) UPDATE Document title of mappa prova to de il titolo dell
+2018-06-14 16:45:12,256 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della
+2018-06-14 16:45:12,315 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della 
+2018-06-14 16:45:12,457 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della m
+2018-06-14 16:45:12,633 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della ma
+2018-06-14 16:45:12,709 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della map
+2018-06-14 16:45:12,882 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della mapp
+2018-06-14 16:45:13,053 INFO (andreab) UPDATE Document title of mappa prova to de il titolo della mappa
+2018-06-14 16:45:16,350 INFO (andreab) SAVE new document mappa prova
+2018-06-14 16:45:26,554 INFO (andreab) SEARCH performed about document Map type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 16:45:29,047 INFO (andreab) SELECT Document mappa prova
+2018-06-14 16:45:34,954 INFO (andreab) RESET Document Search Filter 
+2018-06-14 16:45:34,959 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-06-14 16:45:50,760 INFO (andreab) SELECT Lemma afestolir_aoc_lemma
+2018-06-14 16:45:51,893 INFO (null) DURATA QUERY FORMA: 4
+2018-06-14 16:45:52,154 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 16:45:52,231 INFO (andreab) LOCK the lexical entry related to afestolir_aoc_lemma
+2018-06-14 16:45:52,232 INFO (null) DURATA QUERY LEMMA: 1474
+2018-06-14 16:45:57,438 INFO (andreab) ADD empty External Documentation to lemma afestolir
+2018-06-14 16:50:31,877 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-14 16:50:32,989 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 16:50:32,993 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 16:50:32,996 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:50:32,999 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:50:33,002 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:50:33,212 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 16:50:33,212 INFO (null) DURATA QUERY SENSO: 0
+2018-06-14 16:50:33,213 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-14 16:50:33,213 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-14 16:50:33,213 INFO (null) DURATA QUERY LEMMA: 1338
+2018-06-14 16:50:40,852 INFO (andreab) ADD empty External Documentation to lemma acitoal
+2018-06-14 16:50:50,108 INFO (andreab) SELECT Lemma _sharp_adormiment_aoc_lemma
+2018-06-14 16:50:51,194 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 16:50:51,456 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 16:50:51,457 INFO (andreab) UNLOCK the lexical entry related to _sharp_adormiment_aoc_lemma
+2018-06-14 16:50:51,457 INFO (andreab) LOCK the lexical entry related to _sharp_adormiment_aoc_lemma
+2018-06-14 16:50:51,457 INFO (null) DURATA QUERY LEMMA: 1352
+2018-06-14 16:50:54,767 INFO (andreab) ADD empty External Documentation to lemma adormiment
+2018-06-14 16:52:19,334 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-14 16:52:20,367 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:20,369 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:52:20,372 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:20,374 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:52:20,378 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:20,627 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 16:52:20,627 INFO (null) DURATA QUERY SENSO: 0
+2018-06-14 16:52:20,628 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-14 16:52:20,628 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-14 16:52:20,628 INFO (null) DURATA QUERY LEMMA: 1296
+2018-06-14 16:52:24,856 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-14 16:52:25,913 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:25,916 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:25,918 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:52:25,921 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:52:25,923 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:25,926 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:52:26,132 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 16:52:26,132 INFO (andreab) UNLOCK the lexical entry related to aglan_aoc_lemma
+2018-06-14 16:52:26,132 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-14 16:52:26,132 INFO (null) DURATA QUERY LEMMA: 1277
+2018-06-14 16:54:39,401 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-14 16:54:41,946 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-14 16:54:44,487 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-14 16:55:49,935 INFO (andreab) SELECT Attestation Anat C of venas que porton lo suc dels manjars
+2018-06-14 16:56:58,018 INFO (andreab) SELECT Attestation Thes C of abelha
+2018-06-14 16:57:20,749 INFO (andreab) SELECT Lemma _sharp_adiman_aoc_lemma
+2018-06-14 16:57:21,797 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:57:22,048 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 16:57:22,048 INFO (andreab) UNLOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-06-14 16:57:22,049 INFO (andreab) LOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-06-14 16:57:22,049 INFO (null) DURATA QUERY LEMMA: 1301
+2018-06-14 16:57:25,557 INFO (andreab) SELECT Lemma _sharp_agrena_aoc_lemma
+2018-06-14 16:57:26,640 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:57:26,643 INFO (null) DURATA QUERY FORMA: 2
+2018-06-14 16:57:26,897 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 16:57:26,897 INFO (andreab) UNLOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-06-14 16:57:26,901 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-06-14 16:57:26,901 INFO (null) DURATA QUERY LEMMA: 1346
+2018-06-14 16:57:32,890 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-14 16:57:33,934 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:57:33,937 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:57:33,939 INFO (null) DURATA QUERY FORMA: 1
+2018-06-14 16:57:34,193 INFO (null) DURATA QUERY SENSO: 1
+2018-06-14 16:57:34,193 INFO (andreab) UNLOCK the lexical entry related to api_aoc_lemma
+2018-06-14 16:57:34,193 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-14 16:57:34,193 INFO (null) DURATA QUERY LEMMA: 1304
+2018-06-14 17:21:49,372 INFO (andreab) All resources released 
+2018-06-14 17:21:49,372 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 17:21:52,538 INFO OmegaLex start
+2018-06-14 17:36:33,714 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 17:36:59,451 INFO (andreab) EXPORT lexicon
+2018-06-14 17:47:54,789 INFO (andreab) All resources released 
+2018-06-14 17:47:54,789 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 17:48:26,045 INFO OmegaLex start
+2018-06-14 17:48:32,068 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-14 17:48:48,634 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-14 17:48:49,796 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 17:48:49,801 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 17:48:49,806 INFO (null) DURATA QUERY FORMA: 3
+2018-06-14 17:48:50,017 INFO (null) DURATA QUERY SENSO: 2
+2018-06-14 17:48:50,021 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-14 17:48:50,021 INFO (null) DURATA QUERY LEMMA: 1390
+2018-06-14 17:49:32,210 INFO (andreab) All resources released 
+2018-06-14 17:49:32,211 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

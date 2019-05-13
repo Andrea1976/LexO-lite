@@ -1,0 +1,157 @@
+2018-05-18 14:54:07,732 INFO OmegaLex start
+2018-05-18 14:54:12,141 INFO OmegaLex start
+2018-05-18 14:54:39,987 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:03:47,302 INFO (andreab) All resources released 
+2018-05-18 15:03:47,302 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:03:51,483 INFO OmegaLex start
+2018-05-18 15:04:03,835 INFO OmegaLex start
+2018-05-18 15:04:08,765 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:05:22,734 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:05:26,607 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:05:36,296 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:05:39,971 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:05:41,081 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:05:44,831 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:05:46,820 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:05:49,733 INFO (andreab) SEARCH performed about document Book type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:05:52,537 INFO (andreab) SEARCH performed about document Article type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:05:55,045 INFO (andreab) SEARCH performed about document Article type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:05:57,034 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:03,542 INFO (andreab) SEARCH performed about document Dictionary type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:07,575 INFO (andreab) SEARCH performed about document Article type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:08,980 INFO (andreab) SEARCH performed about document Book type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:16,480 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:19,571 INFO (andreab) SEARCH performed about document Book type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:06:21,097 INFO (andreab) SEARCH performed about document Book type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:09:48,854 INFO (andreab) All resources released 
+2018-05-18 15:09:48,854 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:09:51,968 INFO OmegaLex start
+2018-05-18 15:10:10,711 INFO OmegaLex start
+2018-05-18 15:10:58,014 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:13:05,534 INFO (andreab) SELECT Document (Ag.Thes)
+2018-05-18 15:13:17,497 INFO (andreab) ADD empty Manuscript to document (Ag.Thes)
+2018-05-18 15:13:26,304 INFO (andreab) SELECT Document (Anat)
+2018-05-18 15:13:27,626 INFO (andreab) SELECT Document (AnatPor)
+2018-05-18 15:13:32,035 INFO (andreab) SELECT Document (B)
+2018-05-18 15:14:52,701 INFO (andreab) SEARCH performed about document Text type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:14:55,467 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:04,762 INFO (andreab) SEARCH performed about document Text type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:06,868 INFO (andreab) SEARCH performed about document Text type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:07,964 INFO (andreab) SEARCH performed about document Text type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:19,109 INFO (andreab) SEARCH performed about document Book type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:21,065 INFO (andreab) SEARCH performed about document Article type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:22,668 INFO (andreab) SEARCH performed about document Dictionary type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:24,733 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:26,137 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:27,550 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:28,355 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:30,960 INFO (andreab) SEARCH performed about document Text type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:32,303 INFO (andreab) SEARCH performed about document Text type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:33,705 INFO (andreab) SEARCH performed about document Text type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:35,178 INFO (andreab) SEARCH performed about document Text type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:36,253 INFO (andreab) SEARCH performed about document Text type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:38,750 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:15:39,825 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:46,071 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:15:51,998 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:54,675 INFO (andreab) SEARCH performed about document Text type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:56,291 INFO (andreab) SEARCH performed about document Book type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:15:57,654 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:16:00,952 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:16:04,422 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:23:28,418 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:24:59,060 INFO (andreab) All resources released 
+2018-05-18 15:24:59,060 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:26:01,758 INFO OmegaLex start
+2018-05-18 15:26:07,429 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:38:27,953 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:38:48,344 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:38:56,545 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:39:09,638 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:42:36,323 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:42:41,179 INFO (andreab) All resources released 
+2018-05-18 15:42:41,179 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:42:53,970 INFO OmegaLex start
+2018-05-18 15:42:58,528 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:43:17,265 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 15:43:20,189 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:23,321 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 15:43:27,836 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:29,502 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:30,635 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:32,538 INFO (andreab) SEARCH performed about document Text type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:34,039 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:43:36,549 INFO (andreab) SELECT Document (Erb b)
+2018-05-18 15:43:47,476 INFO (andreab) All resources released 
+2018-05-18 15:43:47,476 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:45:20,882 INFO OmegaLex start
+2018-05-18 15:45:25,033 INFO OmegaLex start
+2018-05-18 15:45:32,526 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 15:45:49,007 INFO (andreab) SELECT Document (AntNic)
+2018-05-18 15:45:58,252 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 15:46:00,188 INFO (andreab) SELECT Document (B 241)
+2018-05-18 15:47:10,295 INFO (andreab) All resources released 
+2018-05-18 15:47:10,295 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 16:00:18,803 INFO OmegaLex start
+2018-05-18 16:00:22,839 INFO OmegaLex start
+2018-05-18 16:00:39,194 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 16:00:57,024 INFO (andreab) SELECT Document (Ric)
+2018-05-18 16:01:00,579 INFO (andreab) DELETE Document (Ric)
+2018-05-18 16:01:02,914 INFO (andreab) RESET Document Search Filter 
+2018-05-18 16:01:02,937 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:01:08,307 INFO (andreab) RESET Document Search Filter 
+2018-05-18 16:01:08,319 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:01:11,394 INFO (andreab) SEARCH performed about document All type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 16:01:12,587 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:01:34,908 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:01:51,389 INFO (andreab) SELECT Document (Ag.Thes)
+2018-05-18 16:01:53,915 INFO (andreab) UPDATE Document type (Ag.Thes) to Book
+2018-05-18 16:01:56,625 INFO (andreab) UPDATE Document title of (Ag.Thes) to t
+2018-05-18 16:01:56,728 INFO (andreab) UPDATE Document title of (Ag.Thes) to ti
+2018-05-18 16:01:56,811 INFO (andreab) UPDATE Document title of (Ag.Thes) to tit
+2018-05-18 16:01:56,936 INFO (andreab) UPDATE Document title of (Ag.Thes) to tito
+2018-05-18 16:01:57,198 INFO (andreab) UPDATE Document title of (Ag.Thes) to titol
+2018-05-18 16:01:57,402 INFO (andreab) UPDATE Document title of (Ag.Thes) to titolo
+2018-05-18 16:01:57,729 INFO (andreab) UPDATE Document title of (Ag.Thes) to titolo!
+2018-05-18 16:01:57,863 INFO (andreab) UPDATE Document title of (Ag.Thes) to titolo!!
+2018-05-18 16:01:58,009 INFO (andreab) UPDATE Document title of (Ag.Thes) to titolo!!!
+2018-05-18 16:01:58,086 INFO (andreab) UPDATE Document title of (Ag.Thes) to titolo!!!
+2018-05-18 16:02:02,255 INFO (andreab) SAVE updated document (Ag.Thes)
+2018-05-18 16:02:06,039 INFO (andreab) SELECT Document (Ag.Thes)
+2018-05-18 16:02:08,714 INFO (andreab) SEARCH performed about document Book type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:02:10,868 INFO (andreab) SEARCH performed about document Book type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 16:02:11,522 INFO (andreab) SEARCH performed about document Book type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 16:02:13,747 INFO (andreab) SEARCH performed about document All type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 16:02:16,309 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:02:19,540 INFO (andreab) RESET Document Search Filter 
+2018-05-18 16:02:19,553 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 16:02:24,061 INFO (andreab) All resources released 
+2018-05-18 16:02:24,061 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:14:50,991 INFO OmegaLex start
+2018-05-18 17:14:57,128 INFO OmegaLex start
+2018-05-18 17:15:06,645 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:16:02,837 INFO (andreab) RESET Document Search Filter 
+2018-05-18 17:25:53,166 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:25:56,611 INFO (andreab) All resources released 
+2018-05-18 17:25:56,611 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:26:14,016 INFO OmegaLex start
+2018-05-18 17:26:18,652 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:26:39,992 INFO (andreab) RESET Document Search Filter 
+2018-05-18 17:26:40,014 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:26:43,752 INFO (andreab) SEARCH performed about document Book type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:26:46,730 INFO (andreab) SEARCH performed about document Manuscript type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 17:26:48,918 INFO (andreab) RESET Document Search Filter 
+2018-05-18 17:26:48,931 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:28:15,571 INFO (andreab) All resources released 
+2018-05-18 17:28:15,571 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:28:19,422 INFO OmegaLex start
+2018-05-18 17:28:23,637 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-05-18 17:28:44,433 INFO (andreab) SEARCH performed about document Text type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:28:46,317 INFO (andreab) SEARCH performed about document Book type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:28:47,615 INFO (andreab) SEARCH performed about document Book type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 17:28:48,225 INFO (andreab) SEARCH performed about document Book type - external: true - internal: false - all: false - startsWith: 
+2018-05-18 17:28:49,324 INFO (andreab) SEARCH performed about document Book type - external: false - internal: true - all: false - startsWith: 
+2018-05-18 17:28:50,574 INFO (andreab) RESET Document Search Filter 
+2018-05-18 17:28:50,591 INFO (andreab) SEARCH performed about document All type - external: false - internal: false - all: true - startsWith: 
+2018-05-18 17:29:58,893 INFO (andreab) All resources released 
+2018-05-18 17:29:58,893 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1

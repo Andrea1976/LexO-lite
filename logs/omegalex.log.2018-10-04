@@ -1,0 +1,107 @@
+2018-10-04 15:32:36,365 INFO OmegaLex start
+2018-10-04 15:32:42,090 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 15:33:23,600 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-04 15:33:24,656 INFO (null) DURATA QUERY FORMA: 4
+2018-10-04 15:33:24,664 INFO (null) DURATA QUERY FORMA: 4
+2018-10-04 15:33:24,671 INFO (null) DURATA QUERY FORMA: 5
+2018-10-04 15:33:24,676 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,682 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,686 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,692 INFO (null) DURATA QUERY FORMA: 4
+2018-10-04 15:33:24,696 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,701 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,707 INFO (null) DURATA QUERY FORMA: 4
+2018-10-04 15:33:24,712 INFO (null) DURATA QUERY FORMA: 4
+2018-10-04 15:33:24,716 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,719 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,724 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,729 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,734 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,738 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:24,743 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,747 INFO (null) DURATA QUERY FORMA: 3
+2018-10-04 15:33:24,937 INFO (null) DURATA QUERY SENSO: 2
+2018-10-04 15:33:24,942 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-04 15:33:24,942 INFO (null) DURATA QUERY LEMMA: 1345
+2018-10-04 15:33:30,994 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-10-04 15:33:31,992 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:31,995 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:31,997 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:31,999 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:32,001 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:32,181 INFO (null) DURATA QUERY SENSO: 1
+2018-10-04 15:33:32,182 INFO (andreab) UNLOCK the lexical entry related to acitoal_aoc_lemma
+2018-10-04 15:33:32,182 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-10-04 15:33:32,182 INFO (null) DURATA QUERY LEMMA: 1191
+2018-10-04 15:33:34,386 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-10-04 15:33:35,391 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:35,393 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:35,396 INFO (null) DURATA QUERY FORMA: 2
+2018-10-04 15:33:35,576 INFO (null) DURATA QUERY SENSO: 1
+2018-10-04 15:33:35,577 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2018-10-04 15:33:35,577 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-10-04 15:33:35,577 INFO (null) DURATA QUERY LEMMA: 1194
+2018-10-04 15:33:37,552 INFO (andreab) SELECT Lemma _sharp_agrena_aoc_lemma
+2018-10-04 15:33:38,498 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:38,501 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:38,679 INFO (null) DURATA QUERY SENSO: 0
+2018-10-04 15:33:38,680 INFO (andreab) UNLOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-10-04 15:33:38,680 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-10-04 15:33:38,680 INFO (null) DURATA QUERY LEMMA: 1130
+2018-10-04 15:33:53,476 INFO (andreab) SELECT Lemma _sharp_adormiment_aoc_lemma
+2018-10-04 15:33:54,442 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:33:54,624 INFO (null) DURATA QUERY SENSO: 1
+2018-10-04 15:33:54,625 INFO (andreab) UNLOCK the lexical entry related to _sharp_adormiment_aoc_lemma
+2018-10-04 15:33:54,625 INFO (andreab) LOCK the lexical entry related to _sharp_adormiment_aoc_lemma
+2018-10-04 15:33:54,625 INFO (null) DURATA QUERY LEMMA: 1152
+2018-10-04 15:33:55,409 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-10-04 15:33:56,512 INFO (null) DURATA QUERY SENSO: 1
+2018-10-04 15:33:56,512 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-10-04 15:33:56,513 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-10-04 15:33:56,513 INFO (null) DURATA QUERY LEMMA: 1108
+2018-10-04 15:34:49,895 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-04 15:34:50,820 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:34:50,823 INFO (null) DURATA QUERY FORMA: 1
+2018-10-04 15:34:51,006 INFO (null) DURATA QUERY SENSO: 0
+2018-10-04 15:34:51,006 INFO (andreab) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-10-04 15:34:51,006 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-04 15:34:51,006 INFO (null) DURATA QUERY LEMMA: 1113
+2018-10-04 15:38:10,123 INFO (andreab) All resources released 
+2018-10-04 15:38:10,123 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 15:38:33,065 INFO OmegaLex start
+2018-10-04 15:38:44,018 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 15:43:57,480 INFO (andreab) All resources released 
+2018-10-04 15:43:57,480 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 15:44:09,721 INFO OmegaLex start
+2018-10-04 15:44:17,094 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 16:07:18,084 INFO OmegaLex start
+2018-10-04 17:01:21,936 INFO OmegaLex start
+2018-10-04 17:10:11,005 INFO OmegaLex start
+2018-10-04 17:15:59,607 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:16:32,671 INFO (andreab) All resources released 
+2018-10-04 17:16:32,672 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:16:57,959 INFO OmegaLex start
+2018-10-04 17:17:11,227 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:31:06,719 INFO (andreab) All resources released 
+2018-10-04 17:31:06,719 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:31:10,109 INFO OmegaLex start
+2018-10-04 17:32:25,493 INFO OmegaLex start
+2018-10-04 17:32:32,465 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:33:50,530 INFO (andreab) All resources released 
+2018-10-04 17:33:50,530 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:36:24,967 INFO OmegaLex start
+2018-10-04 17:36:28,853 INFO OmegaLex start
+2018-10-04 17:36:33,820 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:36:50,203 INFO (andreab) All resources released 
+2018-10-04 17:36:50,203 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:37:02,129 INFO OmegaLex start
+2018-10-04 17:37:08,476 INFO OmegaLex start
+2018-10-04 17:37:20,293 INFO OmegaLex start
+2018-10-04 17:37:25,112 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:38:41,184 INFO (andreab) All resources released 
+2018-10-04 17:38:41,184 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 17:48:42,470 INFO OmegaLex start
+2018-10-04 17:48:46,315 INFO OmegaLex start
+2018-10-04 17:48:57,353 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-04 18:05:46,815 INFO (andreab) All resources released 
+2018-10-04 18:05:46,815 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

@@ -1,0 +1,500 @@
+2018-12-11 08:54:26,595 INFO OmegaLex start
+2018-12-11 09:02:10,342 INFO OmegaLex start
+2018-12-11 09:02:15,732 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:06:16,456 INFO (andreab) All resources released 
+2018-12-11 09:06:16,456 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:09:18,241 INFO OmegaLex start
+2018-12-11 09:09:25,750 INFO OmegaLex start
+2018-12-11 09:10:15,406 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:16:33,525 INFO (andreab) All resources released 
+2018-12-11 09:16:33,526 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:16:37,506 INFO OmegaLex start
+2018-12-11 09:18:06,480 INFO OmegaLex start
+2018-12-11 09:18:10,451 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:21:21,598 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 09:21:21,601 INFO (andreab) LOCK the lexical entry related to aqua_de_sucre_aoc_lemma
+2018-12-11 09:21:21,601 INFO (null) DURATA QUERY LEMMA: 869
+2018-12-11 09:24:13,197 INFO (andreab) RESET Lemma Search Filter 
+2018-12-11 09:24:19,329 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 09:24:24,986 INFO (andreab) RESET Lemma Search Filter 
+2018-12-11 09:24:35,509 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 09:24:46,080 INFO (andreab) RESET Lemma Search Filter 
+2018-12-11 09:25:06,443 INFO (andreab) All resources released 
+2018-12-11 09:25:06,443 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 09:39:45,977 INFO OmegaLex start
+2018-12-11 09:39:52,702 INFO OmegaLex start
+2018-12-11 10:05:10,179 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 11:41:02,868 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 11:41:28,956 INFO (andreab) RESET Lemma Search Filter 
+2018-12-11 11:59:01,770 INFO (andreab) All resources released 
+2018-12-11 11:59:01,770 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 11:59:05,306 INFO OmegaLex start
+2018-12-11 11:59:32,177 INFO OmegaLex start
+2018-12-11 11:59:36,155 INFO OmegaLex start
+2018-12-11 11:59:41,029 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 11:59:55,924 INFO (andreab) RESET Lemma Search Filter 
+2018-12-11 12:00:00,145 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 12:00:04,779 INFO (andreab) RESET Corr Search Filter 
+2018-12-11 12:00:33,162 INFO (andreab) LOAD lexicon aoc
+2018-12-11 12:00:37,992 INFO (andreab) RESET Form Search Filter 
+2018-12-11 12:05:35,567 INFO (andreab) All resources released 
+2018-12-11 12:05:35,567 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:05:39,060 INFO OmegaLex start
+2018-12-11 12:05:44,381 INFO OmegaLex start
+2018-12-11 12:06:28,892 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:06:37,308 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 12:06:54,983 INFO (andreab) All resources released 
+2018-12-11 12:06:54,983 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:08:55,495 INFO OmegaLex start
+2018-12-11 12:09:02,452 INFO OmegaLex start
+2018-12-11 12:09:06,509 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:09:43,383 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 12:11:20,833 INFO (andreab) All resources released 
+2018-12-11 12:11:20,833 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:11:50,198 INFO OmegaLex start
+2018-12-11 12:11:53,879 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 12:12:36,574 INFO (andreab) LOAD correspondence lexicon 
+2018-12-11 12:12:47,733 INFO (andreab) All resources released 
+2018-12-11 12:12:47,733 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 13:17:20,246 INFO OmegaLex start
+2018-12-11 13:17:24,286 INFO OmegaLex start
+2018-12-11 13:39:11,086 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 13:39:44,671 INFO (andreab) SELECT Ontology class: barrasDejos
+2018-12-11 13:39:48,081 INFO (andreab) SELECT Ontology class: SistemaRiproduttivo
+2018-12-11 13:39:48,923 INFO (andreab) SELECT Ontology class: Sistemi
+2018-12-11 13:39:50,328 INFO (andreab) SELECT Ontology class: uva
+2018-12-11 13:51:40,333 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 13:51:40,340 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 13:51:40,520 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 13:51:40,522 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 13:51:40,522 INFO (null) DURATA QUERY LEMMA: 1154
+2018-12-11 13:51:46,562 INFO (andreab) VIEW Deatils of the rasitz_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 13:51:47,466 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 13:51:47,466 INFO (andreab) LOCK the lexical entry related to rasitz_del_cor_aoc_lemma
+2018-12-11 13:53:07,080 INFO (andreab) UNLOCK the lexical entry related to rasitz_del_cor_aoc_lemma
+2018-12-11 13:53:10,176 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 13:53:10,357 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 13:53:10,358 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 13:53:10,359 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 13:53:10,359 INFO (null) DURATA QUERY LEMMA: 729
+2018-12-11 14:04:52,627 INFO (andreab) All resources released 
+2018-12-11 14:04:52,627 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:04:59,795 INFO OmegaLex start
+2018-12-11 14:05:08,111 INFO OmegaLex start
+2018-12-11 14:05:59,946 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:06:35,018 INFO (null) DURATA QUERY FORMA: 4
+2018-12-11 14:06:35,025 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:06:35,229 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:06:35,232 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:06:35,232 INFO (null) DURATA QUERY LEMMA: 5621
+2018-12-11 14:07:06,854 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:07:12,402 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:07:12,595 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:10:01,059 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:10:12,283 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:10:12,475 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:10:12,477 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:10:12,477 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:10:12,477 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:10:12,477 INFO (null) DURATA QUERY LEMMA: 2981
+2018-12-11 14:12:37,073 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:12:37,590 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:12:37,956 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:12:37,957 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:12:37,958 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:12:37,958 INFO (null) DURATA QUERY LEMMA: 137426
+2018-12-11 14:12:47,673 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:12:51,383 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 14:13:20,541 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:13:20,697 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:13:24,246 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:13:44,945 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:24:41,001 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:24:41,206 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:24:41,206 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:24:42,117 INFO (andreab) All resources released 
+2018-12-11 14:24:42,117 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:24:45,712 INFO OmegaLex start
+2018-12-11 14:31:18,190 INFO OmegaLex start
+2018-12-11 14:31:23,062 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:31:40,084 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:31:40,093 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:31:40,298 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:31:40,301 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:31:40,301 INFO (null) DURATA QUERY LEMMA: 1314
+2018-12-11 14:31:46,563 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:31:47,357 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:31:47,586 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:31:47,586 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:31:55,093 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:31:55,299 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:31:55,301 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:31:55,302 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:31:55,302 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:31:55,302 INFO (null) DURATA QUERY LEMMA: 821
+2018-12-11 14:42:48,511 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:42:48,517 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:42:48,722 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:42:48,724 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:42:48,724 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:42:48,724 INFO (null) DURATA QUERY LEMMA: 1266
+2018-12-11 14:42:53,151 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 14:42:53,345 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:42:53,346 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:42:53,346 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:42:53,346 INFO (null) DURATA QUERY LEMMA: 804
+2018-12-11 14:42:56,967 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 14:42:56,972 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:42:57,166 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:42:57,168 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:42:57,168 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:42:57,168 INFO (null) DURATA QUERY LEMMA: 1213
+2018-12-11 14:42:59,348 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:43:00,157 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:43:00,359 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:43:00,359 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:44:27,492 INFO (andreab) All resources released 
+2018-12-11 14:44:27,492 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:50:53,379 INFO OmegaLex start
+2018-12-11 14:51:02,165 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 14:51:21,894 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:51:21,902 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:51:22,107 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:51:22,109 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:51:22,109 INFO (null) DURATA QUERY LEMMA: 1443
+2018-12-11 14:51:26,116 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:51:26,974 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 14:51:27,173 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:51:27,173 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:53:02,997 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:53:03,003 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:53:03,222 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 14:53:03,223 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:53:03,291 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:53:03,291 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:53:03,291 INFO (null) DURATA QUERY LEMMA: 1345
+2018-12-11 14:53:05,168 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:53:05,997 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:53:06,210 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:53:06,210 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:57:13,240 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:57:13,245 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 14:57:13,445 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 14:57:13,446 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:57:13,446 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:57:13,446 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 14:57:13,446 INFO (null) DURATA QUERY LEMMA: 1249
+2018-12-11 14:57:16,704 INFO (andreab) VIEW Deatils of the aurelha_del_cor_aoc_sense1 synonym of aurelha2_aoc_sense1
+2018-12-11 14:57:17,534 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 14:57:17,743 INFO (null) DURATA QUERY SENSO: 0
+2018-12-11 14:57:17,744 INFO (andreab) LOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 14:57:34,408 INFO (andreab) UNLOCK the lexical entry related to aurelha_del_cor_aoc_lemma
+2018-12-11 15:00:40,676 INFO (andreab) All resources released 
+2018-12-11 15:00:40,676 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:01:49,903 INFO OmegaLex start
+2018-12-11 15:01:53,873 INFO OmegaLex start
+2018-12-11 15:01:58,171 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:03:06,950 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:06,958 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:07,140 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 15:03:07,142 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 15:03:07,142 INFO (null) DURATA QUERY LEMMA: 1194
+2018-12-11 15:03:16,240 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:16,246 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:16,251 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:16,255 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:16,261 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:16,266 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:16,269 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 15:03:16,453 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 15:03:16,455 INFO (andreab) UNLOCK the lexical entry related to aurelha1_aoc_lemma
+2018-12-11 15:03:16,455 INFO (andreab) LOCK the lexical entry related to aurelha1_aoc_lemma
+2018-12-11 15:03:16,455 INFO (null) DURATA QUERY LEMMA: 1177
+2018-12-11 15:03:24,372 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:24,377 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,383 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,387 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,391 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,396 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,401 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,409 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:03:24,414 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,418 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,422 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,426 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,429 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,433 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:24,612 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 15:03:24,614 INFO (andreab) UNLOCK the lexical entry related to aurpiment_aoc_lemma
+2018-12-11 15:03:24,614 INFO (andreab) LOCK the lexical entry related to aurpiment_aoc_lemma
+2018-12-11 15:03:24,614 INFO (null) DURATA QUERY LEMMA: 1189
+2018-12-11 15:03:27,918 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:27,924 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:03:28,116 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 15:03:28,118 INFO (andreab) UNLOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 15:03:28,118 INFO (andreab) LOCK the lexical entry related to aurelha2_aoc_lemma
+2018-12-11 15:03:28,118 INFO (null) DURATA QUERY LEMMA: 1146
+2018-12-11 15:14:16,193 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 15:14:16,372 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 15:14:16,374 INFO (andreab) UNLOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2018-12-11 15:14:16,375 INFO (andreab) LOCK the lexical entry related to _sharp_alh_salvage_aoc_lemma
+2018-12-11 15:14:16,375 INFO (null) DURATA QUERY LEMMA: 726
+2018-12-11 15:14:24,096 INFO (andreab) All resources released 
+2018-12-11 15:14:24,096 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:25:02,586 INFO OmegaLex start
+2018-12-11 15:25:06,426 INFO OmegaLex start
+2018-12-11 15:25:10,184 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:25:26,371 INFO (andreab) NEW Lemma Word
+2018-12-11 15:25:33,378 INFO (andreab) UPDATE Lemma name from a to a
+2018-12-11 15:25:33,831 INFO (andreab) UPDATE Lemma name from aaa to aaa
+2018-12-11 15:25:34,274 INFO (andreab) UPDATE Lemma name from aaap to aaap
+2018-12-11 15:25:34,676 INFO (andreab) UPDATE Lemma name from aaaprov to aaaprov
+2018-12-11 15:25:35,075 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2018-12-11 15:25:35,500 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2018-12-11 15:25:35,895 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2018-12-11 15:25:36,296 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2018-12-11 15:25:37,307 INFO (andreab) UPDATE Lemma name from aaaprova to aaaprova
+2018-12-11 15:25:39,491 INFO (andreab) UPDATE Lemma language of aaaprova to aoc
+2018-12-11 15:25:42,121 INFO (andreab) UPDATE Lemma alphabet of aaaprova to Latn
+2018-12-11 15:25:45,079 INFO (andreab) SAVE new Lemma and its default sense aaaprova
+2018-12-11 15:25:48,189 INFO (andreab) LOCK the lexical entry related to aaaprova_aoc_lemma
+2018-12-11 15:25:57,639 INFO (andreab) ADD empty Form box
+2018-12-11 15:25:59,887 INFO (andreab) UPDATE Form name from s to s
+2018-12-11 15:26:00,304 INFO (andreab) UPDATE Form name from sasa to sasa
+2018-12-11 15:26:00,717 INFO (andreab) UPDATE Form name from sasa2 to sasa2
+2018-12-11 15:26:01,124 INFO (andreab) UPDATE Form name from sasa2 to sasa2
+2018-12-11 15:26:01,540 INFO (andreab) UPDATE Form name from sasa23 to sasa23
+2018-12-11 15:26:01,965 INFO (andreab) UPDATE Form name from sasa23 to sasa23
+2018-12-11 15:26:04,558 INFO (andreab) UPDATE Form name from sasa23ò to sasa23ò
+2018-12-11 15:26:06,956 INFO (andreab) UPDATE Form name from sasa23ò° to sasa23ò°
+2018-12-11 15:26:07,353 INFO (andreab) UPDATE Form name from sasa23ò°°° to sasa23ò°°°
+2018-12-11 15:26:07,759 INFO (andreab) UPDATE Form name from sasa23ò°°° to sasa23ò°°°
+2018-12-11 15:26:08,159 INFO (andreab) UPDATE Form name from sasa23ò°°°§ to sasa23ò°°°§
+2018-12-11 15:26:08,556 INFO (andreab) UPDATE Form name from sasa23ò°°°§ to sasa23ò°°°§
+2018-12-11 15:26:11,351 INFO (andreab) UPDATE Form name from  to 
+2018-12-11 15:26:24,441 INFO (andreab) UPDATE Form name from s to s
+2018-12-11 15:26:24,836 INFO (andreab) UPDATE Form name from sdsd  to sdsd 
+2018-12-11 15:26:25,244 INFO (andreab) UPDATE Form name from sdsd sd to sdsd sd
+2018-12-11 15:26:25,667 INFO (andreab) UPDATE Form name from sdsd sdsd to sdsd sdsd
+2018-12-11 15:26:26,070 INFO (andreab) UPDATE Form name from sdsd sdsd to sdsd sdsd
+2018-12-11 15:26:26,468 INFO (andreab) UPDATE Form name from sdsd sdsd to sdsd sdsd
+2018-12-11 15:26:26,865 INFO (andreab) UPDATE Form name from sdsd sdsd to sdsd sdsd
+2018-12-11 15:26:27,269 INFO (andreab) UPDATE Form name from sdsd sdsd to sdsd sdsd
+2018-12-11 15:26:27,662 INFO (andreab) UPDATE Form name from sdsd sds to sdsd sds
+2018-12-11 15:26:28,879 INFO (andreab) UPDATE Form name from  to 
+2018-12-11 15:26:39,408 INFO (andreab) All resources released 
+2018-12-11 15:26:39,408 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:29:53,098 INFO OmegaLex start
+2018-12-11 15:29:56,914 INFO OmegaLex start
+2018-12-11 15:30:03,636 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:30:26,800 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 15:30:26,803 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-12-11 15:30:26,803 INFO (null) DURATA QUERY LEMMA: 1139
+2018-12-11 15:30:30,752 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:30:30,756 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:30:30,759 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 15:30:30,764 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:30:30,941 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 15:30:30,943 INFO (andreab) UNLOCK the lexical entry related to affrodil_aoc_lemma
+2018-12-11 15:30:30,943 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2018-12-11 15:30:30,943 INFO (null) DURATA QUERY LEMMA: 1126
+2018-12-11 15:30:35,366 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 15:30:35,546 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 15:30:35,547 INFO (andreab) UNLOCK the lexical entry related to agremonia_aoc_lemma
+2018-12-11 15:30:35,548 INFO (andreab) LOCK the lexical entry related to agremonia_aoc_lemma
+2018-12-11 15:30:35,548 INFO (null) DURATA QUERY LEMMA: 1105
+2018-12-11 15:31:55,421 INFO (andreab) NEW Lemma Word
+2018-12-11 15:31:57,961 INFO (andreab) UPDATE Lemma name from ds to ds
+2018-12-11 15:31:58,365 INFO (andreab) UPDATE Lemma name from dsds to dsds
+2018-12-11 15:31:58,761 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:31:59,151 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:31:59,529 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:32:00,723 INFO (andreab) UPDATE Lemma name from dsds3  to dsds3 
+2018-12-11 15:32:02,565 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:32:03,264 INFO (andreab) UPDATE Lemma name from dsds3, to dsds3,
+2018-12-11 15:32:04,730 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:32:07,919 INFO (andreab) UPDATE Lemma name from dsds3 to dsds3
+2018-12-11 15:32:41,420 INFO (andreab) All resources released 
+2018-12-11 15:32:41,420 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:33:25,787 INFO OmegaLex start
+2018-12-11 15:33:29,674 INFO OmegaLex start
+2018-12-11 15:33:32,969 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:33:34,022 INFO (andreab) navigate to lexicon editor
+2018-12-11 15:48:42,850 INFO (andreab) All resources released 
+2018-12-11 15:48:42,850 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:50:08,993 INFO OmegaLex start
+2018-12-11 15:50:12,225 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:50:12,869 INFO (andreab) navigate to lexicon editor
+2018-12-11 15:54:51,395 INFO (andreab) All resources released 
+2018-12-11 15:54:51,395 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:54:58,325 INFO (guido) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 15:55:06,435 INFO (guido) navigate to lexicon view
+2018-12-11 15:55:07,789 INFO (guido) navigate to lexicon editor
+2018-12-11 15:55:23,590 INFO (guido) navigate to accounts
+2018-12-11 15:55:27,383 INFO (guido) navigate to home
+2018-12-11 15:55:28,583 INFO (guido) navigate to accounts
+2018-12-11 15:55:51,104 INFO (guido) navigate to lexicon editor
+2018-12-11 15:56:07,991 INFO (guido) navigate to accounts
+2018-12-11 15:56:16,974 INFO (guido) select account 'sofia'
+2018-12-11 15:56:42,873 INFO (guido) cancel edit password on account 'sofia'
+2018-12-11 15:56:49,369 INFO (guido) select account 'guido'
+2018-12-11 15:56:50,497 INFO (guido) select account 'gerrit'
+2018-12-11 15:56:52,471 INFO (guido) navigate to lexicon editor
+2018-12-11 15:57:01,290 INFO (guido) navigate to accounts
+2018-12-11 15:59:30,753 INFO (guido) create new account
+2018-12-11 15:59:34,458 INFO (guido) select account ''
+2018-12-11 15:59:39,031 INFO (guido) edit name on account '' to 'test'
+2018-12-11 15:59:40,175 INFO (guido) select account ''
+2018-12-11 15:59:40,903 INFO (guido) select account ''
+2018-12-11 15:59:41,051 INFO (guido) select account ''
+2018-12-11 15:59:44,397 INFO (guido) edit username on account 'test001' to 'test001'
+2018-12-11 15:59:46,643 INFO (guido) select account 'test001'
+2018-12-11 15:59:46,817 INFO (guido) select account 'test001'
+2018-12-11 15:59:53,588 INFO (guido) edit username on account 'test' to 'test'
+2018-12-11 15:59:54,439 INFO (guido) select account 'test'
+2018-12-11 15:59:54,572 INFO (guido) select account 'test'
+2018-12-11 16:00:00,090 INFO (guido) edit name on account 'test' to 'utente di test'
+2018-12-11 16:00:01,609 INFO (guido) select account 'test'
+2018-12-11 16:00:04,905 INFO (guido) edit password on account 'test'
+2018-12-11 16:00:08,507 INFO (guido) select account 'test'
+2018-12-11 16:00:09,877 INFO (guido) select account 'test'
+2018-12-11 16:00:12,452 INFO (guido) edit type on account 'test' to Administrator
+2018-12-11 16:00:16,786 INFO (guido) enabled  account 'test'
+2018-12-11 16:00:45,583 INFO (guido) select account 'julia'
+2018-12-11 16:00:47,964 INFO (guido) cancel edit password on account 'julia'
+2018-12-11 16:03:45,093 INFO (guido) navigate to lexicon editor
+2018-12-11 16:04:25,248 INFO (guido) navigate to accounts
+2018-12-11 16:04:27,721 INFO (guido) navigate to lexicon editor
+2018-12-11 16:05:53,774 INFO (guido) navigate to accounts
+2018-12-11 16:05:56,103 INFO (guido) navigate to lexicon editor
+2018-12-11 16:08:23,569 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:08:23,574 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:08:23,763 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:08:23,765 INFO (guido) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:08:23,765 INFO (null) DURATA QUERY LEMMA: 1177
+2018-12-11 16:08:44,320 INFO (guido) UPDATE Verified field of abelha to true
+2018-12-11 16:08:47,475 INFO (guido) UPDATE Lemma abelha
+2018-12-11 16:09:03,273 INFO (guido) All resources released 
+2018-12-11 16:09:03,273 INFO (guido) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:05,788 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:06,435 INFO (andreab) navigate to lexicon editor
+2018-12-11 16:09:14,343 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:09:14,348 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:09:14,532 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:09:14,533 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:09:14,533 INFO (null) DURATA QUERY LEMMA: 1145
+2018-12-11 16:09:20,004 INFO (andreab) UPDATE Lemma alphabet of abelha to Hebr
+2018-12-11 16:09:34,387 INFO (andreab) All resources released 
+2018-12-11 16:09:34,387 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:39,710 INFO access denied from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:39,710 INFO (demo) access denied from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:48,835 INFO (andrea) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:09:49,941 INFO (andrea) navigate to lexicon editor
+2018-12-11 16:10:02,119 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:10:02,123 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:10:02,311 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:10:02,312 INFO (andrea) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:10:02,312 INFO (null) DURATA QUERY LEMMA: 1129
+2018-12-11 16:10:08,781 INFO (andrea) UPDATE Lemma Part-of-Speech of abelha to article
+2018-12-11 16:10:14,590 INFO (andrea) UPDATE Lemma Part-of-Speech of abelha to 
+2018-12-11 16:11:24,055 INFO (andrea) All resources released 
+2018-12-11 16:11:24,055 INFO (andrea) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:11:27,226 INFO (guido) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:11:27,853 INFO (guido) navigate to lexicon editor
+2018-12-11 16:12:59,725 INFO (guido) navigate to accounts
+2018-12-11 16:13:30,226 INFO (guido) navigate to lexicon editor
+2018-12-11 16:13:38,724 INFO (guido) navigate to accounts
+2018-12-11 16:13:40,619 INFO (guido) navigate to lexicon editor
+2018-12-11 16:23:03,912 INFO (guido) All resources released 
+2018-12-11 16:23:03,912 INFO (guido) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:23:15,525 INFO OmegaLex start
+2018-12-11 16:25:00,691 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:25:01,295 INFO (andreab) navigate to lexicon editor
+2018-12-11 16:25:14,361 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 16:25:14,366 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:25:14,549 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:25:14,552 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:25:14,552 INFO (null) DURATA QUERY LEMMA: 1285
+2018-12-11 16:25:23,020 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:25:23,022 INFO (andreab) UNLOCK the lexical entry related to aaaprova_aoc_lemma
+2018-12-11 16:25:23,022 INFO (andreab) LOCK the lexical entry related to aaaprova_aoc_lemma
+2018-12-11 16:25:23,022 INFO (null) DURATA QUERY LEMMA: 1179
+2018-12-11 16:25:26,630 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:25:26,632 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-12-11 16:25:26,632 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-12-11 16:25:26,632 INFO (null) DURATA QUERY LEMMA: 1147
+2018-12-11 16:25:30,945 INFO (andreab) All resources released 
+2018-12-11 16:25:30,945 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:48:22,590 INFO OmegaLex start
+2018-12-11 16:50:10,764 INFO OmegaLex start
+2018-12-11 16:54:42,836 INFO OmegaLex start
+2018-12-11 16:54:46,802 INFO OmegaLex start
+2018-12-11 16:54:51,364 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:54:52,032 INFO (andreab) navigate to lexicon editor
+2018-12-11 16:55:05,864 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 16:55:05,870 INFO (null) DURATA QUERY FORMA: 3
+2018-12-11 16:55:06,050 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:55:06,052 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:55:06,052 INFO (null) DURATA QUERY LEMMA: 1173
+2018-12-11 16:55:16,808 INFO (andreab) VIEW Deatils of the sgasgs_acat_sense1 correspondence of abelha_aoc_sense1
+2018-12-11 16:55:18,092 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:55:18,092 INFO (andreab) LOCK the lexical entry related to sgasgs_acat_lemma
+2018-12-11 16:55:26,185 INFO (andreab) UPDATE Lemma alphabet of sgasgs to Hebr
+2018-12-11 16:55:30,121 INFO (andreab) UNLOCK the lexical entry related to sgasgs_acat_lemma
+2018-12-11 16:55:38,633 INFO (andreab) All resources released 
+2018-12-11 16:55:38,633 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:55:41,095 INFO (guido) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:55:41,741 INFO (guido) navigate to lexicon editor
+2018-12-11 16:56:27,294 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:56:27,299 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:56:27,486 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:56:27,488 INFO (guido) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:56:27,488 INFO (null) DURATA QUERY LEMMA: 1167
+2018-12-11 16:56:37,934 INFO (guido) VIEW Deatils of the abeille_fr_sense1 translation of abelha_aoc_sense1
+2018-12-11 16:56:39,210 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:56:39,211 INFO (guido) LOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 16:56:42,771 INFO (guido) UPDATE Verified field of abeille to true
+2018-12-11 16:56:45,663 INFO (guido) UPDATE Lemma abeille
+2018-12-11 16:56:56,239 INFO (guido) LOAD lexicon fr
+2018-12-11 16:57:06,533 INFO (guido) LOAD lexicon aoc
+2018-12-11 16:57:36,621 INFO (guido) navigate to lexicon editor
+2018-12-11 16:57:44,286 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 16:57:44,291 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:57:44,471 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:57:44,472 INFO (guido) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:57:44,472 INFO (guido) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:57:44,473 INFO (guido) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:57:44,473 INFO (null) DURATA QUERY LEMMA: 1130
+2018-12-11 16:57:49,689 INFO (guido) VIEW Deatils of the abeille_fr_sense1 translation of abelha_aoc_sense1
+2018-12-11 16:57:51,013 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:57:51,013 INFO (guido) LOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 16:57:56,851 INFO (guido) LOAD lexicon fr
+2018-12-11 16:58:01,328 INFO (guido) LOAD lexicon aoc
+2018-12-11 16:58:16,312 INFO (guido) navigate to lexicon editor
+2018-12-11 16:58:25,141 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:58:25,146 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:58:25,328 INFO (null) DURATA QUERY SENSO: 2
+2018-12-11 16:58:25,329 INFO (guido) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:58:25,329 INFO (guido) UNLOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:58:25,329 INFO (guido) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:58:25,329 INFO (null) DURATA QUERY LEMMA: 1156
+2018-12-11 16:58:28,570 INFO (guido) All resources released 
+2018-12-11 16:58:28,570 INFO (guido) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:58:30,625 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1
+2018-12-11 16:58:31,221 INFO (andreab) navigate to lexicon editor
+2018-12-11 16:58:40,411 INFO (null) DURATA QUERY FORMA: 2
+2018-12-11 16:58:40,416 INFO (null) DURATA QUERY FORMA: 1
+2018-12-11 16:58:40,606 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:58:40,608 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-12-11 16:58:40,608 INFO (null) DURATA QUERY LEMMA: 1230
+2018-12-11 16:58:43,789 INFO (andreab) VIEW Deatils of the abeille_fr_sense1 translation of abelha_aoc_sense1
+2018-12-11 16:58:45,107 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 16:58:45,107 INFO (andreab) LOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 17:00:21,122 INFO (andreab) UPDATE Lemma info of abeille to corpusExternalLemma
+2018-12-11 17:00:30,370 INFO (andreab) UNLOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 17:00:38,784 INFO (andreab) VIEW Deatils of the abeille_fr_sense1 translation of abelha_aoc_sense1
+2018-12-11 17:00:40,098 INFO (null) DURATA QUERY SENSO: 1
+2018-12-11 17:00:40,098 INFO (andreab) LOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 17:00:41,885 INFO (andreab) UNLOCK the lexical entry related to abeille_fr_lemma
+2018-12-11 17:05:51,955 INFO (andreab) All resources released 
+2018-12-11 17:05:51,955 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0 on 127.0.0.1

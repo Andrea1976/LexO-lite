@@ -1,0 +1,42 @@
+2018-08-22 16:34:56,262 INFO OmegaLex start
+2018-08-22 16:35:00,080 INFO OmegaLex start
+2018-08-22 16:39:41,878 INFO OmegaLex start
+2018-08-22 16:39:45,684 INFO OmegaLex start
+2018-08-22 16:39:52,478 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 17:56:51,901 INFO (andreab) All resources released 
+2018-08-22 17:56:51,902 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 17:56:54,951 INFO OmegaLex start
+2018-08-22 18:02:41,390 INFO OmegaLex start
+2018-08-22 18:02:45,262 INFO OmegaLex start
+2018-08-22 18:02:50,362 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:03:40,100 INFO (andreab) All resources released 
+2018-08-22 18:03:40,100 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:03:43,040 INFO OmegaLex start
+2018-08-22 18:03:52,501 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:07:44,152 INFO (andreab) All resources released 
+2018-08-22 18:07:44,152 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:07:47,004 INFO OmegaLex start
+2018-08-22 18:08:10,502 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:13:57,325 INFO OmegaLex start
+2018-08-22 18:14:04,256 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:16:17,778 INFO (andreab) LOAD lexicon acat
+2018-08-22 18:16:31,970 INFO (andreab) LOAD lexicon afr
+2018-08-22 18:16:36,870 INFO (andreab) LOAD lexicon aocacat
+2018-08-22 18:16:43,916 INFO (andreab) LOAD lexicon aocarab
+2018-08-22 18:16:50,906 INFO (andreab) LOAD lexicon arab
+2018-08-22 18:17:03,950 INFO (andreab) LOAD lexicon aram
+2018-08-22 18:17:13,972 INFO (andreab) LOAD lexicon cat
+2018-08-22 18:17:19,484 INFO (andreab) LOAD lexicon gr
+2018-08-22 18:17:23,572 INFO (andreab) LOAD lexicon grlat
+2018-08-22 18:17:27,031 INFO (andreab) LOAD lexicon heb
+2018-08-22 18:17:38,941 INFO (andreab) LOAD lexicon hebarab
+2018-08-22 18:17:42,439 INFO (andreab) LOAD lexicon lat
+2018-08-22 18:18:53,359 INFO (andreab) LOAD lexicon fr
+2018-08-22 18:19:06,797 INFO (andreab) LOAD lexicon en
+2018-08-22 18:20:03,108 INFO (andreab) All resources released 
+2018-08-22 18:20:03,108 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:20:05,987 INFO OmegaLex start
+2018-08-22 18:20:43,841 INFO OmegaLex start
+2018-08-22 18:20:57,849 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1
+2018-08-22 18:22:08,229 INFO OmegaLex start
+2018-08-22 18:33:47,728 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 on 127.0.0.1

@@ -1,0 +1,606 @@
+2018-10-10 08:29:12,240 INFO OmegaLex start
+2018-10-10 08:29:36,425 INFO OmegaLex start
+2018-10-10 08:29:41,489 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 08:31:23,378 INFO (andreab) SELECT Lemma adust_aoc_lemma
+2018-10-10 08:31:24,499 INFO (null) DURATA QUERY FORMA: 4
+2018-10-10 08:31:24,704 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 08:31:24,711 INFO (andreab) LOCK the lexical entry related to adust_aoc_lemma
+2018-10-10 08:31:24,711 INFO (null) DURATA QUERY LEMMA: 1336
+2018-10-10 08:31:27,496 INFO (andreab) ADD empty ontological reference to adust_aoc_sense1
+2018-10-10 08:31:34,073 INFO (andreab) ADD ontological reference epiglot to the sense adust_aoc_sense1
+2018-10-10 08:31:36,406 INFO (andreab) SAVE Sense adust_aoc_sense1
+2018-10-10 08:35:12,547 INFO (andreab) EXPORT lexicon only
+2018-10-10 08:40:40,060 INFO (andreab) All resources released 
+2018-10-10 08:40:40,060 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 08:40:43,673 INFO OmegaLex start
+2018-10-10 14:15:14,156 INFO OmegaLex start
+2018-10-10 14:15:18,446 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 14:15:34,832 INFO (andreab) SELECT Ontology class: uva
+2018-10-10 14:15:44,351 INFO (andreab) SELECT Ontology class: albugineo
+2018-10-10 14:15:47,821 INFO (andreab) SELECT Ontology class: mandibula
+2018-10-10 14:15:49,280 INFO (andreab) SELECT Ontology class: sancDelVentre
+2018-10-10 14:15:51,785 INFO (andreab) SELECT Ontology class: SistemaRiproduttivo
+2018-10-10 14:15:54,071 INFO (andreab) SELECT Ontology class: SistemaRespiratorio
+2018-10-10 14:15:55,971 INFO (andreab) SELECT Ontology class: Sistemi
+2018-10-10 14:15:59,808 INFO (andreab) SELECT Ontology class: bocaDesusDelEstomach
+2018-10-10 14:16:33,413 INFO (andreab) SELECT Ontology class: sementEngendrairtz
+2018-10-10 14:16:36,306 INFO (andreab) SELECT Ontology class: memoria
+2018-10-10 14:17:06,951 INFO (andreab) SELECT Ontology class: Sistemi
+2018-10-10 14:17:08,688 INFO (andreab) SELECT Ontology class: SistemaRiproduttivo
+2018-10-10 14:34:13,839 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-10-10 14:34:17,746 INFO (andreab) SELECT Attestation Febr C of accessio
+2018-10-10 15:25:14,084 INFO (andreab) All resources released 
+2018-10-10 15:25:14,084 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 15:25:17,667 INFO OmegaLex start
+2018-10-10 15:25:26,057 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 15:25:53,385 INFO (andreab) LOAD lexicon lat
+2018-10-10 15:25:56,434 INFO (andreab) SELECT Lemma abrotonum_lat_lemma
+2018-10-10 15:25:57,663 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,667 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,671 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,675 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,679 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,684 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,688 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,692 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 15:25:57,938 INFO (null) DURATA QUERY SENSO: 3
+2018-10-10 15:25:57,998 INFO (andreab) LOCK the lexical entry related to abrotonum_lat_lemma
+2018-10-10 15:25:57,998 INFO (null) DURATA QUERY LEMMA: 1567
+2018-10-10 15:26:02,807 INFO (andreab) UPDATE Internal attestation of abrotonum
+2018-10-10 15:27:13,322 INFO (andreab) LOAD lexicon All languages
+2018-10-10 15:27:20,406 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: SS
+2018-10-10 15:27:21,040 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: SS
+2018-10-10 15:27:21,445 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShSh
+2018-10-10 15:27:22,901 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShSShS
+2018-10-10 15:27:23,215 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShSShS
+2018-10-10 15:27:23,894 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2ShS2
+2018-10-10 15:27:24,244 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 ShS2 
+2018-10-10 15:27:24,637 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 OShS2 O
+2018-10-10 15:27:24,738 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 OShS2 O
+2018-10-10 15:27:44,065 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 ShS2 
+2018-10-10 15:27:44,325 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2ShS2
+2018-10-10 15:27:44,543 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShSShS
+2018-10-10 15:27:45,513 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1ShS1
+2018-10-10 15:27:46,771 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1 ShS1 
+2018-10-10 15:27:47,679 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1 OShS1 O
+2018-10-10 15:27:47,790 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1 OShS1 O
+2018-10-10 15:28:09,109 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1 OShS1 O
+2018-10-10 15:28:09,279 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS1 OShS1 O
+2018-10-10 15:28:10,262 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS OShS O
+2018-10-10 15:28:10,346 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 OShS2 O
+2018-10-10 15:34:39,248 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShS2 ShS2 
+2018-10-10 15:34:39,895 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ShSShS
+2018-10-10 15:34:40,522 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: SS
+2018-10-10 15:34:42,351 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-10 15:34:44,328 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-10 15:34:46,623 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-10-10 15:35:57,454 INFO (andreab) SELECT Lemma abrotonum_lat_lemma
+2018-10-10 15:35:58,572 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,575 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,577 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:35:58,580 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,583 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,585 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:35:58,588 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,591 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:35:58,805 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 15:35:58,806 INFO (andreab) UNLOCK the lexical entry related to abrotonum_lat_lemma
+2018-10-10 15:35:58,806 INFO (andreab) LOCK the lexical entry related to abrotonum_lat_lemma
+2018-10-10 15:35:58,806 INFO (null) DURATA QUERY LEMMA: 1355
+2018-10-10 15:36:02,577 INFO (andreab) UPDATE Internal attestation of abrotonum
+2018-10-10 15:37:36,119 INFO (andreab) SELECT Lemma almertich_cat_lemma
+2018-10-10 15:37:37,207 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:37:37,411 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 15:37:37,412 INFO (andreab) UNLOCK the lexical entry related to almertich_cat_lemma
+2018-10-10 15:37:37,412 INFO (andreab) LOCK the lexical entry related to almertich_cat_lemma
+2018-10-10 15:37:37,412 INFO (null) DURATA QUERY LEMMA: 1295
+2018-10-10 15:37:43,557 INFO (andreab) UPDATE Internal attestation of almertich
+2018-10-10 15:39:12,494 INFO (andreab) SELECT Attestation Thes C of almertich
+2018-10-10 15:42:28,064 INFO (andreab) SELECT Attestation ShS2 P(=Paris2) of אליי
+2018-10-10 15:42:48,630 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Acontains: A
+2018-10-10 15:42:49,199 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alcontains: Al
+2018-10-10 15:42:49,478 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alecontains: Ale
+2018-10-10 15:42:49,512 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alefcontains: Alef
+2018-10-10 15:42:49,553 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alefcontains: Alef
+2018-10-10 15:42:51,039 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alecontains: Ale
+2018-10-10 15:42:52,286 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Alcontains: Al
+2018-10-10 15:42:53,693 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - Acontains: A
+2018-10-10 15:42:56,179 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - contains: 
+2018-10-10 15:51:48,862 INFO (andreab) SELECT Lemma affrodil_aoc_lemma
+2018-10-10 15:51:49,904 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:51:49,907 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:51:49,909 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:51:49,914 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:51:50,118 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 15:51:50,118 INFO (andreab) UNLOCK the lexical entry related to affrodil_aoc_lemma
+2018-10-10 15:51:50,118 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2018-10-10 15:51:50,118 INFO (null) DURATA QUERY LEMMA: 1258
+2018-10-10 15:52:23,293 INFO (andreab) SELECT Lemma alh_aoc_lemma
+2018-10-10 15:52:24,352 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:52:24,355 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,360 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,362 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,366 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,430 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:52:24,432 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,435 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,437 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,442 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:52:24,654 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 15:52:24,655 INFO (andreab) UNLOCK the lexical entry related to alh_aoc_lemma
+2018-10-10 15:52:24,655 INFO (andreab) LOCK the lexical entry related to alh_aoc_lemma
+2018-10-10 15:52:24,655 INFO (null) DURATA QUERY LEMMA: 1364
+2018-10-10 15:56:39,837 INFO (andreab) SELECT Lemma acassia1_aoc_lemma
+2018-10-10 15:56:40,856 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 15:56:40,913 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,915 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,919 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,921 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,923 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,925 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,928 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,931 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,934 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,937 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,939 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,941 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,944 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,946 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,950 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,958 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,961 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:40,965 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 15:56:41,177 INFO (null) DURATA QUERY SENSO: 0
+2018-10-10 15:56:41,178 INFO (andreab) UNLOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-10 15:56:41,178 INFO (andreab) LOCK the lexical entry related to acassia1_aoc_lemma
+2018-10-10 15:56:41,178 INFO (null) DURATA QUERY LEMMA: 1343
+2018-10-10 15:56:54,418 INFO (andreab) OPEN note of Lemma acassia1
+2018-10-10 16:05:26,690 INFO (andreab) NEW Lemma Word
+2018-10-10 16:10:46,988 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:10:47,569 INFO (andreab) UPDATE Lemma name from acc to acc
+2018-10-10 16:10:48,191 INFO (andreab) UPDATE Lemma name from accus to accus
+2018-10-10 16:10:48,753 INFO (andreab) UPDATE Lemma name from accus to accus
+2018-10-10 16:10:49,306 INFO (andreab) UPDATE Lemma name from accus to accus
+2018-10-10 16:10:52,545 INFO (andreab) UPDATE Lemma name from accu to accu
+2018-10-10 16:10:53,102 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:10:53,642 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:10:54,197 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:10:54,747 INFO (andreab) UPDATE Lemma name from  to 
+2018-10-10 16:13:45,682 INFO (andreab) UPDATE Lemma name from l to l
+2018-10-10 16:13:46,295 INFO (andreab) UPDATE Lemma name from lemm to lemm
+2018-10-10 16:13:46,851 INFO (andreab) UPDATE Lemma name from lemmaO to lemmaO
+2018-10-10 16:13:47,397 INFO (andreab) UPDATE Lemma name from lemmaOf to lemmaOf
+2018-10-10 16:13:47,956 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:48,554 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:49,098 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:49,647 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:50,217 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:50,792 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:51,920 INFO (andreab) UPDATE Lemma name from lemmaOf_ to lemmaOf_
+2018-10-10 16:13:57,034 INFO (andreab) UPDATE Lemma name from lemmaOf to lemmaOf
+2018-10-10 16:13:58,434 INFO (andreab) UPDATE Lemma name from lemmaOf- to lemmaOf-
+2018-10-10 16:13:59,577 INFO (andreab) UPDATE Lemma name from lemmaOf to lemmaOf
+2018-10-10 16:14:00,949 INFO (andreab) UPDATE Lemma name from lemmaO to lemmaO
+2018-10-10 16:14:01,703 INFO (andreab) UPDATE Lemma name from lemma to lemma
+2018-10-10 16:14:04,853 INFO (andreab) UPDATE Lemma name from lemmao to lemmao
+2018-10-10 16:14:05,400 INFO (andreab) UPDATE Lemma name from lemmaof to lemmaof
+2018-10-10 16:14:17,630 INFO (andreab) UPDATE Lemma name from lemmaof- to lemmaof-
+2018-10-10 16:14:19,528 INFO (andreab) UPDATE Lemma name from lemmaof to lemmaof
+2018-10-10 16:14:25,604 INFO (andreab) UPDATE Lemma name from lemmaofx to lemmaofx
+2018-10-10 16:14:26,155 INFO (andreab) UPDATE Lemma name from lemmaofxxx to lemmaofxxx
+2018-10-10 16:14:26,698 INFO (andreab) UPDATE Lemma name from lemmaofxxx to lemmaofxxx
+2018-10-10 16:14:32,344 INFO (andreab) UPDATE Lemma name from lemmaofxxx to lemmaofxxx
+2018-10-10 16:14:36,864 INFO (andreab) UPDATE Lemma language of lemmaofxxx to lat
+2018-10-10 16:14:40,116 INFO (andreab) SAVE new Lemma and its default sense lemmaofxxx
+2018-10-10 16:14:43,354 INFO (andreab) LOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:14:58,233 INFO (andreab) LOAD lexicon lat
+2018-10-10 16:15:04,334 INFO (andreab) SELECT Lemma lemmaofxxx_lat_lemma
+2018-10-10 16:15:05,579 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 16:15:05,579 INFO (andreab) UNLOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:15:05,579 INFO (andreab) LOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:15:05,579 INFO (null) DURATA QUERY LEMMA: 1246
+2018-10-10 16:15:10,225 INFO (andreab) ADD empty Form box
+2018-10-10 16:15:15,112 INFO (andreab) UPDATE Form name from x to x
+2018-10-10 16:15:15,419 INFO (andreab) UPDATE Form name from xx to xx
+2018-10-10 16:15:15,720 INFO (andreab) UPDATE Form name from xxx to xxx
+2018-10-10 16:15:37,815 INFO (andreab) UPDATE Form name from xxx to xxx
+2018-10-10 16:18:31,715 INFO (andreab) UPDATE Form alphabetical type of xxx to true
+2018-10-10 16:18:33,966 INFO (andreab) SAVE new Form xxx
+2018-10-10 16:23:54,341 INFO (andreab) All resources released 
+2018-10-10 16:23:54,341 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:25:22,386 INFO OmegaLex start
+2018-10-10 16:25:49,223 INFO OmegaLex start
+2018-10-10 16:25:54,565 INFO OmegaLex start
+2018-10-10 16:28:55,666 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:31:43,663 INFO (andreab) LOAD lexicon All languages
+2018-10-10 16:31:50,299 INFO (andreab) SELECT Lemma lemmaofxxx_lat_lemma
+2018-10-10 16:31:51,581 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 16:31:51,603 INFO (andreab) LOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:31:51,603 INFO (null) DURATA QUERY LEMMA: 1307
+2018-10-10 16:32:00,968 INFO (andreab) ADD empty Form box
+2018-10-10 16:32:07,014 INFO (andreab) UPDATE Form name from w to w
+2018-10-10 16:32:07,566 INFO (andreab) UPDATE Form name from www to www
+2018-10-10 16:32:08,116 INFO (andreab) UPDATE Form name from www to www
+2018-10-10 16:32:29,873 INFO (andreab) UPDATE Form name from www to www
+2018-10-10 16:36:14,542 INFO (andreab) SAVE new Form www
+2018-10-10 16:40:29,635 INFO (andreab) LOAD lexicon All languages
+2018-10-10 16:40:37,024 INFO (andreab) SELECT Lemma lemmaofxxx_lat_lemma
+2018-10-10 16:40:38,061 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 16:40:38,263 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 16:40:38,264 INFO (andreab) UNLOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:40:38,264 INFO (andreab) LOCK the lexical entry related to lemmaofxxx_lat_lemma
+2018-10-10 16:40:38,264 INFO (null) DURATA QUERY LEMMA: 1243
+2018-10-10 16:40:54,598 INFO (andreab) RESET Lemma Search Filter 
+2018-10-10 16:41:02,413 INFO (andreab) NEW Lemma Word
+2018-10-10 16:41:05,825 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:41:06,474 INFO (andreab) UPDATE Lemma name from aaa to aaa
+2018-10-10 16:41:07,092 INFO (andreab) UPDATE Lemma name from aaaaaaa to aaaaaaa
+2018-10-10 16:41:07,695 INFO (andreab) UPDATE Lemma name from aaaaaaaaaa to aaaaaaaaaa
+2018-10-10 16:41:08,318 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:08,948 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:09,538 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:10,143 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:10,743 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:11,322 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:11,902 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:12,490 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:13,087 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:13,702 INFO (andreab) UPDATE Lemma name from aaaaaaaaaaaaa to aaaaaaaaaaaaa
+2018-10-10 16:41:13,779 INFO (andreab) UPDATE Lemma language of aaaaaaaaaaaaa to aoc
+2018-10-10 16:41:16,222 INFO (andreab) SAVE new Lemma and its default sense aaaaaaaaaaaaa
+2018-10-10 16:41:19,596 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-10 16:41:29,355 INFO (andreab) ADD empty Form box
+2018-10-10 16:41:32,316 INFO (andreab) UPDATE Form name from b to b
+2018-10-10 16:41:32,876 INFO (andreab) UPDATE Form name from bbbbb to bbbbb
+2018-10-10 16:41:33,420 INFO (andreab) UPDATE Form name from bbbbbbbb to bbbbbbbb
+2018-10-10 16:41:34,008 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:34,559 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:35,085 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:35,624 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:36,148 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:36,678 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:41:37,231 INFO (andreab) UPDATE Form name from bbbbbbbbb to bbbbbbbbb
+2018-10-10 16:42:21,344 INFO (andreab) SAVE new Form bbbbbbbbb
+2018-10-10 16:44:24,010 INFO (andreab) SELECT Lemma aaaaaaaaaaaaa_aoc_lemma
+2018-10-10 16:44:25,065 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 16:44:25,275 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 16:44:25,276 INFO (andreab) UNLOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-10 16:44:25,276 INFO (andreab) LOCK the lexical entry related to aaaaaaaaaaaaa_aoc_lemma
+2018-10-10 16:44:25,276 INFO (null) DURATA QUERY LEMMA: 1269
+2018-10-10 16:44:30,409 INFO (andreab) NEW Lemma Word
+2018-10-10 16:44:37,226 INFO (andreab) UPDATE Lemma name from a to a
+2018-10-10 16:44:37,665 INFO (andreab) UPDATE Lemma name from al to al
+2018-10-10 16:44:38,113 INFO (andreab) UPDATE Lemma name from ales to ales
+2018-10-10 16:44:38,533 INFO (andreab) UPDATE Lemma name from ales to ales
+2018-10-10 16:44:38,961 INFO (andreab) UPDATE Lemma name from aless to aless
+2018-10-10 16:44:39,388 INFO (andreab) UPDATE Lemma name from alessand to alessand
+2018-10-10 16:44:39,811 INFO (andreab) UPDATE Lemma name from alessandro to alessandro
+2018-10-10 16:44:40,243 INFO (andreab) UPDATE Lemma name from alessandro to alessandro
+2018-10-10 16:44:40,665 INFO (andreab) UPDATE Lemma name from alessandro to alessandro
+2018-10-10 16:44:41,105 INFO (andreab) UPDATE Lemma name from alessandro to alessandro
+2018-10-10 16:44:43,676 INFO (andreab) UPDATE Lemma name from alessandro to alessandro
+2018-10-10 16:44:46,059 INFO (andreab) UPDATE Lemma language of alessandro to aoc
+2018-10-10 16:44:51,842 INFO (andreab) UPDATE Lemma Part-of-Speech of alessandro to noun
+2018-10-10 16:44:53,512 INFO (andreab) SAVE new Lemma and its default sense alessandro
+2018-10-10 16:44:56,087 INFO (andreab) LOCK the lexical entry related to alessandro_aoc_lemma
+2018-10-10 16:45:01,660 INFO (andreab) ADD empty Form box
+2018-10-10 16:45:07,739 INFO (andreab) UPDATE Form name from a to a
+2018-10-10 16:45:08,324 INFO (andreab) UPDATE Form name from alin to alin
+2018-10-10 16:45:08,788 INFO (andreab) UPDATE Form name from alino to alino
+2018-10-10 16:45:09,310 INFO (andreab) UPDATE Form name from alino to alino
+2018-10-10 16:45:09,798 INFO (andreab) UPDATE Form name from alino to alino
+2018-10-10 16:45:12,069 INFO (andreab) UPDATE Form name from alino to alino
+2018-10-10 16:45:12,126 INFO (andreab) SAVE new Form alino
+2018-10-10 16:45:41,382 INFO (andreab) EXPORT lexicon only
+2018-10-10 16:46:51,027 INFO (andreab) All resources released 
+2018-10-10 16:46:51,027 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:47:07,438 INFO OmegaLex start
+2018-10-10 16:47:14,158 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:47:30,403 INFO (andreab) NEW Lemma Word
+2018-10-10 16:47:37,175 INFO (andreab) UPDATE Lemma name from m to m
+2018-10-10 16:47:37,656 INFO (andreab) UPDATE Lemma name from mna to mna
+2018-10-10 16:47:38,159 INFO (andreab) UPDATE Lemma name from mnagi to mnagi
+2018-10-10 16:47:38,661 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:39,162 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:39,658 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:40,218 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:40,662 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:41,135 INFO (andreab) UPDATE Lemma name from mnagiare to mnagiare
+2018-10-10 16:47:41,213 INFO (andreab) UPDATE Lemma language of mnagiare to aoc
+2018-10-10 16:47:44,519 INFO (andreab) UPDATE Lemma Part-of-Speech of mnagiare to verb
+2018-10-10 16:47:51,629 INFO (andreab) SAVE new Lemma and its default sense mnagiare
+2018-10-10 16:47:54,612 INFO (andreab) LOCK the lexical entry related to mnagiare_aoc_lemma
+2018-10-10 16:48:00,698 INFO (andreab) ADD empty Form box
+2018-10-10 16:48:03,355 INFO (andreab) UPDATE Form name from m to m
+2018-10-10 16:48:03,884 INFO (andreab) UPDATE Form name from man to man
+2018-10-10 16:48:04,402 INFO (andreab) UPDATE Form name from man to man
+2018-10-10 16:48:06,991 INFO (andreab) UPDATE Form name from mang to mang
+2018-10-10 16:48:07,498 INFO (andreab) UPDATE Form name from mangio to mangio
+2018-10-10 16:48:08,014 INFO (andreab) UPDATE Form name from mangio to mangio
+2018-10-10 16:48:25,839 INFO (andreab) UPDATE Form name from mangio to mangio
+2018-10-10 16:48:29,546 INFO (andreab) All resources released 
+2018-10-10 16:48:29,546 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:50:26,179 INFO OmegaLex start
+2018-10-10 16:50:30,240 INFO OmegaLex start
+2018-10-10 16:50:35,485 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:50:49,898 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-10-10 16:50:51,035 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 16:50:51,038 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-10-10 16:50:51,038 INFO (null) DURATA QUERY LEMMA: 1142
+2018-10-10 16:50:56,611 INFO (andreab) NEW Lemma Word
+2018-10-10 16:51:00,187 INFO (andreab) UPDATE Lemma name from p to p
+2018-10-10 16:51:00,635 INFO (andreab) UPDATE Lemma name from prov to prov
+2018-10-10 16:51:01,064 INFO (andreab) UPDATE Lemma name from prova to prova
+2018-10-10 16:51:01,491 INFO (andreab) UPDATE Lemma name from prova to prova
+2018-10-10 16:51:01,907 INFO (andreab) UPDATE Lemma name from prova to prova
+2018-10-10 16:51:02,307 INFO (andreab) UPDATE Lemma name from prova to prova
+2018-10-10 16:51:03,536 INFO (andreab) UPDATE Lemma language of prova to aoc
+2018-10-10 16:51:06,272 INFO (andreab) UPDATE Lemma alphabet of prova to Latn
+2018-10-10 16:51:08,671 INFO (andreab) UPDATE Lemma Part-of-Speech of prova to noun
+2018-10-10 16:51:13,465 INFO (andreab) UPDATE Lemma Part-of-Speech of prova to article
+2018-10-10 16:51:17,223 INFO (andreab) UPDATE Lemma Part-of-Speech of prova to verb
+2018-10-10 16:51:19,878 INFO (andreab) UPDATE Lemma Part-of-Speech of prova to noun
+2018-10-10 16:51:24,658 INFO (andreab) UPDATE Lemma gender of prova to feminine
+2018-10-10 16:51:26,915 INFO (andreab) UPDATE Lemma number of prova to plural
+2018-10-10 16:51:29,797 INFO (andreab) SAVE new Lemma and its default sense prova
+2018-10-10 16:51:32,746 INFO (andreab) LOCK the lexical entry related to prova_aoc_lemma
+2018-10-10 16:51:40,620 INFO (andreab) ADD empty Form box
+2018-10-10 16:51:56,553 INFO (andreab) SELECT Lemma prova_aoc_lemma
+2018-10-10 16:51:57,662 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 16:51:57,662 INFO (andreab) UNLOCK the lexical entry related to prova_aoc_lemma
+2018-10-10 16:51:57,662 INFO (andreab) LOCK the lexical entry related to prova_aoc_lemma
+2018-10-10 16:51:57,662 INFO (null) DURATA QUERY LEMMA: 1110
+2018-10-10 16:51:59,786 INFO (andreab) ADD empty Form box
+2018-10-10 16:53:38,265 INFO (andreab) All resources released 
+2018-10-10 16:53:38,265 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:53:41,962 INFO OmegaLex start
+2018-10-10 16:54:03,119 INFO OmegaLex start
+2018-10-10 16:54:07,377 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:54:25,348 INFO (andreab) SELECT Lemma prova_aoc_lemma
+2018-10-10 16:54:26,583 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 16:54:26,591 INFO (andreab) LOCK the lexical entry related to prova_aoc_lemma
+2018-10-10 16:54:26,591 INFO (null) DURATA QUERY LEMMA: 1246
+2018-10-10 16:54:30,814 INFO (andreab) ADD empty Form box
+2018-10-10 16:54:38,767 INFO (andreab) NEW Lemma Word
+2018-10-10 16:54:42,723 INFO (andreab) UPDATE Lemma name from ca to ca
+2018-10-10 16:54:43,140 INFO (andreab) UPDATE Lemma name from cac to cac
+2018-10-10 16:54:43,532 INFO (andreab) UPDATE Lemma name from cacc to cacc
+2018-10-10 16:54:43,936 INFO (andreab) UPDATE Lemma name from cacchio to cacchio
+2018-10-10 16:54:44,333 INFO (andreab) UPDATE Lemma name from cacchio to cacchio
+2018-10-10 16:54:44,728 INFO (andreab) UPDATE Lemma name from cacchio to cacchio
+2018-10-10 16:54:45,169 INFO (andreab) UPDATE Lemma name from cacchio to cacchio
+2018-10-10 16:54:45,571 INFO (andreab) UPDATE Lemma name from cacchio to cacchio
+2018-10-10 16:54:45,850 INFO (andreab) UPDATE Lemma language of cacchio to aoc
+2018-10-10 16:54:50,025 INFO (andreab) UPDATE Lemma Part-of-Speech of cacchio to adjective
+2018-10-10 16:54:51,632 INFO (andreab) SAVE new Lemma and its default sense cacchio
+2018-10-10 16:54:54,444 INFO (andreab) LOCK the lexical entry related to cacchio_aoc_lemma
+2018-10-10 16:54:59,676 INFO (andreab) ADD empty Form box
+2018-10-10 16:55:02,134 INFO (andreab) UPDATE Form name from c to c
+2018-10-10 16:55:02,592 INFO (andreab) UPDATE Form name from ca to ca
+2018-10-10 16:55:03,028 INFO (andreab) UPDATE Form name from cacch to cacch
+2018-10-10 16:55:03,565 INFO (andreab) UPDATE Form name from cacchi to cacchi
+2018-10-10 16:55:04,045 INFO (andreab) UPDATE Form name from cacchi to cacchi
+2018-10-10 16:55:04,484 INFO (andreab) UPDATE Form name from cacchi to cacchi
+2018-10-10 16:55:06,557 INFO (andreab) UPDATE Form name from cacchi to cacchi
+2018-10-10 16:55:06,593 INFO (andreab) UPDATE Form alphabetical type of cacchi to true
+2018-10-10 16:55:07,314 INFO (andreab) SAVE new Form cacchi
+2018-10-10 16:55:22,943 INFO (andreab) All resources released 
+2018-10-10 16:55:22,943 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:59:10,621 INFO OmegaLex start
+2018-10-10 16:59:22,390 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 16:59:40,271 INFO (andreab) NEW Lemma Word
+2018-10-10 17:01:25,403 INFO (andreab) UPDATE Lemma name from s to s
+2018-10-10 17:01:25,922 INFO (andreab) UPDATE Lemma name from suc to suc
+2018-10-10 17:01:26,434 INFO (andreab) UPDATE Lemma name from suca to suca
+2018-10-10 17:01:26,927 INFO (andreab) UPDATE Lemma name from suca to suca
+2018-10-10 17:01:27,625 INFO (andreab) UPDATE Lemma name from suca to suca
+2018-10-10 17:01:28,536 INFO (andreab) UPDATE Lemma language of suca to aoc
+2018-10-10 17:01:31,478 INFO (andreab) UPDATE Lemma alphabet of suca to Latn
+2018-10-10 17:01:54,334 INFO (andreab) UPDATE Lemma Part-of-Speech of suca to adjective
+2018-10-10 17:01:56,027 INFO (andreab) SAVE new Lemma and its default sense suca
+2018-10-10 17:01:59,077 INFO (andreab) LOCK the lexical entry related to suca_aoc_lemma
+2018-10-10 17:02:05,022 INFO (andreab) ADD empty Form box
+2018-10-10 17:02:08,552 INFO (andreab) UPDATE Form name from s to s
+2018-10-10 17:02:09,060 INFO (andreab) UPDATE Form name from suche to suche
+2018-10-10 17:02:09,591 INFO (andreab) UPDATE Form name from suche to suche
+2018-10-10 17:02:10,114 INFO (andreab) UPDATE Form name from suche to suche
+2018-10-10 17:02:10,618 INFO (andreab) UPDATE Form name from suche to suche
+2018-10-10 17:02:11,121 INFO (andreab) UPDATE Form name from suche to suche
+2018-10-10 17:02:19,645 INFO (andreab) SAVE new Form suche
+2018-10-10 17:03:11,327 INFO (andreab) SELECT Lemma suca_aoc_lemma
+2018-10-10 17:03:12,494 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 17:03:12,701 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 17:03:12,709 INFO (andreab) UNLOCK the lexical entry related to suca_aoc_lemma
+2018-10-10 17:03:12,709 INFO (andreab) LOCK the lexical entry related to suca_aoc_lemma
+2018-10-10 17:03:12,709 INFO (null) DURATA QUERY LEMMA: 1384
+2018-10-10 17:05:29,872 INFO (andreab) NEW Lemma Word
+2018-10-10 17:05:32,322 INFO (andreab) UPDATE Lemma name from s to s
+2018-10-10 17:05:32,781 INFO (andreab) UPDATE Lemma name from sen to sen
+2018-10-10 17:05:33,251 INFO (andreab) UPDATE Lemma name from senza to senza
+2018-10-10 17:05:33,768 INFO (andreab) UPDATE Lemma name from senzale to senzale
+2018-10-10 17:05:34,231 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:34,730 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:35,209 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:35,687 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:36,138 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:36,585 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:37,036 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:37,076 INFO (andreab) UPDATE Lemma language of senzalemma to aoc
+2018-10-10 17:05:46,834 INFO (andreab) UPDATE Lemma name from senzalemm to senzalemm
+2018-10-10 17:05:47,256 INFO (andreab) UPDATE Lemma name from senzale to senzale
+2018-10-10 17:05:47,705 INFO (andreab) UPDATE Lemma name from senza to senza
+2018-10-10 17:05:48,131 INFO (andreab) UPDATE Lemma name from senza to senza
+2018-10-10 17:05:48,573 INFO (andreab) UPDATE Lemma name from senza to senza
+2018-10-10 17:05:49,028 INFO (andreab) UPDATE Lemma name from senzalem to senzalem
+2018-10-10 17:05:49,457 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:49,921 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:50,369 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:05:50,811 INFO (andreab) UPDATE Lemma name from senzalemma to senzalemma
+2018-10-10 17:06:03,210 INFO (andreab) SELECT Lemma abelha_aoc_lemma
+2018-10-10 17:06:04,293 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 17:06:04,297 INFO (null) DURATA QUERY FORMA: 1
+2018-10-10 17:06:04,523 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 17:06:04,523 INFO (andreab) LOCK the lexical entry related to abelha_aoc_lemma
+2018-10-10 17:06:04,523 INFO (null) DURATA QUERY LEMMA: 1315
+2018-10-10 17:06:08,756 INFO (andreab) NEW Lemma Word
+2018-10-10 17:06:10,603 INFO (andreab) UPDATE Lemma name from as to as
+2018-10-10 17:06:11,025 INFO (andreab) UPDATE Lemma name from asass to asass
+2018-10-10 17:06:11,517 INFO (andreab) UPDATE Lemma name from asass to asass
+2018-10-10 17:06:11,963 INFO (andreab) UPDATE Lemma name from asass to asass
+2018-10-10 17:06:12,403 INFO (andreab) UPDATE Lemma name from asass to asass
+2018-10-10 17:06:12,826 INFO (andreab) UPDATE Lemma name from asass to asass
+2018-10-10 17:06:12,866 INFO (andreab) UPDATE Lemma language of asass to afr
+2018-10-10 17:06:19,828 INFO (andreab) UPDATE Lemma Part-of-Speech of asass to adjective
+2018-10-10 17:06:21,990 INFO (andreab) UPDATE Lemma Part-of-Speech of asass to 
+2018-10-10 17:07:20,840 INFO (andreab) All resources released 
+2018-10-10 17:07:20,840 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:09:22,467 INFO OmegaLex start
+2018-10-10 17:09:27,752 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:09:47,171 INFO (andreab) NEW Lemma Word
+2018-10-10 17:09:51,248 INFO (andreab) UPDATE Lemma name from e to e
+2018-10-10 17:09:51,771 INFO (andreab) UPDATE Lemma name from eee to eee
+2018-10-10 17:09:52,267 INFO (andreab) UPDATE Lemma name from eee to eee
+2018-10-10 17:09:52,794 INFO (andreab) UPDATE Lemma name from eee to eee
+2018-10-10 17:09:53,321 INFO (andreab) UPDATE Lemma language of eee to aoc
+2018-10-10 17:10:53,297 INFO (andreab) NEW Lemma Word
+2018-10-10 17:10:56,004 INFO (andreab) UPDATE Lemma name from o to o
+2018-10-10 17:10:56,517 INFO (andreab) UPDATE Lemma name from ooooo to ooooo
+2018-10-10 17:10:56,953 INFO (andreab) UPDATE Lemma name from ooooo to ooooo
+2018-10-10 17:10:57,462 INFO (andreab) UPDATE Lemma name from ooooo to ooooo
+2018-10-10 17:10:57,897 INFO (andreab) UPDATE Lemma name from ooooo to ooooo
+2018-10-10 17:10:58,332 INFO (andreab) UPDATE Lemma name from ooooo to ooooo
+2018-10-10 17:10:58,381 INFO (andreab) UPDATE Lemma language of ooooo to afr
+2018-10-10 17:11:01,464 INFO (andreab) SAVE new Lemma and its default sense ooooo
+2018-10-10 17:11:04,365 INFO (andreab) LOCK the lexical entry related to ooooo_afr_lemma
+2018-10-10 17:11:23,151 INFO (andreab) ADD empty Form box
+2018-10-10 17:11:26,124 INFO (andreab) UPDATE Form name from o to o
+2018-10-10 17:11:26,623 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:27,097 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:27,630 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:28,117 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:28,644 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:29,116 INFO (andreab) UPDATE Form name from oioioi to oioioi
+2018-10-10 17:11:29,185 INFO (andreab) SAVE new Form oioioi
+2018-10-10 17:11:50,427 INFO (andreab) UPDATE Lemma Part-of-Speech of ooooo to noun
+2018-10-10 17:11:52,375 INFO (andreab) UPDATE Lemma gender of ooooo to feminine
+2018-10-10 17:11:53,954 INFO (andreab) UPDATE Lemma number of ooooo to singular
+2018-10-10 17:11:54,664 INFO (andreab) UPDATE Lemma ooooo
+2018-10-10 17:12:13,132 INFO (andreab) UPDATE Form alphabetical type of oioioi to true
+2018-10-10 17:12:14,638 INFO (andreab) SAVE updated Form oioioi
+2018-10-10 17:13:39,572 INFO (andreab) All resources released 
+2018-10-10 17:13:39,572 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:13:43,516 INFO OmegaLex start
+2018-10-10 17:13:46,849 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:14:08,126 INFO (andreab) NEW Lemma Word
+2018-10-10 17:14:10,955 INFO (andreab) UPDATE Lemma name from h to h
+2018-10-10 17:14:11,448 INFO (andreab) UPDATE Lemma name from hhh to hhh
+2018-10-10 17:14:11,981 INFO (andreab) UPDATE Lemma name from hhhh to hhhh
+2018-10-10 17:14:12,565 INFO (andreab) UPDATE Lemma name from hhhh to hhhh
+2018-10-10 17:14:13,059 INFO (andreab) UPDATE Lemma name from hhhh to hhhh
+2018-10-10 17:14:13,137 INFO (andreab) UPDATE Lemma language of hhhh to acat
+2018-10-10 17:14:14,913 INFO (andreab) SAVE new Lemma and its default sense hhhh
+2018-10-10 17:14:17,949 INFO (andreab) LOCK the lexical entry related to hhhh_acat_lemma
+2018-10-10 17:15:02,696 INFO (andreab) LOAD lexicon All languages
+2018-10-10 17:15:08,063 INFO (andreab) SELECT Lemma hhhh_acat_lemma
+2018-10-10 17:15:09,401 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 17:15:09,410 INFO (andreab) UNLOCK the lexical entry related to hhhh_acat_lemma
+2018-10-10 17:15:09,410 INFO (andreab) LOCK the lexical entry related to hhhh_acat_lemma
+2018-10-10 17:15:09,410 INFO (null) DURATA QUERY LEMMA: 1349
+2018-10-10 17:16:55,174 INFO (andreab) All resources released 
+2018-10-10 17:16:55,174 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:16:58,727 INFO OmegaLex start
+2018-10-10 17:17:12,338 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:17:27,384 INFO (andreab) NEW Lemma Word
+2018-10-10 17:17:30,196 INFO (andreab) UPDATE Lemma name from u to u
+2018-10-10 17:17:30,717 INFO (andreab) UPDATE Lemma name from uff to uff
+2018-10-10 17:17:31,215 INFO (andreab) UPDATE Lemma name from uffa to uffa
+2018-10-10 17:17:31,912 INFO (andreab) UPDATE Lemma name from uffa to uffa
+2018-10-10 17:17:32,380 INFO (andreab) UPDATE Lemma name from uffa to uffa
+2018-10-10 17:17:32,535 INFO (andreab) UPDATE Lemma language of uffa to aoc
+2018-10-10 17:18:38,343 INFO (andreab) SAVE new Lemma and its default sense uffa
+2018-10-10 17:18:41,438 INFO (andreab) LOCK the lexical entry related to uffa_aoc_lemma
+2018-10-10 17:19:13,432 INFO (andreab) ADD empty Form box
+2018-10-10 17:19:17,078 INFO (andreab) UPDATE Form name from u to u
+2018-10-10 17:19:17,572 INFO (andreab) UPDATE Form name from uff to uff
+2018-10-10 17:19:18,154 INFO (andreab) UPDATE Form name from uffin to uffin
+2018-10-10 17:19:18,660 INFO (andreab) UPDATE Form name from uffina to uffina
+2018-10-10 17:19:19,185 INFO (andreab) UPDATE Form name from uffina to uffina
+2018-10-10 17:19:19,751 INFO (andreab) UPDATE Form name from uffina to uffina
+2018-10-10 17:19:20,233 INFO (andreab) UPDATE Form name from uffina to uffina
+2018-10-10 17:19:22,487 INFO (andreab) SAVE new Form uffina
+2018-10-10 17:19:37,976 INFO (andreab) UPDATE Lemma Part-of-Speech of uffa to noun
+2018-10-10 17:19:39,812 INFO (andreab) UPDATE Lemma gender of uffa to feminine
+2018-10-10 17:19:42,178 INFO (andreab) UPDATE Lemma number of uffa to plural
+2018-10-10 17:19:43,030 INFO (andreab) UPDATE Lemma uffa
+2018-10-10 17:20:01,248 INFO (andreab) UPDATE Form alphabetical type of uffina to true
+2018-10-10 17:20:08,383 INFO (andreab) SAVE updated Form uffina
+2018-10-10 17:26:15,991 INFO (andreab) All resources released 
+2018-10-10 17:26:15,991 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:26:19,745 INFO OmegaLex start
+2018-10-10 17:26:40,670 INFO OmegaLex start
+2018-10-10 17:26:46,478 INFO OmegaLex start
+2018-10-10 17:26:50,771 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:27:07,098 INFO (andreab) NEW Lemma Word
+2018-10-10 17:27:16,560 INFO (andreab) UPDATE Lemma name from j to j
+2018-10-10 17:27:17,070 INFO (andreab) UPDATE Lemma name from jjj to jjj
+2018-10-10 17:27:17,563 INFO (andreab) UPDATE Lemma name from jjj to jjj
+2018-10-10 17:27:18,381 INFO (andreab) UPDATE Lemma name from jjj to jjj
+2018-10-10 17:27:19,201 INFO (andreab) UPDATE Lemma language of jjj to aoc
+2018-10-10 17:27:28,623 INFO (andreab) SAVE new Lemma and its default sense jjj
+2018-10-10 17:27:31,742 INFO (andreab) LOCK the lexical entry related to jjj_aoc_lemma
+2018-10-10 17:27:44,174 INFO (andreab) ADD empty Form box
+2018-10-10 17:27:46,993 INFO (andreab) UPDATE Form name from y to y
+2018-10-10 17:27:47,497 INFO (andreab) UPDATE Form name from yyy to yyy
+2018-10-10 17:27:48,013 INFO (andreab) UPDATE Form name from yyy to yyy
+2018-10-10 17:27:52,260 INFO (andreab) UPDATE Form name from yyy to yyy
+2018-10-10 17:27:54,335 INFO (andreab) SAVE new Form yyy
+2018-10-10 17:28:07,017 INFO (andreab) UPDATE Lemma Part-of-Speech of jjj to noun
+2018-10-10 17:28:08,875 INFO (andreab) UPDATE Lemma gender of jjj to feminine
+2018-10-10 17:28:10,101 INFO (andreab) UPDATE Lemma number of jjj to plural
+2018-10-10 17:28:11,152 INFO (andreab) UPDATE Lemma jjj
+2018-10-10 17:29:48,662 INFO (andreab) UPDATE Form alphabetical type of yyy to true
+2018-10-10 17:29:51,981 INFO (andreab) SAVE updated Form yyy
+2018-10-10 17:31:12,475 INFO (andreab) All resources released 
+2018-10-10 17:31:12,475 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:32:39,656 INFO OmegaLex start
+2018-10-10 17:32:43,531 INFO OmegaLex start
+2018-10-10 17:32:49,483 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1
+2018-10-10 17:33:04,609 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-10-10 17:33:05,605 INFO (null) DURATA QUERY FORMA: 4
+2018-10-10 17:33:05,611 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 17:33:05,617 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 17:33:05,623 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 17:33:05,628 INFO (null) DURATA QUERY FORMA: 2
+2018-10-10 17:33:05,826 INFO (null) DURATA QUERY SENSO: 2
+2018-10-10 17:33:05,830 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-10-10 17:33:05,830 INFO (null) DURATA QUERY LEMMA: 1224
+2018-10-10 17:34:12,610 INFO (andreab) NEW Lemma Word
+2018-10-10 17:34:16,356 INFO (andreab) UPDATE Lemma name from z to z
+2018-10-10 17:34:16,786 INFO (andreab) UPDATE Lemma name from zzzz to zzzz
+2018-10-10 17:34:17,234 INFO (andreab) UPDATE Lemma name from zzzz to zzzz
+2018-10-10 17:34:17,722 INFO (andreab) UPDATE Lemma name from zzzz to zzzz
+2018-10-10 17:34:18,132 INFO (andreab) UPDATE Lemma name from zzzz to zzzz
+2018-10-10 17:34:18,227 INFO (andreab) UPDATE Lemma language of zzzz to aoc
+2018-10-10 17:34:22,472 INFO (andreab) SAVE new Lemma and its default sense zzzz
+2018-10-10 17:34:25,384 INFO (andreab) LOCK the lexical entry related to zzzz_aoc_lemma
+2018-10-10 17:34:30,949 INFO (andreab) ADD empty Form box
+2018-10-10 17:34:34,157 INFO (andreab) UPDATE Form name from za to za
+2018-10-10 17:34:34,628 INFO (andreab) UPDATE Form name from zaza to zaza
+2018-10-10 17:34:35,107 INFO (andreab) UPDATE Form name from zaza to zaza
+2018-10-10 17:34:35,542 INFO (andreab) UPDATE Form name from zaza to zaza
+2018-10-10 17:34:36,873 INFO (andreab) UPDATE Form name from zaza to zaza
+2018-10-10 17:34:36,921 INFO (andreab) SAVE new Form zaza
+2018-10-10 17:34:47,922 INFO (andreab) UPDATE Lemma Part-of-Speech of zzzz to noun
+2018-10-10 17:34:50,614 INFO (andreab) UPDATE Lemma gender of zzzz to feminine
+2018-10-10 17:34:52,662 INFO (andreab) UPDATE Lemma number of zzzz to dual
+2018-10-10 17:34:53,866 INFO (andreab) UPDATE Lemma zzzz
+2018-10-10 17:35:05,369 INFO (andreab) UPDATE Form alphabetical type of zaza to true
+2018-10-10 17:35:08,262 INFO (andreab) SAVE updated Form zaza
+2018-10-10 17:35:17,195 INFO (andreab) SELECT Lemma zzzz_aoc_lemma
+2018-10-10 17:35:18,175 INFO (null) DURATA QUERY FORMA: 3
+2018-10-10 17:35:18,375 INFO (null) DURATA QUERY SENSO: 1
+2018-10-10 17:35:18,375 INFO (andreab) UNLOCK the lexical entry related to zzzz_aoc_lemma
+2018-10-10 17:35:18,376 INFO (andreab) LOCK the lexical entry related to zzzz_aoc_lemma
+2018-10-10 17:35:18,376 INFO (null) DURATA QUERY LEMMA: 1182
+2018-10-10 17:35:22,236 INFO (andreab) All resources released 
+2018-10-10 17:35:22,236 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0 on 127.0.0.1

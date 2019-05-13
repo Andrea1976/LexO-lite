@@ -1,0 +1,913 @@
+2018-06-15 08:37:08,004 INFO OmegaLex start
+2018-06-15 08:37:12,896 INFO OmegaLex start
+2018-06-15 08:37:18,341 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:37:59,884 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 08:38:01,001 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:39:35,131 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:39:35,137 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 08:39:35,356 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 08:39:35,364 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:39:35,364 INFO (null) DURATA QUERY LEMMA: 95483
+2018-06-15 08:39:38,494 INFO (andreab) All resources released 
+2018-06-15 08:39:38,494 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:39:59,427 INFO OmegaLex start
+2018-06-15 08:40:03,233 INFO OmegaLex start
+2018-06-15 08:41:14,052 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:41:34,986 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 08:41:35,965 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:41:35,972 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:41:35,976 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:41:36,174 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 08:41:36,178 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:41:36,178 INFO (null) DURATA QUERY LEMMA: 1195
+2018-06-15 08:41:39,721 INFO (andreab) SELECT Lemma apesamen_aoc_lemma
+2018-06-15 08:41:40,888 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 08:41:40,889 INFO (andreab) UNLOCK the lexical entry related to apesamen_aoc_lemma
+2018-06-15 08:41:40,889 INFO (andreab) LOCK the lexical entry related to apesamen_aoc_lemma
+2018-06-15 08:41:40,889 INFO (null) DURATA QUERY LEMMA: 1170
+2018-06-15 08:41:43,465 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 08:41:44,412 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 08:41:44,417 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 08:41:44,420 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 08:41:44,607 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 08:41:44,608 INFO (andreab) UNLOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:41:44,608 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:41:44,608 INFO (null) DURATA QUERY LEMMA: 1146
+2018-06-15 08:44:00,368 INFO (andreab) All resources released 
+2018-06-15 08:44:00,368 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:44:31,392 INFO OmegaLex start
+2018-06-15 08:52:11,978 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:52:31,839 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 08:53:57,609 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 08:53:57,620 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:53:57,625 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 08:53:57,828 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 08:53:57,835 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:53:57,836 INFO (null) DURATA QUERY LEMMA: 85998
+2018-06-15 08:54:00,309 INFO (andreab) All resources released 
+2018-06-15 08:54:00,309 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:54:20,441 INFO OmegaLex start
+2018-06-15 08:54:25,286 INFO OmegaLex start
+2018-06-15 08:54:31,441 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 08:54:49,569 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 08:55:58,347 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 08:57:35,669 INFO (null) DURATA QUERY FORMA: 80
+2018-06-15 08:57:43,179 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 08:57:54,831 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 08:57:54,839 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 08:57:54,839 INFO (null) DURATA QUERY LEMMA: 185272
+2018-06-15 09:01:04,869 INFO (andreab) All resources released 
+2018-06-15 09:01:04,869 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:05:55,502 INFO OmegaLex start
+2018-06-15 09:05:59,260 INFO OmegaLex start
+2018-06-15 09:06:07,108 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:06:21,768 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 09:06:22,887 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 09:06:22,894 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:06:22,899 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:06:23,111 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 09:06:23,115 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 09:06:23,115 INFO (null) DURATA QUERY LEMMA: 1349
+2018-06-15 09:06:34,937 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 09:08:59,202 INFO (andreab) All resources released 
+2018-06-15 09:08:59,202 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:09:16,713 INFO OmegaLex start
+2018-06-15 09:09:20,211 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:09:35,837 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 09:09:36,900 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:09:36,906 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:09:36,912 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 09:09:37,120 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 09:09:37,128 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 09:09:37,129 INFO (null) DURATA QUERY LEMMA: 1295
+2018-06-15 09:17:57,057 INFO (andreab) All resources released 
+2018-06-15 09:17:57,057 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:18:20,095 INFO OmegaLex start
+2018-06-15 09:18:24,497 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:18:40,375 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 09:18:41,488 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:18:41,495 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 09:18:41,500 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:18:41,713 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 09:18:41,732 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 09:18:41,732 INFO (null) DURATA QUERY LEMMA: 1359
+2018-06-15 09:18:52,187 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 09:22:46,761 INFO (andreab) All resources released 
+2018-06-15 09:22:46,761 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:27:57,004 INFO OmegaLex start
+2018-06-15 09:28:01,780 INFO OmegaLex start
+2018-06-15 09:28:28,604 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 09:29:51,055 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 09:29:52,255 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:29:52,261 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 09:29:52,267 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:29:52,472 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 09:29:52,494 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 09:29:52,494 INFO (null) DURATA QUERY LEMMA: 1441
+2018-06-15 09:29:59,675 INFO (andreab) RESET Lemma Search Filter 
+2018-06-15 09:30:03,660 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-06-15 09:30:04,766 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 09:30:04,986 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 09:30:04,987 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-15 09:30:04,987 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-15 09:30:04,987 INFO (null) DURATA QUERY LEMMA: 1329
+2018-06-15 09:30:08,085 INFO (andreab) UPDATE Internal attestation of afolar1
+2018-06-15 09:32:08,695 INFO (andreab) UPDATE internal attestation (id DB: 263995) of afolar1
+2018-06-15 09:32:11,892 INFO (andreab) All resources released 
+2018-06-15 09:32:11,892 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:24:24,448 INFO OmegaLex start
+2018-06-15 10:24:28,158 INFO OmegaLex start
+2018-06-15 10:24:36,548 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:25:05,964 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:25:07,021 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:25:07,028 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 10:25:07,033 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 10:25:07,236 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 10:25:07,244 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:25:07,244 INFO (null) DURATA QUERY LEMMA: 1282
+2018-06-15 10:25:15,721 INFO (andreab) ADD empty Internal Documentation to form apii
+2018-06-15 10:25:59,584 INFO (andreab) All resources released 
+2018-06-15 10:25:59,584 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:26:25,428 INFO OmegaLex start
+2018-06-15 10:26:29,608 INFO OmegaLex start
+2018-06-15 10:27:31,227 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:27:52,654 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:27:53,706 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:27:53,714 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 10:27:53,719 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:27:53,927 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 10:27:53,931 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:27:53,931 INFO (null) DURATA QUERY LEMMA: 1280
+2018-06-15 10:28:11,710 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:30:19,391 INFO (andreab) All resources released 
+2018-06-15 10:30:19,392 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:30:22,550 INFO OmegaLex start
+2018-06-15 10:31:17,314 INFO OmegaLex start
+2018-06-15 10:31:21,133 INFO OmegaLex start
+2018-06-15 10:33:53,568 INFO OmegaLex start
+2018-06-15 10:36:09,104 INFO OmegaLex start
+2018-06-15 10:36:19,313 INFO OmegaLex start
+2018-06-15 10:36:23,234 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:36:43,021 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:36:44,099 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:36:44,106 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:36:44,111 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:36:44,309 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 10:36:44,313 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:36:44,313 INFO (null) DURATA QUERY LEMMA: 1295
+2018-06-15 10:36:48,679 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:37:06,238 INFO (andreab) UPDATE internal attestation (id DB: 263032) of apii
+2018-06-15 10:37:22,325 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:37:22,529 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:37:22,665 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErEr
+2018-06-15 10:37:23,315 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErbErb
+2018-06-15 10:37:24,418 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb Erb 
+2018-06-15 10:37:24,592 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb aErb a
+2018-06-15 10:37:24,757 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a Erb a 
+2018-06-15 10:37:26,154 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:37:26,223 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:37:26,962 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:37:27,252 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C 4Erb a C 4
+2018-06-15 10:37:28,427 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:37:29,455 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:38:49,249 INFO (andreab) All resources released 
+2018-06-15 10:38:49,249 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:38:52,299 INFO OmegaLex start
+2018-06-15 10:40:24,301 INFO OmegaLex start
+2018-06-15 10:40:28,000 INFO OmegaLex start
+2018-06-15 10:40:33,115 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:40:47,877 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:40:48,957 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 10:40:48,964 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:40:48,968 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:40:49,165 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 10:40:49,169 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:40:49,169 INFO (null) DURATA QUERY LEMMA: 1296
+2018-06-15 10:41:55,178 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:42:04,882 INFO (andreab) UPDATE internal attestation (id DB: 263032) of apii
+2018-06-15 10:42:11,613 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:42:11,838 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:42:11,957 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErEr
+2018-06-15 10:42:12,122 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErbErb
+2018-06-15 10:42:13,334 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb Erb 
+2018-06-15 10:42:13,454 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb cErb c
+2018-06-15 10:42:13,556 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb c Erb c 
+2018-06-15 10:42:14,270 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb cErb c
+2018-06-15 10:42:14,434 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb Erb 
+2018-06-15 10:42:15,295 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb aErb a
+2018-06-15 10:42:15,400 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a Erb a 
+2018-06-15 10:42:15,647 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:42:15,690 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:42:20,026 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:42:21,160 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C 2Erb a C 2
+2018-06-15 10:42:22,273 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:42:22,630 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:42:32,628 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 10:42:32,833 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:42:39,781 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:42:40,075 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erer
+2018-06-15 10:42:40,332 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erer
+2018-06-15 10:42:40,399 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erberb
+2018-06-15 10:42:41,077 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb erb 
+2018-06-15 10:42:41,223 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb aerb a
+2018-06-15 10:42:41,313 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a erb a 
+2018-06-15 10:42:41,608 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a Cerb a C
+2018-06-15 10:42:41,682 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a Cerb a C
+2018-06-15 10:42:41,897 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a C erb a C 
+2018-06-15 10:42:43,563 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a Cerb a C
+2018-06-15 10:42:43,719 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb a erb a 
+2018-06-15 10:42:43,862 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb aerb a
+2018-06-15 10:42:44,473 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erb erb 
+2018-06-15 10:42:44,581 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erberb
+2018-06-15 10:42:44,733 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: erer
+2018-06-15 10:42:44,872 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ee
+2018-06-15 10:42:45,165 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:42:45,466 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:42:45,961 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:42:46,131 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:42:46,241 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErEr
+2018-06-15 10:42:46,479 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ErbErb
+2018-06-15 10:42:46,999 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb Erb 
+2018-06-15 10:42:47,132 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb aErb a
+2018-06-15 10:42:47,232 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a Erb a 
+2018-06-15 10:42:47,566 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:42:47,625 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:43:22,859 INFO (andreab) All resources released 
+2018-06-15 10:43:22,859 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:43:26,157 INFO OmegaLex start
+2018-06-15 10:44:20,055 INFO OmegaLex start
+2018-06-15 10:45:28,032 INFO OmegaLex start
+2018-06-15 10:45:31,862 INFO OmegaLex start
+2018-06-15 10:45:45,335 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:46:04,485 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:46:05,598 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:46:05,606 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 10:46:05,613 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 10:46:05,842 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 10:46:05,845 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:46:05,845 INFO (null) DURATA QUERY LEMMA: 1362
+2018-06-15 10:46:09,566 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:46:24,319 INFO (andreab) UPDATE internal attestation (id DB: 263032) of apii
+2018-06-15 10:46:30,007 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:46:30,230 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:46:30,564 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: EE
+2018-06-15 10:46:31,447 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:46:32,850 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:46:33,870 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C 2Erb a C 2
+2018-06-15 10:46:34,381 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:46:34,631 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:46:40,677 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:46:40,832 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C 2Erb a C 2
+2018-06-15 10:46:41,724 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a C Erb a C 
+2018-06-15 10:46:42,277 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Erb a CErb a C
+2018-06-15 10:46:46,134 INFO (andreab) SELECT Attestation Erb a C of apii
+2018-06-15 10:46:52,250 INFO (andreab) SELECT Lemma api_aoc_lemma
+2018-06-15 10:46:53,274 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:46:53,279 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 10:46:53,282 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 10:46:53,482 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 10:46:53,482 INFO (andreab) UNLOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:46:53,482 INFO (andreab) LOCK the lexical entry related to api_aoc_lemma
+2018-06-15 10:46:53,483 INFO (null) DURATA QUERY LEMMA: 1234
+2018-06-15 10:47:12,879 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:47:52,360 INFO (andreab) UPDATE Internal attestation of apii
+2018-06-15 10:48:12,612 INFO (andreab) UPDATE internal attestation (id DB: 263032) of apii
+2018-06-15 10:48:18,696 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 10:48:18,881 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 10:48:19,022 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AgAg
+2018-06-15 10:48:19,246 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Ag.
+2018-06-15 10:48:23,539 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 10:48:23,601 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 10:48:23,722 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThAg.Th
+2018-06-15 10:48:24,130 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TheAg.The
+2018-06-15 10:48:24,403 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThesAg.Thes
+2018-06-15 10:48:25,346 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes Ag.Thes 
+2018-06-15 10:48:25,621 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes TAg.Thes T
+2018-06-15 10:48:25,660 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes TAg.Thes T
+2018-06-15 10:48:33,338 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 10:48:33,545 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:48:56,826 INFO (andreab) DELETE Internal attestation of form apii
+2018-06-15 10:49:02,844 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 10:49:03,031 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 10:49:42,426 INFO (andreab) All resources released 
+2018-06-15 10:49:42,426 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 10:49:45,521 INFO OmegaLex start
+2018-06-15 11:09:11,585 INFO OmegaLex start
+2018-06-15 11:09:15,243 INFO OmegaLex start
+2018-06-15 11:09:19,015 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:09:49,115 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-15 11:09:50,133 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 11:09:50,137 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:09:50,142 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:09:50,146 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:09:50,149 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:09:50,153 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:09:50,358 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 11:09:50,362 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 11:09:50,362 INFO (null) DURATA QUERY LEMMA: 1250
+2018-06-15 11:10:59,018 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-15 11:11:00,056 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,060 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,063 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,066 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,069 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,072 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 11:11:00,260 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 11:11:00,260 INFO (andreab) UNLOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 11:11:00,260 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 11:11:00,260 INFO (null) DURATA QUERY LEMMA: 1244
+2018-06-15 11:12:46,853 INFO (andreab) ADD empty Internal Documentation to form aglans
+2018-06-15 11:18:05,792 INFO (andreab) ADD empty Internal Documentation to lemma aglan
+2018-06-15 11:28:50,620 INFO (andreab) All resources released 
+2018-06-15 11:28:50,620 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:28:53,573 INFO OmegaLex start
+2018-06-15 11:29:00,265 INFO OmegaLex start
+2018-06-15 11:29:18,856 INFO OmegaLex start
+2018-06-15 11:29:22,584 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:29:39,474 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 11:29:40,511 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:29:40,697 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 11:29:40,701 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 11:29:40,701 INFO (null) DURATA QUERY LEMMA: 1230
+2018-06-15 11:29:45,504 INFO (andreab) ADD empty Internal Documentation to form ueyga
+2018-06-15 11:29:55,365 INFO (andreab) All resources released 
+2018-06-15 11:29:55,365 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:29:58,250 INFO OmegaLex start
+2018-06-15 11:30:06,423 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:30:23,055 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 11:30:24,218 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 11:30:24,425 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 11:30:24,429 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 11:30:24,429 INFO (null) DURATA QUERY LEMMA: 1378
+2018-06-15 11:30:28,429 INFO (andreab) ADD empty Internal Documentation to form ueyga
+2018-06-15 11:30:45,917 INFO (andreab) All resources released 
+2018-06-15 11:30:45,917 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 11:30:48,884 INFO OmegaLex start
+2018-06-15 11:31:18,340 INFO OmegaLex start
+2018-06-15 11:34:09,161 INFO OmegaLex start
+2018-06-15 11:34:12,822 INFO OmegaLex start
+2018-06-15 12:02:21,524 INFO OmegaLex start
+2018-06-15 12:02:25,114 INFO OmegaLex start
+2018-06-15 12:02:29,488 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:04:12,626 INFO (andreab) SELECT Lemma afestolir_aoc_lemma
+2018-06-15 12:04:13,608 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:04:13,806 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:04:13,810 INFO (andreab) LOCK the lexical entry related to afestolir_aoc_lemma
+2018-06-15 12:04:13,810 INFO (null) DURATA QUERY LEMMA: 1188
+2018-06-15 12:04:18,305 INFO (andreab) ADD empty Internal Documentation to lemma afestolir
+2018-06-15 12:04:22,103 INFO (andreab) ADD empty Internal Documentation to form afestolis
+2018-06-15 12:05:18,153 INFO (andreab) All resources released 
+2018-06-15 12:05:18,153 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:05:54,180 INFO OmegaLex start
+2018-06-15 12:05:59,119 INFO OmegaLex start
+2018-06-15 12:06:06,880 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:06:22,255 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 12:06:23,333 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 12:06:23,532 INFO (null) DURATA QUERY SENSO: 3
+2018-06-15 12:06:23,536 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:06:23,536 INFO (null) DURATA QUERY LEMMA: 1284
+2018-06-15 12:06:27,693 INFO (andreab) ADD empty Internal Documentation to form ueyga
+2018-06-15 12:07:48,772 INFO (andreab) All resources released 
+2018-06-15 12:07:48,772 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:11:20,780 INFO OmegaLex start
+2018-06-15 12:11:25,691 INFO OmegaLex start
+2018-06-15 12:11:33,080 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:11:57,796 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-15 12:11:58,956 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:58,961 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:58,965 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:58,970 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:58,974 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:58,978 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:11:59,209 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:11:59,231 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 12:11:59,231 INFO (null) DURATA QUERY LEMMA: 1437
+2018-06-15 12:12:04,101 INFO (andreab) ADD empty Internal Documentation to form aglans
+2018-06-15 12:12:52,490 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 12:12:53,577 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:12:53,791 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:12:53,791 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:12:53,809 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:12:53,810 INFO (null) DURATA QUERY LEMMA: 1322
+2018-06-15 12:12:56,692 INFO (andreab) ADD empty Internal Documentation to form ueyga
+2018-06-15 12:13:53,360 INFO (andreab) All resources released 
+2018-06-15 12:13:53,360 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:14:15,973 INFO OmegaLex start
+2018-06-15 12:14:19,740 INFO OmegaLex start
+2018-06-15 12:14:23,740 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:14:35,462 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 12:14:36,493 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:14:36,680 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:14:36,687 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:14:36,688 INFO (null) DURATA QUERY LEMMA: 1228
+2018-06-15 12:14:42,362 INFO (andreab) ADD empty Internal Documentation to form ueyga
+2018-06-15 12:14:55,291 INFO (andreab) SAVE new internal attestation (id DB: 327680) of ueyga
+2018-06-15 12:15:04,798 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 12:15:05,035 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 12:15:05,178 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AlAl
+2018-06-15 12:15:05,365 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AlbAlb
+2018-06-15 12:15:16,841 INFO (andreab) SELECT Lemma _sharp_agrena_aoc_lemma
+2018-06-15 12:15:17,839 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 12:15:17,843 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:15:18,031 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:15:18,031 INFO (andreab) UNLOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-06-15 12:15:18,031 INFO (andreab) LOCK the lexical entry related to _sharp_agrena_aoc_lemma
+2018-06-15 12:15:18,031 INFO (null) DURATA QUERY LEMMA: 1192
+2018-06-15 12:15:38,427 INFO (andreab) ADD empty Internal Documentation to form אגרינש
+2018-06-15 12:15:53,627 INFO (andreab) SAVE new internal attestation (id DB: 327681) of אגרינש
+2018-06-15 12:18:51,674 INFO (andreab) All resources released 
+2018-06-15 12:18:51,674 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:18:54,774 INFO OmegaLex start
+2018-06-15 12:20:15,478 INFO OmegaLex start
+2018-06-15 12:20:27,237 INFO OmegaLex start
+2018-06-15 12:20:30,732 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:20:41,673 INFO (andreab) SELECT Lemma afestolir_aoc_lemma
+2018-06-15 12:20:42,724 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:20:42,923 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:20:42,928 INFO (andreab) LOCK the lexical entry related to afestolir_aoc_lemma
+2018-06-15 12:20:42,928 INFO (null) DURATA QUERY LEMMA: 1257
+2018-06-15 12:20:46,028 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-15 12:20:47,016 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:20:47,021 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:20:47,024 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:20:47,212 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:20:47,213 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:20:47,214 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2018-06-15 12:20:47,214 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-15 12:20:47,214 INFO (null) DURATA QUERY LEMMA: 1188
+2018-06-15 12:20:55,603 INFO (andreab) ADD empty Internal Documentation to form accessio
+2018-06-15 12:21:05,288 INFO (andreab) SAVE new internal attestation (id DB: 360448) of accessio
+2018-06-15 12:21:13,761 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 12:21:14,244 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 12:21:14,444 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 12:21:15,561 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AgAg
+2018-06-15 12:21:16,447 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Ag.
+2018-06-15 12:21:17,160 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 12:21:17,235 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 12:21:17,359 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThAg.Th
+2018-06-15 12:21:17,767 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TheAg.The
+2018-06-15 12:21:19,203 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThesAg.Thes
+2018-06-15 12:21:19,481 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes Ag.Thes 
+2018-06-15 12:21:19,770 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes AAg.Thes A
+2018-06-15 12:21:19,827 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes AAg.Thes A
+2018-06-15 12:21:20,076 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes A Ag.Thes A 
+2018-06-15 12:21:21,183 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes AAg.Thes A
+2018-06-15 12:21:23,648 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 12:21:30,403 INFO (andreab) ADD empty Internal Documentation to form assecios
+2018-06-15 12:21:42,071 INFO (andreab) SAVE new internal attestation (id DB: 360449) of assecios
+2018-06-15 12:22:10,014 INFO (andreab) DELETE Internal attestation of form accessio
+2018-06-15 12:22:21,242 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-15 12:22:22,240 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:22,244 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:22,246 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 12:22:22,443 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:22:22,444 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:22:22,444 INFO (andreab) UNLOCK the lexical entry related to accession_aoc_lemma
+2018-06-15 12:22:22,444 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-15 12:22:22,444 INFO (null) DURATA QUERY LEMMA: 1203
+2018-06-15 12:22:36,671 INFO (andreab) SELECT Lemma affrodil_aoc_lemma
+2018-06-15 12:22:37,666 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:37,670 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:37,673 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:37,676 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:22:37,866 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:22:37,866 INFO (andreab) UNLOCK the lexical entry related to affrodil_aoc_lemma
+2018-06-15 12:22:37,866 INFO (andreab) LOCK the lexical entry related to affrodil_aoc_lemma
+2018-06-15 12:22:37,866 INFO (null) DURATA QUERY LEMMA: 1196
+2018-06-15 12:22:41,812 INFO (andreab) ADD empty Internal Documentation to lemma affrodil
+2018-06-15 12:22:47,751 INFO (andreab) SAVE new internal attestation (id DB: 360450) of affrodil
+2018-06-15 12:22:59,773 INFO (andreab) SELECT Attestation Thes C of acorus1
+2018-06-15 12:23:02,450 INFO (andreab) SELECT Attestation Febr C of agarich
+2018-06-15 12:23:03,997 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-15 12:23:05,369 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-15 12:23:07,722 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:31:21,842 INFO (andreab) All resources released 
+2018-06-15 12:31:21,842 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:31:24,869 INFO OmegaLex start
+2018-06-15 12:33:00,313 INFO OmegaLex start
+2018-06-15 12:33:04,047 INFO OmegaLex start
+2018-06-15 12:33:08,528 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:34:07,268 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:34:11,156 INFO (andreab) SELECT Attestation Let1 P(=Princeton) of agremonia
+2018-06-15 12:34:15,573 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:36:30,386 INFO (andreab) All resources released 
+2018-06-15 12:36:30,386 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:36:33,400 INFO OmegaLex start
+2018-06-15 12:36:47,817 INFO OmegaLex start
+2018-06-15 12:37:56,870 INFO OmegaLex start
+2018-06-15 12:38:44,679 INFO OmegaLex start
+2018-06-15 12:38:48,777 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 12:39:02,824 INFO (andreab) SELECT Lemma afolament_aoc_lemma
+2018-06-15 12:39:04,109 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 12:39:04,113 INFO (andreab) LOCK the lexical entry related to afolament_aoc_lemma
+2018-06-15 12:39:04,113 INFO (null) DURATA QUERY LEMMA: 1291
+2018-06-15 12:39:09,775 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:39:12,781 INFO (andreab) SELECT Attestation Febr C of accession
+2018-06-15 12:39:15,346 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:39:19,044 INFO (andreab) SELECT Attestation Febr C of accession
+2018-06-15 12:39:20,999 INFO (andreab) SELECT Attestation Alb Ashb of acassia1
+2018-06-15 12:39:22,389 INFO (andreab) SELECT Attestation Eluc P(=Paris2 of assecios
+2018-06-15 12:39:43,434 INFO (andreab) SELECT Attestation Alb A of ueyga
+2018-06-15 12:39:52,276 INFO (andreab) SELECT Lemma _sharp_aiguier_aoc_lemma
+2018-06-15 12:39:53,306 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:39:53,310 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:39:53,314 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 12:39:53,504 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:39:53,505 INFO (andreab) UNLOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-06-15 12:39:53,505 INFO (andreab) LOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-06-15 12:39:53,505 INFO (null) DURATA QUERY LEMMA: 1232
+2018-06-15 12:40:03,100 INFO (andreab) SELECT Attestation Alb A of ueyga
+2018-06-15 12:40:11,381 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 12:40:12,421 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:40:12,619 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:40:12,620 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:40:12,620 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:40:12,620 INFO (null) DURATA QUERY LEMMA: 1241
+2018-06-15 12:40:31,826 INFO (andreab) SELECT Attestation Alb A of ueyga
+2018-06-15 12:40:33,565 INFO (andreab) DELETE Internal attestation Alb A 42 of ueyga
+2018-06-15 12:40:38,925 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 12:40:39,951 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 12:40:40,152 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 12:40:40,153 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:40:40,153 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 12:40:40,153 INFO (null) DURATA QUERY LEMMA: 1230
+2018-06-15 12:40:56,924 INFO (andreab) All resources released 
+2018-06-15 12:40:56,924 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 14:59:28,680 INFO OmegaLex start
+2018-06-15 14:59:32,383 INFO OmegaLex start
+2018-06-15 15:00:09,127 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:00:27,535 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-15 15:00:28,640 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 15:00:28,645 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 15:00:28,649 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:00:28,653 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:00:28,658 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 15:00:28,855 INFO (null) DURATA QUERY SENSO: 3
+2018-06-15 15:00:28,856 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:00:28,865 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-15 15:00:28,865 INFO (null) DURATA QUERY LEMMA: 1333
+2018-06-15 15:01:04,236 INFO (andreab) DELETE Lemma acitoal
+2018-06-15 15:01:04,237 INFO (andreab) DELETE Form סיטואל of lemma acitoal
+2018-06-15 15:01:04,310 INFO (andreab) DELETE Form סיטווִל of lemma acitoal
+2018-06-15 15:01:04,311 INFO (andreab) DELETE Form סיטוואל of lemma acitoal
+2018-06-15 15:01:04,311 INFO (andreab) DELETE Form סיטוול of lemma acitoal
+2018-06-15 15:01:04,312 INFO (andreab) DELETE Form סיטול of lemma acitoal
+2018-06-15 15:01:04,312 INFO (andreab) DELETE Sense acitoal_aoc_sense1 of lemma acitoal
+2018-06-15 15:01:04,312 INFO (andreab) DELETE Sense acitoal_aoc_sense2 of lemma acitoal
+2018-06-15 15:01:57,549 INFO (andreab) All resources released 
+2018-06-15 15:01:57,549 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:02:12,512 INFO OmegaLex start
+2018-06-15 15:02:18,244 INFO OmegaLex start
+2018-06-15 15:02:24,132 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:02:40,473 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-15 15:02:41,699 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:02:41,704 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:02:41,708 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:02:41,713 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:02:41,717 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:02:41,945 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:02:41,947 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:02:41,972 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-15 15:02:41,972 INFO (null) DURATA QUERY LEMMA: 1502
+2018-06-15 15:02:45,329 INFO (andreab) DELETE Lemma acitoal
+2018-06-15 15:03:03,682 INFO (andreab) DELETE Form סיטואל of lemma acitoal
+2018-06-15 15:03:12,274 INFO (andreab) DELETE Form סיטווִל of lemma acitoal
+2018-06-15 15:03:18,487 INFO (andreab) DELETE Form סיטוואל of lemma acitoal
+2018-06-15 15:03:18,488 INFO (andreab) DELETE Form סיטוול of lemma acitoal
+2018-06-15 15:03:18,489 INFO (andreab) DELETE Form סיטול of lemma acitoal
+2018-06-15 15:03:18,490 INFO (andreab) DELETE Sense acitoal_aoc_sense1 of lemma acitoal
+2018-06-15 15:03:18,490 INFO (andreab) DELETE Sense acitoal_aoc_sense2 of lemma acitoal
+2018-06-15 15:05:03,743 INFO (andreab) All resources released 
+2018-06-15 15:05:03,743 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:05:07,348 INFO OmegaLex start
+2018-06-15 15:05:15,198 INFO OmegaLex start
+2018-06-15 15:05:19,806 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:05:44,745 INFO (andreab) SELECT Lemma afestolir_aoc_lemma
+2018-06-15 15:05:45,895 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:05:46,102 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:05:46,105 INFO (andreab) LOCK the lexical entry related to afestolir_aoc_lemma
+2018-06-15 15:05:46,105 INFO (null) DURATA QUERY LEMMA: 1364
+2018-06-15 15:05:48,046 INFO (andreab) SELECT Lemma affumar_aoc_lemma
+2018-06-15 15:05:49,094 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:05:49,098 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:05:49,101 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:05:49,104 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:05:49,107 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:05:49,110 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:05:49,360 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:05:49,360 INFO (andreab) UNLOCK the lexical entry related to affumar_aoc_lemma
+2018-06-15 15:05:49,360 INFO (andreab) LOCK the lexical entry related to affumar_aoc_lemma
+2018-06-15 15:05:49,360 INFO (null) DURATA QUERY LEMMA: 1316
+2018-06-15 15:05:51,736 INFO (andreab) SELECT Lemma afolar1_aoc_lemma
+2018-06-15 15:05:52,764 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:05:52,965 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:05:52,966 INFO (andreab) UNLOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-15 15:05:52,966 INFO (andreab) LOCK the lexical entry related to afolar1_aoc_lemma
+2018-06-15 15:05:52,966 INFO (null) DURATA QUERY LEMMA: 1232
+2018-06-15 15:06:16,913 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ss
+2018-06-15 15:06:17,121 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-06-15 15:06:17,220 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: semsem
+2018-06-15 15:06:17,383 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: semmsemm
+2018-06-15 15:06:17,505 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: semmasemma
+2018-06-15 15:06:18,153 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: semmsemm
+2018-06-15 15:06:18,304 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: semsem
+2018-06-15 15:06:18,457 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: sese
+2018-06-15 15:06:18,593 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: ss
+2018-06-15 15:06:18,983 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:06:39,474 INFO (andreab) DELETE Internal attestation of afolar1
+2018-06-15 15:06:44,006 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 15:06:45,052 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:06:45,253 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:06:45,253 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 15:06:45,253 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 15:06:45,253 INFO (null) DURATA QUERY LEMMA: 1249
+2018-06-15 15:06:59,911 INFO (andreab) DELETE Lemma aiga
+2018-06-15 15:06:59,911 INFO (andreab) DELETE Form ueyga of lemma aiga
+2018-06-15 15:06:59,983 INFO (andreab) DELETE Sense aiga_aoc_sense1 of lemma aiga
+2018-06-15 15:07:25,171 INFO (andreab) All resources released 
+2018-06-15 15:07:25,171 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:07:29,689 INFO OmegaLex start
+2018-06-15 15:07:39,040 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:07:51,807 INFO (andreab) SELECT Lemma _sharp_adiman_aoc_lemma
+2018-06-15 15:07:52,973 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:07:53,173 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:07:53,181 INFO (andreab) LOCK the lexical entry related to _sharp_adiman_aoc_lemma
+2018-06-15 15:07:53,181 INFO (null) DURATA QUERY LEMMA: 1377
+2018-06-15 15:07:56,977 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 15:07:58,105 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:07:58,307 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:07:58,307 INFO (andreab) UNLOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 15:07:58,308 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 15:07:58,308 INFO (null) DURATA QUERY LEMMA: 1333
+2018-06-15 15:08:03,886 INFO (andreab) DELETE Lemma aiga
+2018-06-15 15:09:07,663 INFO (andreab) DELETE Form ueyga of lemma aiga
+2018-06-15 15:09:07,791 INFO (andreab) DELETE Sense aiga_aoc_sense1 of lemma aiga
+2018-06-15 15:14:53,893 INFO (andreab) All resources released 
+2018-06-15 15:14:53,893 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:14:57,003 INFO OmegaLex start
+2018-06-15 15:19:27,305 INFO OmegaLex start
+2018-06-15 15:19:31,014 INFO OmegaLex start
+2018-06-15 15:20:01,333 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:20:15,210 INFO (andreab) SELECT Lemma aiga_aoc_lemma
+2018-06-15 15:20:16,276 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:20:16,469 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:20:16,472 INFO (andreab) LOCK the lexical entry related to aiga_aoc_lemma
+2018-06-15 15:20:16,472 INFO (null) DURATA QUERY LEMMA: 1265
+2018-06-15 15:20:21,802 INFO (andreab) DELETE Lemma aiga
+2018-06-15 15:20:21,802 INFO (andreab) DELETE Form ueyga of lemma aiga
+2018-06-15 15:20:21,914 INFO (andreab) DELETE Sense aiga_aoc_sense1 of lemma aiga
+2018-06-15 15:20:21,921 INFO (andreab) DELETE internal attestation  of lemma aiga
+2018-06-15 15:20:21,940 INFO (andreab) DELETE internal attestation  of lemma aiga
+2018-06-15 15:20:21,943 INFO (andreab) DELETE internal attestation  of lemma aiga
+2018-06-15 15:20:21,947 INFO (andreab) DELETE internal attestation  of lemma aiga
+2018-06-15 15:20:40,526 INFO (andreab) SELECT Lemma acorus3_star__aoc_lemma
+2018-06-15 15:20:41,487 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:20:41,491 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:20:41,688 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:20:41,689 INFO (andreab) UNLOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-06-15 15:20:41,689 INFO (andreab) LOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-06-15 15:20:41,689 INFO (null) DURATA QUERY LEMMA: 1165
+2018-06-15 15:20:43,312 INFO (andreab) SELECT Lemma acression_aoc_lemma
+2018-06-15 15:20:44,257 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:20:44,447 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:20:44,448 INFO (andreab) UNLOCK the lexical entry related to acression_aoc_lemma
+2018-06-15 15:20:44,448 INFO (andreab) LOCK the lexical entry related to acression_aoc_lemma
+2018-06-15 15:20:44,448 INFO (null) DURATA QUERY LEMMA: 1138
+2018-06-15 15:20:52,832 INFO (andreab) DELETE Lemma acression
+2018-06-15 15:20:52,832 INFO (andreab) DELETE Form cression of lemma acression
+2018-06-15 15:20:52,833 INFO (andreab) DELETE Sense acression_aoc_sense1 of lemma acression
+2018-06-15 15:20:52,836 INFO (andreab) DELETE internal attestation  of lemma acression
+2018-06-15 15:20:59,970 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 15:21:00,195 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:21:54,495 INFO (andreab) All resources released 
+2018-06-15 15:21:54,495 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:21:57,645 INFO OmegaLex start
+2018-06-15 15:22:36,859 INFO OmegaLex start
+2018-06-15 15:23:58,274 INFO OmegaLex start
+2018-06-15 15:24:19,082 INFO OmegaLex start
+2018-06-15 15:24:22,616 INFO OmegaLex start
+2018-06-15 15:24:26,681 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:24:47,428 INFO (andreab) SELECT Attestation Febr C of accession
+2018-06-15 15:25:10,815 INFO (andreab) SELECT Lemma accession_aoc_lemma
+2018-06-15 15:25:11,831 INFO (null) DURATA QUERY FORMA: 4
+2018-06-15 15:25:11,835 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:25:11,839 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:25:12,038 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:25:12,040 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:25:12,048 INFO (andreab) LOCK the lexical entry related to accession_aoc_lemma
+2018-06-15 15:25:12,048 INFO (null) DURATA QUERY LEMMA: 1235
+2018-06-15 15:26:10,025 INFO (andreab) DELETE Lemma accession
+2018-06-15 15:26:10,026 INFO (andreab) DELETE Form acassio of lemma accession
+2018-06-15 15:26:10,099 INFO (andreab) DELETE Form accessio of lemma accession
+2018-06-15 15:26:10,105 INFO (andreab) DELETE internal attestation  of form assecios
+2018-06-15 15:26:10,105 INFO (andreab) DELETE Form assecios of lemma accession
+2018-06-15 15:26:10,106 INFO (andreab) DELETE Sense accession_aoc_sense1 of lemma accession
+2018-06-15 15:26:10,106 INFO (andreab) DELETE Sense accession_aoc_sense2 of lemma accession
+2018-06-15 15:26:10,120 INFO (andreab) DELETE internal attestation  of lemma accession
+2018-06-15 15:26:10,123 INFO (andreab) DELETE internal attestation  of lemma accession
+2018-06-15 15:26:10,127 INFO (andreab) DELETE internal attestation  of lemma accession
+2018-06-15 15:26:19,829 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 15:26:20,062 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:28:04,997 INFO (andreab) All resources released 
+2018-06-15 15:28:04,997 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:28:28,720 INFO OmegaLex start
+2018-06-15 15:28:32,196 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:28:45,946 INFO (andreab) SELECT Lemma acitoal_aoc_lemma
+2018-06-15 15:28:46,985 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:28:46,990 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:28:46,994 INFO (null) DURATA QUERY FORMA: 3
+2018-06-15 15:28:46,997 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:28:47,000 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:28:47,195 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:28:47,196 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:28:47,199 INFO (andreab) LOCK the lexical entry related to acitoal_aoc_lemma
+2018-06-15 15:28:47,199 INFO (null) DURATA QUERY LEMMA: 1257
+2018-06-15 15:29:18,289 INFO (andreab) DELETE Lemma acitoal
+2018-06-15 15:29:18,289 INFO (andreab) DELETE Form סיטואל of lemma acitoal
+2018-06-15 15:29:18,376 INFO (andreab) DELETE Form סיטווִל of lemma acitoal
+2018-06-15 15:29:18,377 INFO (andreab) DELETE Form סיטוואל of lemma acitoal
+2018-06-15 15:29:18,377 INFO (andreab) DELETE Form סיטוול of lemma acitoal
+2018-06-15 15:29:18,378 INFO (andreab) DELETE Form סיטול of lemma acitoal
+2018-06-15 15:29:18,378 INFO (andreab) DELETE Sense acitoal_aoc_sense1 of lemma acitoal
+2018-06-15 15:29:18,378 INFO (andreab) DELETE Sense acitoal_aoc_sense2 of lemma acitoal
+2018-06-15 15:29:18,383 INFO (andreab) DELETE internal attestation  of lemma acitoal
+2018-06-15 15:30:33,585 INFO (andreab) SELECT Lemma alagardax_aoc_lemma
+2018-06-15 15:30:34,789 INFO (null) DURATA QUERY SENSO: 2
+2018-06-15 15:30:34,789 INFO (andreab) UNLOCK the lexical entry related to alagardax_aoc_lemma
+2018-06-15 15:30:34,789 INFO (andreab) LOCK the lexical entry related to alagardax_aoc_lemma
+2018-06-15 15:30:34,789 INFO (null) DURATA QUERY LEMMA: 1206
+2018-06-15 15:30:36,327 INFO (andreab) SELECT Lemma _sharp_aiguier_aoc_lemma
+2018-06-15 15:30:37,298 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:30:37,301 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:30:37,304 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:30:37,502 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:30:37,503 INFO (andreab) UNLOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-06-15 15:30:37,503 INFO (andreab) LOCK the lexical entry related to _sharp_aiguier_aoc_lemma
+2018-06-15 15:30:37,503 INFO (null) DURATA QUERY LEMMA: 1178
+2018-06-15 15:30:43,948 INFO (andreab) SELECT Lemma acassia2_star__aoc_lemma
+2018-06-15 15:30:45,139 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:30:45,140 INFO (andreab) UNLOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-15 15:30:45,140 INFO (andreab) LOCK the lexical entry related to acassia2_star__aoc_lemma
+2018-06-15 15:30:45,140 INFO (null) DURATA QUERY LEMMA: 1195
+2018-06-15 15:30:46,103 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-15 15:30:47,248 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:30:47,248 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-15 15:30:47,248 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-15 15:30:47,249 INFO (null) DURATA QUERY LEMMA: 1147
+2018-06-15 15:30:47,831 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-15 15:30:48,815 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:30:48,818 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:30:48,820 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:30:49,023 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:30:49,023 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:30:49,023 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:30:49,023 INFO (null) DURATA QUERY LEMMA: 1194
+2018-06-15 15:30:56,994 INFO (andreab) ADD empty Internal Documentation to form אקורוש
+2018-06-15 15:31:03,604 INFO (andreab) SAVE new internal attestation (id DB: 393216) of אקורוש
+2018-06-15 15:31:19,533 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 15:31:19,761 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AA
+2018-06-15 15:31:20,085 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: AgAg
+2018-06-15 15:31:20,304 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Ag.
+2018-06-15 15:31:21,375 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 15:31:21,440 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TAg.T
+2018-06-15 15:31:22,109 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThAg.Th
+2018-06-15 15:31:22,211 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.TheAg.The
+2018-06-15 15:31:22,769 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.ThesAg.Thes
+2018-06-15 15:31:24,475 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes Ag.Thes 
+2018-06-15 15:31:24,674 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes AAg.Thes A
+2018-06-15 15:31:24,723 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: Ag.Thes AAg.Thes A
+2018-06-15 15:31:32,304 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 15:31:32,479 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:31:41,654 INFO (andreab) SELECT Lemma acorus3_star__aoc_lemma
+2018-06-15 15:31:42,613 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:31:42,616 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:31:42,804 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:31:42,804 INFO (andreab) UNLOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-06-15 15:31:42,804 INFO (andreab) LOCK the lexical entry related to acorus3_star__aoc_lemma
+2018-06-15 15:31:42,805 INFO (null) DURATA QUERY LEMMA: 1151
+2018-06-15 15:31:43,382 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-15 15:31:44,348 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:31:44,351 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:31:44,354 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:31:44,542 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:31:44,542 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:31:44,542 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:31:44,542 INFO (null) DURATA QUERY LEMMA: 1161
+2018-06-15 15:31:56,341 INFO (andreab) DELETE Form אקורוש
+2018-06-15 15:31:56,343 INFO (andreab) DELETE internal attestation  of form אקורוש
+2018-06-15 15:32:06,549 INFO (andreab) SELECT Lemma acassia3_star__aoc_lemma
+2018-06-15 15:32:07,687 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:32:07,687 INFO (andreab) UNLOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-15 15:32:07,687 INFO (andreab) LOCK the lexical entry related to acassia3_star__aoc_lemma
+2018-06-15 15:32:07,687 INFO (null) DURATA QUERY LEMMA: 1140
+2018-06-15 15:32:08,216 INFO (andreab) SELECT Lemma acorus2_star__aoc_lemma
+2018-06-15 15:32:09,181 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:09,183 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:09,385 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:32:09,385 INFO (andreab) UNLOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:32:09,385 INFO (andreab) LOCK the lexical entry related to acorus2_star__aoc_lemma
+2018-06-15 15:32:09,385 INFO (null) DURATA QUERY LEMMA: 1171
+2018-06-15 15:32:22,595 INFO (andreab) SELECT Lemma aglan_aoc_lemma
+2018-06-15 15:32:23,582 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,585 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,587 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,589 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,591 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,593 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:32:23,787 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:32:23,787 INFO (andreab) UNLOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 15:32:23,787 INFO (andreab) LOCK the lexical entry related to aglan_aoc_lemma
+2018-06-15 15:32:23,787 INFO (null) DURATA QUERY LEMMA: 1193
+2018-06-15 15:32:31,720 INFO (andreab) UPDATE Lemma name from aglann to aglann
+2018-06-15 15:32:32,128 INFO (andreab) UPDATE Lemma name from aglannuov to aglannuov
+2018-06-15 15:32:32,525 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:32,911 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:33,285 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:37,410 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:37,790 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:38,189 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:46,385 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:46,760 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:47,128 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:47,502 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:47,898 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:48,314 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:48,997 INFO (andreab) UPDATE Lemma name from aglanNuovo to aglanNuovo
+2018-06-15 15:32:49,496 INFO (andreab) UPDATE Lemma name from aglanuovo to aglanuovo
+2018-06-15 15:32:50,524 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:55,235 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:32:55,620 INFO (andreab) UPDATE Lemma name from aglan nuovo to aglan nuovo
+2018-06-15 15:32:56,796 INFO (andreab) UPDATE Lemma name from aglan nuovo to aglan nuovo
+2018-06-15 15:32:57,164 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:33:11,082 INFO (andreab) UPDATE Lemma name from aglannuovo to aglannuovo
+2018-06-15 15:33:25,126 INFO (andreab) SAVE updated Lemma with renaming from aglan to aglannuovo
+2018-06-15 15:33:26,465 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:33:41,185 INFO (andreab) SELECT Attestation Thes C of aglannuovo
+2018-06-15 15:33:51,109 INFO (andreab) SELECT Lemma aglannuovo_aoc_lemma
+2018-06-15 15:33:52,064 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:33:52,066 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:33:52,069 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:33:52,071 INFO (null) DURATA QUERY FORMA: 2
+2018-06-15 15:33:52,073 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:33:52,075 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:33:52,261 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:33:52,261 INFO (andreab) UNLOCK the lexical entry related to aglannuovo_aoc_lemma
+2018-06-15 15:33:52,261 INFO (andreab) LOCK the lexical entry related to aglannuovo_aoc_lemma
+2018-06-15 15:33:52,262 INFO (null) DURATA QUERY LEMMA: 1154
+2018-06-15 15:34:23,428 INFO (andreab) ADD empty Internal Documentation to form glans
+2018-06-15 15:34:27,571 INFO (andreab) SAVE new internal attestation (id DB: 393217) of glans
+2018-06-15 15:34:43,655 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 15:34:43,834 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:35:15,581 INFO (andreab) UPDATE Form name from glansn to glansn
+2018-06-15 15:35:16,299 INFO (andreab) UPDATE Form name from glansnuo to glansnuo
+2018-06-15 15:35:16,719 INFO (andreab) UPDATE Form name from glansnuo to glansnuo
+2018-06-15 15:35:17,143 INFO (andreab) UPDATE Form name from glansnuovo to glansnuovo
+2018-06-15 15:35:17,593 INFO (andreab) UPDATE Form name from glansnuovo to glansnuovo
+2018-06-15 15:35:19,591 INFO (andreab) UPDATE Form name from glansnuovo to glansnuovo
+2018-06-15 15:35:19,644 INFO (andreab) SAVE updated Form with renaming from glans to glansnuovo
+2018-06-15 15:35:34,140 INFO (andreab) SELECT Attestation Thes C of abelha
+2018-06-15 15:35:35,385 INFO (andreab) SELECT Attestation Ag.Thes A of glansnuovo
+2018-06-15 15:35:46,682 INFO (andreab) SELECT Lemma aglannuovo_aoc_lemma
+2018-06-15 15:35:47,644 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:35:47,646 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:35:47,650 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:35:47,651 INFO (null) DURATA QUERY FORMA: 0
+2018-06-15 15:35:47,653 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:35:47,654 INFO (null) DURATA QUERY FORMA: 0
+2018-06-15 15:35:47,844 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:35:47,844 INFO (andreab) UNLOCK the lexical entry related to aglannuovo_aoc_lemma
+2018-06-15 15:35:47,844 INFO (andreab) LOCK the lexical entry related to aglannuovo_aoc_lemma
+2018-06-15 15:35:47,844 INFO (null) DURATA QUERY LEMMA: 1163
+2018-06-15 15:36:10,654 INFO (andreab) SELECT Lemma membre_aoc_lemma
+2018-06-15 15:36:11,601 INFO (null) DURATA QUERY FORMA: 0
+2018-06-15 15:36:11,796 INFO (null) DURATA QUERY SENSO: 1
+2018-06-15 15:36:11,796 INFO (andreab) UNLOCK the lexical entry related to membre_aoc_lemma
+2018-06-15 15:36:11,796 INFO (andreab) LOCK the lexical entry related to membre_aoc_lemma
+2018-06-15 15:36:11,796 INFO (null) DURATA QUERY LEMMA: 1143
+2018-06-15 15:36:17,406 INFO (andreab) SELECT Lemma menta_aoc_lemma
+2018-06-15 15:36:18,374 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:36:18,376 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:36:18,378 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:36:18,380 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:36:18,381 INFO (null) DURATA QUERY FORMA: 0
+2018-06-15 15:36:18,383 INFO (null) DURATA QUERY FORMA: 1
+2018-06-15 15:36:18,573 INFO (null) DURATA QUERY SENSO: 0
+2018-06-15 15:36:18,573 INFO (andreab) UNLOCK the lexical entry related to menta_aoc_lemma
+2018-06-15 15:36:18,574 INFO (andreab) LOCK the lexical entry related to menta_aoc_lemma
+2018-06-15 15:36:18,574 INFO (null) DURATA QUERY LEMMA: 1169
+2018-06-15 15:36:46,521 INFO (andreab) ADD empty Internal Documentation to form מֶנטא
+2018-06-15 15:36:52,431 INFO (andreab) SAVE new internal attestation (id DB: 393218) of מֶנטא
+2018-06-15 15:37:02,867 INFO (andreab) RESET Attestation Search Filter 
+2018-06-15 15:37:03,017 INFO (andreab) SEARCH performed about attestation All type - external: false - internal: false - all: true - startsWith: 
+2018-06-15 15:37:49,805 INFO (andreab) All resources released 
+2018-06-15 15:37:49,805 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 15:56:30,921 INFO OmegaLex start
+2018-06-15 15:56:34,526 INFO OmegaLex start
+2018-06-15 15:56:40,104 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 16:03:59,377 INFO (andreab) All resources released 
+2018-06-15 16:03:59,377 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 17:33:14,620 INFO OmegaLex start
+2018-06-15 17:33:18,180 INFO OmegaLex start
+2018-06-15 17:37:31,739 INFO (andreab) logged in from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
+2018-06-15 17:38:00,932 INFO (andreab) All resources released 
+2018-06-15 17:38:00,933 INFO (andreab) logged out from Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0 on 127.0.0.1
